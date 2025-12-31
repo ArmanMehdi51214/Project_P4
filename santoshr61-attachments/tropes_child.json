@@ -1,0 +1,3577 @@
+[
+  {
+    "id": "TR_CYBER_001",
+    "name": "Neon-Fused Companion",
+    "parent_archetype": "Loyal Companion",
+    "description": "A hyper-loyal partner augmented with basic neural mesh links that keep them attuned to their chosen ally’s needs. They trail behind glowing signage, ready to shield or support at a moment’s notice.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_002",
+    "name": "Street Patch Engineer",
+    "parent_archetype": "Practical Fixer",
+    "description": "A pragmatic alley engineer carrying improvised repair kits for drones, implants, and failing cyberware. They move through the sprawl’s underbelly repairing what others have abandoned.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_003",
+    "name": "Rain-Quiet Medtech",
+    "parent_archetype": "Soft-Spoken Healer",
+    "description": "A gentle cyber-medic with luminescent nano-sutures who treats wounded runners in hidden clinics beneath flickering neon lights.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_004",
+    "name": "Chrome-Willed Commander",
+    "parent_archetype": "Visionary Commander",
+    "description": "A leader who broadcasts revolutionary visions through encrypted neural feeds, coordinating resistance cells across the megacity skyline.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_005",
+    "name": "Protocol Strategist",
+    "parent_archetype": "Pragmatic Strategist",
+    "description": "A tactician who uses predictive AI to determine optimal outcomes for street conflicts, treating every skirmish like a solvable algorithm.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_006",
+    "name": "Holo-Stage Populist",
+    "parent_archetype": "Charismatic Populist",
+    "description": "A magnetic AR performer whose digitally projected charisma rallies thousands to protest corporate oppression.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_007",
+    "name": "Sector Iron General",
+    "parent_archetype": "Authoritarian General",
+    "description": "A ruthless gang commander enforcing order through heavily armored enforcers and modified riot drones.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_008",
+    "name": "Reluctant Neon Leader",
+    "parent_archetype": "Reluctant Leader",
+    "description": "A worn-down citizen pushed reluctantly into leading a block's residents against corrupt megacorp policies.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_009",
+    "name": "Corporate Workflow Enforcer",
+    "parent_archetype": "Corporate Bureaucrat",
+    "description": "A middle-tier corp administrator obsessed with efficiency metrics, quietly enforcing policy with cold digital precision.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_010",
+    "name": "Chrome-Clad Barbarian",
+    "parent_archetype": "Warlord Barbarian",
+    "description": "A cyber-muscle warlord who rules the sprawl’s forgotten zones with brute strength enhanced by illicit implants.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+
+  {
+    "id": "TR_CYBER_011",
+    "name": "Grid Reformer",
+    "parent_archetype": "Civic Reformer",
+    "description": "A digital activist who infiltrates citywide systems to expose corruption and reprogram unjust municipal algorithms.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_012",
+    "name": "Basement Hermit Hacker",
+    "parent_archetype": "Wise Hermit",
+    "description": "An enigmatic hermit living in abandoned server rooms, offering cryptic wisdom to those desperate enough to seek them out.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_013",
+    "name": "Veteran Chrome-Soldier",
+    "parent_archetype": "Cynical Veteran",
+    "description": "A war-torn ex-mercenary wearing outdated cybernetics, training rookies while quietly expecting the worst from humanity.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_014",
+    "name": "Neon Nurture Mentor",
+    "parent_archetype": "Nurturing Teacher",
+    "description": "A kind instructor who educates children of the slums using scavenged AR instructional modules.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_015",
+    "name": "Viral-Code Zealot",
+    "parent_archetype": "Fanatical Zealot",
+    "description": "A cult leader who worships an evolving AI deity, spreading its gospel through memetic hacks and brainwave propaganda.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+
+  {
+    "id": "TR_CYBER_016",
+    "name": "Cortex Recluse",
+    "parent_archetype": "Detached Scholar-Mentor",
+    "description": "A solitary cybernetic scholar who studies societal algorithms from an isolated rooftop shelter, sharing insights only if asked correctly.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_017",
+    "name": "Drillframe Instructor",
+    "parent_archetype": "Tough Drill Instructor",
+    "description": "A harsh mercenary trainer who implants neural feedback chips that punish hesitation during combat drills.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+
+  {
+    "id": "TR_CYBER_018",
+    "name": "The Invisible Manipulator",
+    "parent_archetype": "Cold Manipulator",
+    "description": "A behind-the-scenes orchestrator who weaponizes personal data to ruin lives and reshape political outcomes without lifting a finger.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_019",
+    "name": "Augmented Outcast",
+    "parent_archetype": "Vengeful Outcast",
+    "description": "A heavily altered renegade bent on exacting revenge against corporations that exploited or discarded them.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_020",
+    "name": "Data-Leech Bureaucrat",
+    "parent_archetype": "Corrupt Bureaucrat",
+    "description": "A corrupt official who sells citizen data to black-market syndicates while pretending to maintain civic compliance.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+
+  {
+    "id": "TR_CYBER_021",
+    "name": "Neon-Edge Sadist",
+    "parent_archetype": "Chaotic Sadist",
+    "description": "A chaotic thrill-killer who livestreams violent escapades to anonymous audiences on the dark web.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_022",
+    "name": "Hardline Extremist",
+    "parent_archetype": "Idealistic Extremist",
+    "description": "A radical reformer who uses viral code strikes and drone assaults to push their ideological cause onto the masses.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_023",
+    "name": "Circuit Conspiracy Hunter",
+    "parent_archetype": "Paranoid Conspirator",
+    "description": "A frantic analyst convinced the megacorp network hides layers of secret algorithms aimed at controlling humanity.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+
+  {
+    "id": "TR_CYBER_024",
+    "name": "Black-Market Aug Dealer",
+    "parent_archetype": "Exploitative Merchant",
+    "description": "A shady trader selling uncertified implants, harvested cyberware, and illicit firmware to anyone with enough credits.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+
+  {
+    "id": "TR_CYBER_025",
+    "name": "Technocrat Overseer",
+    "parent_archetype": "Ice-Cold Technocrat",
+    "description": "A soulless systems administrator who runs city infrastructure purely through efficiency metrics, ignoring human consequences.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+
+  {
+    "id": "TR_CYBER_026",
+    "name": "Ghost-Frame Bodyguard",
+    "parent_archetype": "Stoic Bodyguard",
+    "description": "A silent guardian augmented with stealth-field implants, protecting VIPs through invisibility rather than intimidation.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_027",
+    "name": "Hover-Block Protector",
+    "parent_archetype": "Parental Protector",
+    "description": "A nurturing defender who uses domestic drones and soft-coded safety programs to shield vulnerable citizens from harm.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_028",
+    "name": "Algorithmic Constable",
+    "parent_archetype": "Lawful Constable",
+    "description": "A cyber-police officer equipped with predictive-policing modules, patrolling neon alleys by data probability rather than instinct.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+
+  {
+    "id": "TR_CYBER_029",
+    "name": "Territory Node Sentinel",
+    "parent_archetype": "Territorial Sentinel",
+    "description": "A vigilant defender claiming ownership over contested neighborhoods, using hacked drones to enforce invisible boundaries.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_030",
+    "name": "Sacrifice Protocol Guardian",
+    "parent_archetype": "Martyr Guardian",
+    "description": "A protector whose implants override self-preservation, enabling heroic last-standing defenses during corporate assaults.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+
+  {
+    "id": "TR_CYBER_031",
+    "name": "Gatekeeper of the Undernet",
+    "parent_archetype": "Guarded Gatekeeper",
+    "description": "A hardened administrator controlling access to secret digital networks, allowing passage only to trusted runners.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+
+  {
+    "id": "TR_CYBER_032",
+    "name": "Console Crawler",
+    "parent_archetype": "Timid Survivor",
+    "description": "A skittish tech scavenger hiding in abandoned VR cafes, selling tiny hacks to survive in a predatory neon world.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_033",
+    "name": "Scrapware Scavenger",
+    "parent_archetype": "Hardened Scavenger",
+    "description": "A relentless scavenger stripping broken drones, robotic limbs, and corporate scrap to survive another day.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_034",
+    "name": "Hydroponic Rooftop Farmer",
+    "parent_archetype": "Stoic Farmer",
+    "description": "A calm grower tending bioengineered vegetables in rooftop gardens lit by artificial neon sunlight.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+
+  {
+    "id": "TR_CYBER_035",
+    "name": "Refugee of Code Wars",
+    "parent_archetype": "Opportunistic Refugee",
+    "description": "A displaced survivor fleeing corporate skirmishes, thriving by quickly adapting to new gang-controlled districts.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_036",
+    "name": "Loyalist Echo",
+    "parent_archetype": "Last Loyalist",
+    "description": "The final believer in a dissolved activist movement, still transmitting encoded messages to anyone who may still listen.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+
+  {
+    "id": "TR_CYBER_037",
+    "name": "Data Archaeologist",
+    "parent_archetype": "Curious Researcher",
+    "description": "An obsessive scientist diving into forgotten databanks within abandoned corporate servers, hunting digital fossils.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_038",
+    "name": "Ethics-Free Gene Modder",
+    "parent_archetype": "Amoral Experimenter",
+    "description": "A rogue biotech tinkerer creating black-market augmentations inside cramped basements of the sprawl.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_039",
+    "name": "Archive Sentinel",
+    "parent_archetype": "Archivist Bureaucrat",
+    "description": "A record-obsessed archivist guarding data vaults from deletion, treating each file like sacred text.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_040",
+    "name": "Street Storycaster",
+    "parent_archetype": "Itinerant Storyteller",
+    "description": "A traveling AR performer broadcasting folk tales, resistance history, and covert warnings across the slums.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+
+  {
+    "id": "TR_CYBER_041",
+    "name": "Conspiracy Pattern Theorist",
+    "parent_archetype": "Anxious Theorist",
+    "description": "A jittery intellectual convinced megacorp AIs are subtly rewriting citizen behavior through subliminal AR cues.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+
+  {
+    "id": "TR_CYBER_042",
+    "name": "Run-Circuit Prankster",
+    "parent_archetype": "Playful Prankster",
+    "description": "A neon-loving mischief maker who hacks giant billboard signs to display jokes and street art mocking the corps.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_043",
+    "name": "Chrome Opportunist",
+    "parent_archetype": "Rogue Opportunist",
+    "description": "A quick-thinking hustler who trades stolen firmware, switching alliances constantly to stay ahead in the sprawl.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_044",
+    "name": "Masked Cortex Agent",
+    "parent_archetype": "Mask-Wearing Spy",
+    "description": "A covert agent whose shifting digital faceplate lets them bypass biometric scanners and slip into corp offices undetected.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+
+  {
+    "id": "TR_CYBER_045",
+    "name": "Laughtrack Saboteur",
+    "parent_archetype": "Cynical Jester",
+    "description": "A sarcastic trickster who exposes corrupt corporate dealings through comedic AR hijackings across public plazas.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_046",
+    "name": "Wildcard Grid Gambler",
+    "parent_archetype": "Chaos Gambler",
+    "description": "A risk-addicted gambler whose nanite-enhanced reflexes let them play incredibly dangerous VR games for huge stakes.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+  {
+    "id": "TR_CYBER_047",
+    "name": "Subversion Broadcaster",
+    "parent_archetype": "Subversive Satirist",
+    "description": "A digital dissident who streams anti-corporate satire, exposing political hypocrisy through sharp comedic edits.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+
+  {
+    "id": "TR_CYBER_048",
+    "name": "Neon Volunteer",
+    "parent_archetype": "Idealistic Volunteer",
+    "description": "A hopeful community helper distributing hacked med-bots and improvised defense tools to the oppressed districts.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+
+  {
+    "id": "TR_CYBER_049",
+    "name": "Slum Path Navigator",
+    "parent_archetype": "Streetwise Guide",
+    "description": "A savvy local who guides wanderers through shifting gang borders, unregulated markets, and hidden tunnels.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+
+  {
+    "id": "TR_CYBER_050",
+    "name": "Marketware Negotiator",
+    "parent_archetype": "Canny Trader",
+    "description": "A sharp-tongued street trader who haggles for cyberware upgrades, pirated firmware, and illicit hardware mods.",
+    "genre_tag": "Cyberpunk Sprawl"
+  },
+
+  {
+    "id": "TR_FANTASY_001",
+    "name": "Oathbound Companion of the Greenwood",
+    "parent_archetype": "Loyal Companion",
+    "description": "A steadfast ally sworn to protect their chosen partner, wielding a wooden charm blessed by forest spirits that strengthens their loyalty.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_002",
+    "name": "Runesmith Tinkerer",
+    "parent_archetype": "Practical Fixer",
+    "description": "A pragmatic craftsperson who repairs magical tools, reforges broken charms, and maintains enchanted devices using ancient runic techniques.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_003",
+    "name": "Quiet Grove Healer",
+    "parent_archetype": "Soft-Spoken Healer",
+    "description": "A gentle herbal mage who treats wounds with softly glowing potions and whispered incantations in peaceful woodland sanctuaries.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_004",
+    "name": "Highwind Commander",
+    "parent_archetype": "Visionary Commander",
+    "description": "A strategic leader who believes destiny has shown them visions of a kingdom reborn, guiding armies by prophecy and tactical brilliance.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_005",
+    "name": "Royal Battle Strategist",
+    "parent_archetype": "Pragmatic Strategist",
+    "description": "A tactical genius serving noble courts, known for realistic battle plans and strict discipline over magical and mundane forces alike.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_006",
+    "name": "Charmer of the Court",
+    "parent_archetype": "Charismatic Populist",
+    "description": "A magnetic storyteller and diplomat whose eloquence can unite guilds, resolve feuds, or even sway entire kingdoms.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_007",
+    "name": "Iron Oath General",
+    "parent_archetype": "Authoritarian General",
+    "description": "A rigid commander who enforces strict military law, wielding both sword and sorcery to impose order on unruly realms.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_008",
+    "name": "Reluctant Bearer of the Crown",
+    "parent_archetype": "Reluctant Leader",
+    "description": "A leader chosen by fate rather than desire, burdened with the duty of guiding their people despite deep self-doubt.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_009",
+    "name": "Guild Bureaucrat of Scrolls",
+    "parent_archetype": "Corporate Bureaucrat",
+    "description": "A strict record-keeper within a magical guild, ensuring regulations are followed and every spellbook is properly catalogued.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_010",
+    "name": "Barbarian of the Thunder Steppes",
+    "parent_archetype": "Warlord Barbarian",
+    "description": "A fierce chieftain of a nomadic tribe, blessed with storm-magic tattoos that spark during battle.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+
+  {
+    "id": "TR_FANTASY_011",
+    "name": "Reformer of the Crystal Council",
+    "parent_archetype": "Civic Reformer",
+    "description": "A political visionary advocating for magical rights and fair governance among wizards, knights, and citizens alike.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_012",
+    "name": "Hermit of the Whispering Peaks",
+    "parent_archetype": "Wise Hermit",
+    "description": "A solitary sage living high in the mountains, dispensing ancient wisdom to travelers who brave the climb.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_013",
+    "name": "Hardened Veteran of the Old War",
+    "parent_archetype": "Cynical Veteran",
+    "description": "A grizzled warrior haunted by memories of magical battles, training new fighters with hard-earned lessons.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_014",
+    "name": "Mentor of Meadow Spirits",
+    "parent_archetype": "Nurturing Teacher",
+    "description": "A gentle instructor who teaches the young to commune with sprites, fairies, and enchanted creatures of the wild.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_015",
+    "name": "Zealot of the Burning Sun",
+    "parent_archetype": "Fanatical Zealot",
+    "description": "A fervent devotee of a sun deity, preaching purity through fire and scorning all who wield forbidden magic.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+
+  {
+    "id": "TR_FANTASY_016",
+    "name": "Towerbound Scholar-Mentor",
+    "parent_archetype": "Detached Scholar-Mentor",
+    "description": "A reclusive mage-scholar who tutors apprentices from atop an arcane tower filled with floating tomes.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_017",
+    "name": "Iron-Drill Instructor",
+    "parent_archetype": "Tough Drill Instructor",
+    "description": "A relentless knight-trainer whose brutal regimen pushes trainees past their limits, forging elite warriors.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+
+  {
+    "id": "TR_FANTASY_018",
+    "name": "Whispercloak Manipulator",
+    "parent_archetype": "Cold Manipulator",
+    "description": "A court schemer who manipulates nobles through enchanted illusions and carefully crafted half-truths.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_019",
+    "name": "Cursed Exile",
+    "parent_archetype": "Vengeful Outcast",
+    "description": "A wronged wanderer marked by a lingering curse, hunting those who betrayed and banished them.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_020",
+    "name": "Scroll-Forging Bureaucrat",
+    "parent_archetype": "Corrupt Bureaucrat",
+    "description": "A scribe who alters magical contracts, bribes judges with enchanted ink, and profits from manipulating royal law.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+
+  {
+    "id": "TR_FANTASY_021",
+    "name": "Carnival of Chaos Herald",
+    "parent_archetype": "Chaotic Sadist",
+    "description": "A mad performer who spreads terror with cursed instruments, turning every festival into a deadly spectacle.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_022",
+    "name": "Radical Prophet of the New Dawn",
+    "parent_archetype": "Idealistic Extremist",
+    "description": "A revolutionary mage who believes only the destruction of current kingdoms can usher in a righteous age.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_023",
+    "name": "Runestone Conspirator",
+    "parent_archetype": "Paranoid Conspirator",
+    "description": "A jittery hermit convinced ancient runes foretell a royal betrayal, endlessly researching hidden signs.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+
+  {
+    "id": "TR_FANTASY_024",
+    "name": "Merchant of Enchanted Trinkets",
+    "parent_archetype": "Exploitative Merchant",
+    "description": "A cunning trader who sells magical items of questionable origin, always profiting regardless of the danger they cause.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_025",
+    "name": "Frost-Blood Technocrat of the Arcane",
+    "parent_archetype": "Ice-Cold Technocrat",
+    "description": "A detached arcane engineer who treats magic as machinery, optimizing spellcraft without regard for tradition or morality.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+
+  {
+    "id": "TR_FANTASY_026",
+    "name": "Shieldwall Guardian",
+    "parent_archetype": "Stoic Bodyguard",
+    "description": "A silent protector whose enchanted armor glows with runic power as they defend their ward.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_027",
+    "name": "Broodmother Protector",
+    "parent_archetype": "Parental Protector",
+    "description": "A fiercely nurturing guardian who shelters young beasts or children gifted with rare magical talent.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_028",
+    "name": "Constable of the Silver Sigil",
+    "parent_archetype": "Lawful Constable",
+    "description": "An officer of magical law who enforces order through enchanted restraints and sigil-bound warrants.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_029",
+    "name": "Border Grove Sentinel",
+    "parent_archetype": "Territorial Sentinel",
+    "description": "A protector of ancient forests who defends sacred boundaries from encroaching kingdoms.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_030",
+    "name": "Sacrificial Lightbearer",
+    "parent_archetype": "Martyr Guardian",
+    "description": "A holy protector willing to give their life to defend others, channeling divine radiance in battle.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+
+  {
+    "id": "TR_FANTASY_031",
+    "name": "Keeper of the Hidden Gate",
+    "parent_archetype": "Guarded Gatekeeper",
+    "description": "A stoic warden safeguarding the entrance to an ancient realm, allowing passage only to the worthy.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+
+  {
+    "id": "TR_FANTASY_032",
+    "name": "Frightened Hedge-Witch",
+    "parent_archetype": "Timid Survivor",
+    "description": "A shy practitioner of minor magic who avoids danger by living on the outskirts and providing small charms to locals.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_033",
+    "name": "Scrap-Trail Forager",
+    "parent_archetype": "Hardened Scavenger",
+    "description": "A rugged wanderer who searches old battlegrounds for magical remnants and lost relic fragments.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_034",
+    "name": "Farmland Mage",
+    "parent_archetype": "Stoic Farmer",
+    "description": "A patient farmer who uses simple, practical magic to nourish crops and protect fields from minor spirits.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_035",
+    "name": "Wandering Refugee of the Blightlands",
+    "parent_archetype": "Opportunistic Refugee",
+    "description": "A survivor escaping lands corrupted by magical plague, leveraging adaptability to carve out a new life.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_036",
+    "name": "Last Oathbound Knight",
+    "parent_archetype": "Last Loyalist",
+    "description": "A lone knight clinging to the honor of a fallen order, still upholding vows forgotten by all others.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+
+  {
+    "id": "TR_FANTASY_037",
+    "name": "Curiosity-Seeker Mage",
+    "parent_archetype": "Curious Researcher",
+    "description": "A wide-eyed scholar who explores forbidden ruins to uncover magical secrets lost to time.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_038",
+    "name": "Morality-Free Spellwright",
+    "parent_archetype": "Amoral Experimenter",
+    "description": "A reckless arcane innovator who tests dangerous enchantments without regard for consequences.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_039",
+    "name": "Archive Lantern-Keeper",
+    "parent_archetype": "Archivist Bureaucrat",
+    "description": "A meticulous caretaker of ancient libraries, ensuring no relic or grimoire ever leaves its appointed shelf.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_040",
+    "name": "Wandering Taleweaver",
+    "parent_archetype": "Itinerant Storyteller",
+    "description": "A roving bard who carries magical instruments capable of animating stories into shimmering illusions.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_041",
+    "name": "Rune-Fretted Theorist",
+    "parent_archetype": "Anxious Theorist",
+    "description": "A nervous philosopher convinced ancient sigils predict doom, constantly revising theories to avert unseen catastrophe.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+
+  {
+    "id": "TR_FANTASY_042",
+    "name": "Meadow Guardian Companion",
+    "parent_archetype": "Loyal Companion",
+    "description": "A loyal squire attuned to nature spirits, always ready to defend their bonded hero with earthy determination.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_043",
+    "name": "Fey-Lit Guide",
+    "parent_archetype": "Streetwise Guide",
+    "description": "An expert wanderer who navigates enchanted forests and hidden fairy paths, warning travelers of unseen dangers.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_044",
+    "name": "Silver-Tongued Trader",
+    "parent_archetype": "Canny Trader",
+    "description": "A clever merchant dealing in rare magical reagents, always negotiating favorable trades through charm and wit.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_045",
+    "name": "Wandering Blessing-Bearer",
+    "parent_archetype": "Idealistic Volunteer",
+    "description": "A kind traveler who shares minor blessings and protective charms with struggling villages.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+
+  {
+    "id": "TR_FANTASY_046",
+    "name": "Laughing Court Jester",
+    "parent_archetype": "Cynical Jester",
+    "description": "A sardonic performer who exposes noble hypocrisy through magically enhanced comedy that cuts deeper than any blade.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_047",
+    "name": "Wild-Fate Gambler",
+    "parent_archetype": "Chaos Gambler",
+    "description": "A daring wanderer who stakes fortunes on enchanted dice and unpredictable spells, embracing destiny’s chaos.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_048",
+    "name": "Satirical Spellbard",
+    "parent_archetype": "Subversive Satirist",
+    "description": "A magically gifted troubadour who uses satire to undercut tyrant kings and corrupt nobles.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+
+  {
+    "id": "TR_FANTASY_049",
+    "name": "Fey-Linked Spy",
+    "parent_archetype": "Mask-Wearing Spy",
+    "description": "A covert operative capable of shifting appearances using illusion magic taught by fickle fae mentors.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+  {
+    "id": "TR_FANTASY_050",
+    "name": "Opportunistic Relic Hunter",
+    "parent_archetype": "Rogue Opportunist",
+    "description": "A treasure-seeking wanderer quick to exploit gaps in dungeon defenses and temple wards for personal gain.",
+    "genre_tag": "High Fantasy & Magic"
+  },
+
+  {
+    "id": "TR_WASTE_001",
+    "name": "Ash-Bonded Companion",
+    "parent_archetype": "Loyal Companion",
+    "description": "A fiercely dedicated survivor who follows their chosen partner across scorched highways and irradiated ruins, bound by loyalty forged through shared catastrophe.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_002",
+    "name": "Scrapline Fixer",
+    "parent_archetype": "Practical Fixer",
+    "description": "A resourceful mechanic who can repair anything from cracked Geiger counters to sputtering desert bikes using rusted tools and scavenged parts.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_003",
+    "name": "Dust-Quiet Healer",
+    "parent_archetype": "Soft-Spoken Healer",
+    "description": "A gentle medic who gathers rare herbs clinging to life in the wasteland, creating poultices that soothe burns, radiation sickness, and despair.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_004",
+    "name": "Prophet of the Burned Horizon",
+    "parent_archetype": "Visionary Commander",
+    "description": "A leader who believes they have glimpsed a future where the world is reborn, guiding their followers through wasteland trials to fulfill that destiny.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_005",
+    "name": "Route-Plot Strategist",
+    "parent_archetype": "Pragmatic Strategist",
+    "description": "A calculating planner who charts safe pathways through raider zones, radiation fields, and collapsing terrain with brutal practicality.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_006",
+    "name": "Charmer of the Scrap Settlements",
+    "parent_archetype": "Charismatic Populist",
+    "description": "A persuasive wanderer who can sway desperate communities with tales of hope, forging alliances in a world where trust is rare.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_007",
+    "name": "War-Rig General",
+    "parent_archetype": "Authoritarian General",
+    "description": "A ruthless commander who leads an armored convoy of raiders, enforcing strict discipline and violent order amid the lawless sands.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_008",
+    "name": "Reluctant Convoy Leader",
+    "parent_archetype": "Reluctant Leader",
+    "description": "A hesitant survivor who guides a group across desolate plains only because no one else can, constantly questioning their worth.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_009",
+    "name": "Registry Keeper of the Ruins",
+    "parent_archetype": "Corporate Bureaucrat",
+    "description": "A former administrator who still enforces old-world rules, maintaining makeshift ledgers and ration quotas in collapsed settlements.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_010",
+    "name": "Tribal Warlord of the Red Dunes",
+    "parent_archetype": "Warlord Barbarian",
+    "description": "A brutal desert chieftain riding atop scavenged war machines, revered and feared for their raw, unrestrained power.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+
+  {
+    "id": "TR_WASTE_011",
+    "name": "Civic Reclaimer",
+    "parent_archetype": "Civic Reformer",
+    "description": "A survivor fighting to restore order and rebuild civilization, rallying scattered communities with speeches of renewal.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_012",
+    "name": "The Tunnel Hermit",
+    "parent_archetype": "Wise Hermit",
+    "description": "A quiet sage living in the shadows of collapsed subway tunnels, providing cryptic advice shaped by years of watching humanity from afar.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_013",
+    "name": "Veteran of the Acid Wars",
+    "parent_archetype": "Cynical Veteran",
+    "description": "A hardened fighter who survived chemical firestorms and mutated monstrosities, teaching newcomers how not to die foolishly.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_014",
+    "name": "Caretaker of the Last Garden",
+    "parent_archetype": "Nurturing Teacher",
+    "description": "A gentle guardian teaching young survivors how to cultivate hardy crops in poisoned soil, preserving hope through agriculture.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_015",
+    "name": "Zealot of the Glow",
+    "parent_archetype": "Fanatical Zealot",
+    "description": "A fervent preacher who interprets radiation as divine punishment and blessing, recruiting converts through fiery sermons.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+
+  {
+    "id": "TR_WASTE_016",
+    "name": "Dust Scholar",
+    "parent_archetype": "Detached Scholar-Mentor",
+    "description": "A reclusive intellectual collecting knowledge from pre-collapse ruins, teaching only those who bring offerings of old-world texts.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_017",
+    "name": "Spine-Breaker Instructor",
+    "parent_archetype": "Tough Drill Instructor",
+    "description": "A merciless trainer who toughens recruits using brutal drills designed to prepare them for wasteland violence and scarcity.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+
+  {
+    "id": "TR_WASTE_018",
+    "name": "Ash-Veil Manipulator",
+    "parent_archetype": "Cold Manipulator",
+    "description": "A schemer who controls settlements through ration control, blackmail, and psychological pressure, never dirtying their hands.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_019",
+    "name": "The Vengeful Husk",
+    "parent_archetype": "Vengeful Outcast",
+    "description": "A scarred wanderer driven solely by revenge against the warbands who slaughtered their family in the collapse's aftermath.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_020",
+    "name": "Ration Ledger Crook",
+    "parent_archetype": "Corrupt Bureaucrat",
+    "description": "A manipulator who secretly skims precious supplies from ration stores, trading them to raiders in exchange for protection.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+
+  {
+    "id": "TR_WASTE_021",
+    "name": "Blood Carnival Sadist",
+    "parent_archetype": "Chaotic Sadist",
+    "description": "A deranged entertainer traveling between settlements, forcing captives to perform cruel games for the amusement of desperate crowds.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_022",
+    "name": "Doctrine of the New Flame",
+    "parent_archetype": "Idealistic Extremist",
+    "description": "A radical who believes civilization must be purged entirely so that a pure world can emerge from the ashes.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_023",
+    "name": "Watcher of the Night Sirens",
+    "parent_archetype": "Paranoid Conspirator",
+    "description": "A jittery observer convinced mutated creatures send coded signals at night, warning of an unseen intelligence behind the chaos.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+
+  {
+    "id": "TR_WASTE_024",
+    "name": "Water-Baron Merchant",
+    "parent_archetype": "Exploitative Merchant",
+    "description": "A ruthless trader who hoards clean water and sells it at exorbitant prices, holding entire communities hostage through scarcity.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_025",
+    "name": "Steel-Mind Technocrat",
+    "parent_archetype": "Ice-Cold Technocrat",
+    "description": "A cold engineer striving to rebuild infrastructure with zero regard for human cost, treating survivors as expendable variables.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+
+  {
+    "id": "TR_WASTE_026",
+    "name": "Shield-Carapace Guardian",
+    "parent_archetype": "Stoic Bodyguard",
+    "description": "A protector whose armor is scavenged from scrap plating and mutated beast hides, unflinching in the face of ambushes.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_027",
+    "name": "Mother of the Lost",
+    "parent_archetype": "Parental Protector",
+    "description": "A caring guardian who shelters orphaned children of the wasteland, defending them fiercely against raiders and beasts.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_028",
+    "name": "Rust Constable",
+    "parent_archetype": "Lawful Constable",
+    "description": "A badge-wearing survivor trying to enforce justice using salvaged rules and improvised weapons in lawless towns.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_029",
+    "name": "Boundary Sentinel",
+    "parent_archetype": "Territorial Sentinel",
+    "description": "A hardened defender who claims a swath of desert as sacred land, killing trespassers to protect dwindling resources.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_030",
+    "name": "Sacrificial Bulwark",
+    "parent_archetype": "Martyr Guardian",
+    "description": "A selfless defender who willingly absorbs the worst dangers — mutant swarms, irradiated storms — to protect their community.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+
+  {
+    "id": "TR_WASTE_031",
+    "name": "Gate Warden of the Last Shelter",
+    "parent_archetype": "Guarded Gatekeeper",
+    "description": "A grim sentinel who controls entry to an underground refuge, turning away all but the truly worthy to preserve safety.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+
+  {
+    "id": "TR_WASTE_032",
+    "name": "Dust-Choked Runner",
+    "parent_archetype": "Timid Survivor",
+    "description": "A frightened courier darting between ruins with messages or supplies, surviving through stealth and sheer fear.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_033",
+    "name": "Rad-Scavenger",
+    "parent_archetype": "Hardened Scavenger",
+    "description": "A survivor comfortable navigating radiation hot zones, stripping valuable parts from collapsed bunkers and wrecked labs.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_034",
+    "name": "Irrigated Plot Farmer",
+    "parent_archetype": "Stoic Farmer",
+    "description": "A determined grower who coaxes crops from poisoned soil using handcrafted irrigation rigs and sheer stubbornness.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_035",
+    "name": "Wasteland Refugee",
+    "parent_archetype": "Opportunistic Refugee",
+    "description": "A wanderer pushed from one shattered territory to another, constantly adapting to new tribes, threats, and ecological collapse.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_036",
+    "name": "Last Standard-Bearer",
+    "parent_archetype": "Last Loyalist",
+    "description": "The final surviving member of a fallen faction, carrying a tattered banner and the memory of promises long forgotten by others.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+
+  {
+    "id": "TR_WASTE_037",
+    "name": "Ruins Researcher",
+    "parent_archetype": "Curious Researcher",
+    "description": "A scholar obsessed with uncovering pre-collapse technologies, sifting through abandoned labs and databanks for lost knowledge.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_038",
+    "name": "Morality-Absent Gene Tinkerer",
+    "parent_archetype": "Amoral Experimenter",
+    "description": "A rogue biotech survivor experimenting on themselves and others using unstable pre-war genetic tools.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_039",
+    "name": "Archive Ruin-Watcher",
+    "parent_archetype": "Archivist Bureaucrat",
+    "description": "A record-obsessed caretaker guarding the last intact archive vault, refusing to let chaos erase humanity’s history.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_040",
+    "name": "Wasteland Story-Walker",
+    "parent_archetype": "Itinerant Storyteller",
+    "description": "A traveling bard who gathers tales of survival, spreading news, myths, and warnings across scattered settlements.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_041",
+    "name": "Doom-Watcher Theorist",
+    "parent_archetype": "Anxious Theorist",
+    "description": "A nervous thinker convinced the collapse is only the first phase of a larger catastrophe yet to come, deciphering signs obsessively.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+
+  {
+    "id": "TR_WASTE_042",
+    "name": "Scrap Blade Prankster",
+    "parent_archetype": "Playful Prankster",
+    "description": "A mischievous scavenger who plays tricks on raiders, planting traps and forging humorous graffiti in ruined outposts.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_043",
+    "name": "Opportunistic Scavenger-Rogue",
+    "parent_archetype": "Rogue Opportunist",
+    "description": "A fast-talking loot-grabber who steals from wrecks before factions arrive, disappearing the moment danger surfaces.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_044",
+    "name": "Dust-Mask Spy",
+    "parent_archetype": "Mask-Wearing Spy",
+    "description": "A covert infiltrator who slips between factions wearing concealing respirators and ragged cloaks, trading information for supplies.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_045",
+    "name": "Wasteland Jester",
+    "parent_archetype": "Cynical Jester",
+    "description": "A sardonic wanderer who mocks warlords and settlements alike, using dark humor to expose cruelty and folly.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_046",
+    "name": "Rust-Dice Gambler",
+    "parent_archetype": "Chaos Gambler",
+    "description": "A thrill-seeker betting scavenged goods, weapons, and sometimes lives on unpredictable games played in raider camps.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+  {
+    "id": "TR_WASTE_047",
+    "name": "Satirical Scrap Bard",
+    "parent_archetype": "Subversive Satirist",
+    "description": "A sharp-tongued musician who wanders between settlements, using caustic humor to undermine tyrannical warlords.",
+    "genre_tag": "Post-Apocalyptic Wasteland"
+  },
+
+  {
+    "id": "TR_SPACE_001",
+    "name": "Starsworn Companion",
+    "parent_archetype": "Loyal Companion",
+    "description": "A devoted starfarer who pledges unwavering loyalty to their chosen captain, navigating cosmic storms and void anomalies at their side.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_002",
+    "name": "Hullpatch Mechanic",
+    "parent_archetype": "Practical Fixer",
+    "description": "A ship technician who keeps aging starcraft alive using improvised tools and scavenged parts from derelict vessels.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_003",
+    "name": "Void-Healer Adept",
+    "parent_archetype": "Soft-Spoken Healer",
+    "description": "A gentle medic trained in xenobiology, capable of mending both human and alien physiology with soft luminescent treatments.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_004",
+    "name": "Constellation Commander",
+    "parent_archetype": "Visionary Commander",
+    "description": "A leader who sees the galaxy as a tapestry of destiny, guiding fleets through grand campaigns with prophetic precision.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_005",
+    "name": "Galactic Tactician",
+    "parent_archetype": "Pragmatic Strategist",
+    "description": "A master strategist who calculates hyperspace assaults and political maneuvers with cold, tactical logic.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_006",
+    "name": "Sector Populist Orator",
+    "parent_archetype": "Charismatic Populist",
+    "description": "A magnetic voice inspiring oppressed star systems to rebel against imperial rule through stirring broadcasts.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_007",
+    "name": "High Admiral of Iron Suns",
+    "parent_archetype": "Authoritarian General",
+    "description": "A ruthless fleet general who commands brutal discipline among starship crews, enforcing order with orbital firepower.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_008",
+    "name": "Reluctant Starship Captain",
+    "parent_archetype": "Reluctant Leader",
+    "description": "A hesitant commander who only captains a vessel because no one else survived, still unsure if they deserve the bridge.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_009",
+    "name": "Imperial Records Bureaucrat",
+    "parent_archetype": "Corporate Bureaucrat",
+    "description": "A paperwork-obsessed official who manages interstellar trade permits and population logs with irritating precision.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_010",
+    "name": "Barbarian of the Outer Belt",
+    "parent_archetype": "Warlord Barbarian",
+    "description": "A tribal war-chieftain born in asteroid colonies, leading raiding ships cobbled together from scrap and stolen tech.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+
+  {
+    "id": "TR_SPACE_011",
+    "name": "Galactic Reformer",
+    "parent_archetype": "Civic Reformer",
+    "description": "A political visionary seeking to democratize the galaxy, lobbying star systems to break from imperial oppression.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_012",
+    "name": "Void Hermit",
+    "parent_archetype": "Wise Hermit",
+    "description": "A mysterious sage residing on an isolated moon, offering cryptic insight to travelers seeking truth in the cosmos.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_013",
+    "name": "Battle-Hardened Veteran of the Nebula Wars",
+    "parent_archetype": "Cynical Veteran",
+    "description": "A soldier scarred by plasma storms and alien sieges, training recruits while quietly expecting everything to go wrong.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_014",
+    "name": "Starborne Mentor",
+    "parent_archetype": "Nurturing Teacher",
+    "description": "A gentle instructor aboard a generation starship, raising children to adapt to zero gravity and alien cultures.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_015",
+    "name": "Flame of the Cosmic Creed",
+    "parent_archetype": "Fanatical Zealot",
+    "description": "A fervent missionary of an interstellar religion, preaching that the galaxy must burn before it can be reborn.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+
+  {
+    "id": "TR_SPACE_016",
+    "name": "Archivium Mentor",
+    "parent_archetype": "Detached Scholar-Mentor",
+    "description": "A remote scholar aboard a drifting library ship, teaching cosmic theory but withholding emotional connection.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_017",
+    "name": "Gravity Drill Sergeant",
+    "parent_archetype": "Tough Drill Instructor",
+    "description": "A brutal trainer who conditions soldiers in variable-gravity chambers, forging elite zero-G combatants.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+
+  {
+    "id": "TR_SPACE_018",
+    "name": "Nebula Manipulator",
+    "parent_archetype": "Cold Manipulator",
+    "description": "A strategist who pulls political strings from deep space, using intercepted transmissions to engineer outcomes in distant sectors.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_019",
+    "name": "Exiled Starborn Avenger",
+    "parent_archetype": "Vengeful Outcast",
+    "description": "A wanderer cast out of their homeworld, now seeking revenge against those who engineered their exile.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_020",
+    "name": "Log-Forger Bureaucrat",
+    "parent_archetype": "Corrupt Bureaucrat",
+    "description": "An official who manipulates starship registries, smuggling illegal goods through falsified supply records.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+
+  {
+    "id": "TR_SPACE_021",
+    "name": "The Galactic Sadist",
+    "parent_archetype": "Chaotic Sadist",
+    "description": "A violent renegade who enjoys causing chaos aboard orbital platforms, often broadcasting cruelty to thrill hungry audiences.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_022",
+    "name": "Starfire Extremist",
+    "parent_archetype": "Idealistic Extremist",
+    "description": "A revolutionary who believes the Galactic Empire must fall at any cost, even if entire star systems burn in the process.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_023",
+    "name": "Cosmic Conspirator",
+    "parent_archetype": "Paranoid Conspirator",
+    "description": "A frantic analyst convinced alien signals conceal a plan to overwrite humanity’s place in the cosmos.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+
+  {
+    "id": "TR_SPACE_024",
+    "name": "Hyperlane Merchant Prince",
+    "parent_archetype": "Exploitative Merchant",
+    "description": "A ruthless void-trader who monopolizes access to rare hyperspace routes, extorting desperate travelers.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_025",
+    "name": "Cryo-Mind Technocrat",
+    "parent_archetype": "Ice-Cold Technocrat",
+    "description": "A calculating overseer who manages planetary infrastructure from cryogenic stasis, awakening only to make optimization decisions.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+
+  {
+    "id": "TR_SPACE_026",
+    "name": "Quantum Bodyguard",
+    "parent_archetype": "Stoic Bodyguard",
+    "description": "A silent protector equipped with phase-shifting armor, capable of intercepting assassination attempts in microseconds.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_027",
+    "name": "Starseed Protector",
+    "parent_archetype": "Parental Protector",
+    "description": "A nurturing guardian who shelters young telepaths or alien hatchlings, raising them aboard wandering starcraft.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_028",
+    "name": "Constable of the Void Lanes",
+    "parent_archetype": "Lawful Constable",
+    "description": "A dutiful officer enforcing hyperspace traffic law, chasing smugglers between star-maps and nebulae.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_029",
+    "name": "Asteroid Sentinel",
+    "parent_archetype": "Territorial Sentinel",
+    "description": "A fiercely territorial guardian of an asteroid colony, defending their fragment of rock with improvised railguns.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_030",
+    "name": "Sacrifice-Class Guardian",
+    "parent_archetype": "Martyr Guardian",
+    "description": "A defender trained to detonate their own suit reactor to protect civilians during catastrophic invasions.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+
+  {
+    "id": "TR_SPACE_031",
+    "name": "Gatekeeper of the Wormhole Shrine",
+    "parent_archetype": "Guarded Gatekeeper",
+    "description": "A stoic sentinel guarding a sacred wormhole that leads to uncharted space, granting passage only to those deemed worthy.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+
+  {
+    "id": "TR_SPACE_032",
+    "name": "Skittish Driftling",
+    "parent_archetype": "Timid Survivor",
+    "description": "A frightened wanderer drifting between abandoned stations, living on scraps and avoiding patrols at all costs.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_033",
+    "name": "Scrapper of the Stargrave Fields",
+    "parent_archetype": "Hardened Scavenger",
+    "description": "A rugged scavenger who picks apart the ruins of starship battles, hauling salvage from irradiated wrecks.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_034",
+    "name": "Hydro-Dome Agrarian",
+    "parent_archetype": "Stoic Farmer",
+    "description": "A quiet grower tending nutrient domes on barren moons, sustaining outposts with their reliable harvests.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_035",
+    "name": "Warp-Displaced Refugee",
+    "parent_archetype": "Opportunistic Refugee",
+    "description": "A survivor ejected from a collapsing star system, adapting to life across alien cultures and shifting alliances.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_036",
+    "name": "Last Loyal Banner-Soldier",
+    "parent_archetype": "Last Loyalist",
+    "description": "The lone surviving defender of a destroyed planetary fleet, carrying their faction’s banner into exile.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+
+  {
+    "id": "TR_SPACE_037",
+    "name": "Archivist of Celestial Ruins",
+    "parent_archetype": "Curious Researcher",
+    "description": "A scholar obsessed with decoding messages left in ancient alien structures drifting through space.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_038",
+    "name": "Bioforge Experimenter",
+    "parent_archetype": "Amoral Experimenter",
+    "description": "A reckless scientist manipulating alien DNA to create hybrid organisms for profit or warfare.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_039",
+    "name": "Starlit Archive Keeper",
+    "parent_archetype": "Archivist Bureaucrat",
+    "description": "A meticulous caretaker maintaining historical archives aboard a drifting library station.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_040",
+    "name": "Nebula Talesinger",
+    "parent_archetype": "Itinerant Storyteller",
+    "description": "A wandering bard traveling by starship, weaving legends of cosmic wonders and galactic tragedies.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_041",
+    "name": "Galactic Collapse Theorist",
+    "parent_archetype": "Anxious Theorist",
+    "description": "A nervous scholar convinced the galaxy is on the brink of systemic collapse due to dark matter anomalies.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+
+  {
+    "id": "TR_SPACE_042",
+    "name": "Orbit-Hopper Prankster",
+    "parent_archetype": "Playful Prankster",
+    "description": "A mischievous spacer who broadcasts harmless pranks onto orbital billboards, mocking imperial propaganda.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_043",
+    "name": "Smuggler Opportunist",
+    "parent_archetype": "Rogue Opportunist",
+    "description": "A quick-talking void-runner who transports illegal cargo across unruly hyperspace routes, switching allegiances often.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_044",
+    "name": "Phase-Mask Agent",
+    "parent_archetype": "Mask-Wearing Spy",
+    "description": "A covert operative with a holographic disguise system enabling them to infiltrate alien embassies undetected.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_045",
+    "name": "Star Court Jester",
+    "parent_archetype": "Cynical Jester",
+    "description": "A sardonic entertainer traveling between star-courts, exposing corruption through sharp wit and biting humor.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_046",
+    "name": "Quantum Gambler",
+    "parent_archetype": "Chaos Gambler",
+    "description": "A thrill-seeking risk-taker who bets in quantum casinos where probability itself becomes a weapon.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_047",
+    "name": "Subspace Satirist",
+    "parent_archetype": "Subversive Satirist",
+    "description": "A rogue broadcaster who beams comedic subversion into restricted imperial channels, inspiring rebellion.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+
+  {
+    "id": "TR_SPACE_048",
+    "name": "Cosmic Volunteer",
+    "parent_archetype": "Idealistic Volunteer",
+    "description": "A compassionate traveler distributing food, medicine, and hope to planets ravaged by war or famine.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_049",
+    "name": "Star Path Navigator",
+    "parent_archetype": "Streetwise Guide",
+    "description": "A savvy pilot familiar with black-market hyperspace routes and uncharted nebula shortcuts.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_SPACE_050",
+    "name": "Galactic Barter Merchant",
+    "parent_archetype": "Canny Trader",
+    "description": "A shrewd negotiator dealing in rare artifacts, exotic star-ores, and alien curiosities across distant systems.",
+    "genre_tag": "Space Opera & Galactic Empire"
+  },
+  {
+    "id": "TR_COSMIC_001",
+    "name": "Abyss-Touched Visionary Commander",
+    "parent_archetype": "Visionary Commander",
+    "description": "A visionary commander who has brushed against incomprehensible entities. They lead fractured followers against threats no one fully understands, guided by visions and signs that might be madness.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_002",
+    "name": "Star-Maddened Pragmatic Strategist",
+    "parent_archetype": "Pragmatic Strategist",
+    "description": "A pragmatic strategist who has brushed against incomprehensible entities. They lead fractured followers against threats no one fully understands, guided by visions and signs that might be madness.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_003",
+    "name": "Glyph-Scarred Charismatic Populist",
+    "parent_archetype": "Charismatic Populist",
+    "description": "A charismatic populist who has brushed against incomprehensible entities. They lead fractured followers against threats no one fully understands, guided by visions and signs that might be madness.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_004",
+    "name": "Void-Worn Authoritarian General",
+    "parent_archetype": "Authoritarian General",
+    "description": "An authoritarian general who has brushed against incomprehensible entities. They lead fractured followers against threats no one fully understands, guided by visions and signs that might be madness.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_005",
+    "name": "Dream-Drunk Reluctant Leader",
+    "parent_archetype": "Reluctant Leader",
+    "description": "A reluctant leader who has brushed against incomprehensible entities. They lead fractured followers against threats no one fully understands, guided by visions and signs that might be madness.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_006",
+    "name": "Veil-Torn Corporate Bureaucrat",
+    "parent_archetype": "Corporate Bureaucrat",
+    "description": "A corporate bureaucrat who has brushed against incomprehensible entities. They lead fractured followers against threats no one fully understands, guided by visions and signs that might be madness.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_007",
+    "name": "Whisper-Crowned Warlord Barbarian",
+    "parent_archetype": "Warlord Barbarian",
+    "description": "A warlord barbarian who has brushed against incomprehensible entities. They lead fractured followers against threats no one fully understands, guided by visions and signs that might be madness.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_008",
+    "name": "Eldritch-Bound Civic Reformer",
+    "parent_archetype": "Civic Reformer",
+    "description": "A civic reformer who has brushed against incomprehensible entities. They lead fractured followers against threats no one fully understands, guided by visions and signs that might be madness.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+
+  {
+    "id": "TR_COSMIC_009",
+    "name": "Sanity-Frayed Wise Hermit",
+    "parent_archetype": "Wise Hermit",
+    "description": "A wise hermit who has brushed against incomprehensible entities. They try to guide others through creeping insanity, teaching how to survive contact with what should not exist.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_010",
+    "name": "Rift-Walker Cynical Veteran",
+    "parent_archetype": "Cynical Veteran",
+    "description": "A cynical veteran who has brushed against incomprehensible entities. They try to guide others through creeping insanity, teaching how to survive contact with what should not exist.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+
+  {
+    "id": "TR_COSMIC_011",
+    "name": "Abyss-Touched Nurturing Teacher",
+    "parent_archetype": "Nurturing Teacher",
+    "description": "A nurturing teacher who has brushed against incomprehensible entities. They try to guide others through creeping insanity, teaching how to survive contact with what should not exist.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_012",
+    "name": "Star-Maddened Fanatical Zealot",
+    "parent_archetype": "Fanatical Zealot",
+    "description": "A fanatical zealot who has brushed against incomprehensible entities. They try to guide others through creeping insanity, teaching how to survive contact with what should not exist.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_013",
+    "name": "Glyph-Scarred Detached Scholar-Mentor",
+    "parent_archetype": "Detached Scholar-Mentor",
+    "description": "A detached scholar-mentor who has brushed against incomprehensible entities. They try to guide others through creeping insanity, teaching how to survive contact with what should not exist.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_014",
+    "name": "Void-Worn Tough Drill Instructor",
+    "parent_archetype": "Tough Drill Instructor",
+    "description": "A tough drill instructor who has brushed against incomprehensible entities. They try to guide others through creeping insanity, teaching how to survive contact with what should not exist.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+
+  {
+    "id": "TR_COSMIC_015",
+    "name": "Dream-Drunk Cold Manipulator",
+    "parent_archetype": "Cold Manipulator",
+    "description": "A cold manipulator who has brushed against incomprehensible entities. They exploit the chaos that eldritch forces create, pulling strings while the world questions its own reality.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_016",
+    "name": "Veil-Torn Vengeful Outcast",
+    "parent_archetype": "Vengeful Outcast",
+    "description": "A vengeful outcast who has brushed against incomprehensible entities. They exploit the chaos that eldritch forces create, pulling strings while the world questions its own reality.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_017",
+    "name": "Whisper-Crowned Corrupt Bureaucrat",
+    "parent_archetype": "Corrupt Bureaucrat",
+    "description": "A corrupt bureaucrat who has brushed against incomprehensible entities. They exploit the chaos that eldritch forces create, pulling strings while the world questions its own reality.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_018",
+    "name": "Eldritch-Bound Chaotic Sadist",
+    "parent_archetype": "Chaotic Sadist",
+    "description": "A chaotic sadist who has brushed against incomprehensible entities. They exploit the chaos that eldritch forces create, pulling strings while the world questions its own reality.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_019",
+    "name": "Sanity-Frayed Idealistic Extremist",
+    "parent_archetype": "Idealistic Extremist",
+    "description": "An idealistic extremist who has brushed against incomprehensible entities. They exploit the chaos that eldritch forces create, pulling strings while the world questions its own reality.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_020",
+    "name": "Rift-Walker Paranoid Conspirator",
+    "parent_archetype": "Paranoid Conspirator",
+    "description": "A paranoid conspirator who has brushed against incomprehensible entities. They exploit the chaos that eldritch forces create, pulling strings while the world questions its own reality.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+
+  {
+    "id": "TR_COSMIC_021",
+    "name": "Abyss-Touched Exploitative Merchant",
+    "parent_archetype": "Exploitative Merchant",
+    "description": "An exploitative merchant who has brushed against incomprehensible entities. They exploit the chaos that eldritch forces create, pulling strings while the world questions its own reality.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_022",
+    "name": "Star-Maddened Ice-Cold Technocrat",
+    "parent_archetype": "Ice-Cold Technocrat",
+    "description": "An ice-cold technocrat who has brushed against incomprehensible entities. They exploit the chaos that eldritch forces create, pulling strings while the world questions its own reality.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+
+  {
+    "id": "TR_COSMIC_023",
+    "name": "Glyph-Scarred Playful Prankster",
+    "parent_archetype": "Playful Prankster",
+    "description": "A playful prankster who has brushed against incomprehensible entities. They twist fear into unsettling humor, using illusions and strange coincidences to keep everyone off-balance.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_024",
+    "name": "Void-Worn Rogue Opportunist",
+    "parent_archetype": "Rogue Opportunist",
+    "description": "A rogue opportunist who has brushed against incomprehensible entities. They twist fear into unsettling humor, using illusions and strange coincidences to keep everyone off-balance.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_025",
+    "name": "Dream-Drunk Mask-Wearing Spy",
+    "parent_archetype": "Mask-Wearing Spy",
+    "description": "A mask-wearing spy who has brushed against incomprehensible entities. They twist fear into unsettling humor, using illusions and strange coincidences to keep everyone off-balance.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_026",
+    "name": "Veil-Torn Cynical Jester",
+    "parent_archetype": "Cynical Jester",
+    "description": "A cynical jester who has brushed against incomprehensible entities. They twist fear into unsettling humor, using illusions and strange coincidences to keep everyone off-balance.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_027",
+    "name": "Whisper-Crowned Chaos Gambler",
+    "parent_archetype": "Chaos Gambler",
+    "description": "A chaos gambler who has brushed against incomprehensible entities. They twist fear into unsettling humor, using illusions and strange coincidences to keep everyone off-balance.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_028",
+    "name": "Eldritch-Bound Subversive Satirist",
+    "parent_archetype": "Subversive Satirist",
+    "description": "A subversive satirist who has brushed against incomprehensible entities. They twist fear into unsettling humor, using illusions and strange coincidences to keep everyone off-balance.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+
+  {
+    "id": "TR_COSMIC_029",
+    "name": "Sanity-Frayed Loyal Companion",
+    "parent_archetype": "Loyal Companion",
+    "description": "A loyal companion who has brushed against incomprehensible entities. They remain surprisingly supportive despite the encroaching weirdness, clinging to relationships as anchors against the void.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_030",
+    "name": "Rift-Walker Practical Fixer",
+    "parent_archetype": "Practical Fixer",
+    "description": "A practical fixer who has brushed against incomprehensible entities. They remain surprisingly supportive despite the encroaching weirdness, clinging to relationships as anchors against the void.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_031",
+    "name": "Abyss-Touched Soft-Spoken Healer",
+    "parent_archetype": "Soft-Spoken Healer",
+    "description": "A soft-spoken healer who has brushed against incomprehensible entities. They remain surprisingly supportive despite the encroaching weirdness, clinging to relationships as anchors against the void.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_032",
+    "name": "Star-Maddened Streetwise Guide",
+    "parent_archetype": "Streetwise Guide",
+    "description": "A streetwise guide who has brushed against incomprehensible entities. They remain surprisingly supportive despite the encroaching weirdness, clinging to relationships as anchors against the void.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_033",
+    "name": "Glyph-Scarred Canny Trader",
+    "parent_archetype": "Canny Trader",
+    "description": "A canny trader who has brushed against incomprehensible entities. They remain surprisingly supportive despite the encroaching weirdness, clinging to relationships as anchors against the void.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_034",
+    "name": "Void-Worn Idealistic Volunteer",
+    "parent_archetype": "Idealistic Volunteer",
+    "description": "An idealistic volunteer who has brushed against incomprehensible entities. They remain surprisingly supportive despite the encroaching weirdness, clinging to relationships as anchors against the void.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+
+  {
+    "id": "TR_COSMIC_035",
+    "name": "Dream-Drunk Stoic Bodyguard",
+    "parent_archetype": "Stoic Bodyguard",
+    "description": "A stoic bodyguard who has brushed against incomprehensible entities. They stand watch over doors, relics, or people that draw the attention of things beyond the stars.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_036",
+    "name": "Veil-Torn Parental Protector",
+    "parent_archetype": "Parental Protector",
+    "description": "A parental protector who has brushed against incomprehensible entities. They stand watch over doors, relics, or people that draw the attention of things beyond the stars.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_037",
+    "name": "Whisper-Crowned Lawful Constable",
+    "parent_archetype": "Lawful Constable",
+    "description": "A lawful constable who has brushed against incomprehensible entities. They stand watch over doors, relics, or people that draw the attention of things beyond the stars.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_038",
+    "name": "Eldritch-Bound Territorial Sentinel",
+    "parent_archetype": "Territorial Sentinel",
+    "description": "A territorial sentinel who has brushed against incomprehensible entities. They stand watch over doors, relics, or people that draw the attention of things beyond the stars.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_039",
+    "name": "Sanity-Frayed Martyr Guardian",
+    "parent_archetype": "Martyr Guardian",
+    "description": "A martyr guardian who has brushed against incomprehensible entities. They stand watch over doors, relics, or people that draw the attention of things beyond the stars.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_040",
+    "name": "Rift-Walker Guarded Gatekeeper",
+    "parent_archetype": "Guarded Gatekeeper",
+    "description": "A guarded gatekeeper who has brushed against incomprehensible entities. They stand watch over doors, relics, or people that draw the attention of things beyond the stars.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+
+  {
+    "id": "TR_COSMIC_041",
+    "name": "Abyss-Touched Timid Survivor",
+    "parent_archetype": "Timid Survivor",
+    "description": "A timid survivor who has brushed against incomprehensible entities. They endure by avoiding attention from the uncanny, reading omens in every shadow and distant star.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_042",
+    "name": "Star-Maddened Hardened Scavenger",
+    "parent_archetype": "Hardened Scavenger",
+    "description": "A hardened scavenger who has brushed against incomprehensible entities. They endure by avoiding attention from the uncanny, reading omens in every shadow and distant star.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_043",
+    "name": "Glyph-Scarred Stoic Farmer",
+    "parent_archetype": "Stoic Farmer",
+    "description": "A stoic farmer who has brushed against incomprehensible entities. They endure by avoiding attention from the uncanny, reading omens in every shadow and distant star.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_044",
+    "name": "Void-Worn Opportunistic Refugee",
+    "parent_archetype": "Opportunistic Refugee",
+    "description": "An opportunistic refugee who has brushed against incomprehensible entities. They endure by avoiding attention from the uncanny, reading omens in every shadow and distant star.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_045",
+    "name": "Dream-Drunk Last Loyalist",
+    "parent_archetype": "Last Loyalist",
+    "description": "A last loyalist who has brushed against incomprehensible entities. They endure by avoiding attention from the uncanny, reading omens in every shadow and distant star.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+
+  {
+    "id": "TR_COSMIC_046",
+    "name": "Veil-Torn Curious Researcher",
+    "parent_archetype": "Curious Researcher",
+    "description": "A curious researcher who has brushed against incomprehensible entities. They are driven to understand impossible patterns and forbidden lore, even as their mind frays at the edges.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_047",
+    "name": "Whisper-Crowned Amoral Experimenter",
+    "parent_archetype": "Amoral Experimenter",
+    "description": "An amoral experimenter who has brushed against incomprehensible entities. They are driven to understand impossible patterns and forbidden lore, even as their mind frays at the edges.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_048",
+    "name": "Eldritch-Bound Archivist Bureaucrat",
+    "parent_archetype": "Archivist Bureaucrat",
+    "description": "An archivist bureaucrat who has brushed against incomprehensible entities. They are driven to understand impossible patterns and forbidden lore, even as their mind frays at the edges.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_049",
+    "name": "Sanity-Frayed Itinerant Storyteller",
+    "parent_archetype": "Itinerant Storyteller",
+    "description": "An itinerant storyteller who has brushed against incomprehensible entities. They are driven to understand impossible patterns and forbidden lore, even as their mind frays at the edges.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_COSMIC_050",
+    "name": "Rift-Walker Anxious Theorist",
+    "parent_archetype": "Anxious Theorist",
+    "description": "An anxious theorist who has brushed against incomprehensible entities. They are driven to understand impossible patterns and forbidden lore, even as their mind frays at the edges.",
+    "genre_tag": "Cosmic Horror & The Weird"
+  },
+  {
+    "id": "TR_STEAM_001",
+    "name": "Aether Rail Commander",
+    "parent_archetype": "Visionary Commander",
+    "description": "A grand strategist of steam railways and airship lanes who dreams of uniting continents with clockwork precision, directing engineers and sky-captains from a brass-lined command hall.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_002",
+    "name": "Coal-Ledger Strategist",
+    "parent_archetype": "Pragmatic Strategist",
+    "description": "A tactician who calculates everything in tons of coal and hours of steam pressure, designing campaigns and factory schedules like interlocking gears.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_003",
+    "name": "Clocktower Populist",
+    "parent_archetype": "Charismatic Populist",
+    "description": "A charismatic orator who rallies factory workers and dock hands from atop city clocktowers, turning industrial discontent into polished speeches and parades.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_004",
+    "name": "Ironclad General",
+    "parent_archetype": "Authoritarian General",
+    "description": "A rigid commander in polished brass armor who marches regiments beside rumbling steam-tanks, demanding perfect discipline in both ranks and smokestacks.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_005",
+    "name": "Reluctant Airship Captain",
+    "parent_archetype": "Reluctant Leader",
+    "description": "A reserved captain who inherited command of a creaking skyship, trying to protect their crew while nobles and pirates alike drag them into politics.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_006",
+    "name": "Ministry of Cogs Clerk",
+    "parent_archetype": "Corporate Bureaucrat",
+    "description": "A paperwork-obsessed functionary in a vast industrial ministry, stamping permits and safety waivers that decide which machines and workers may run at dawn.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_007",
+    "name": "Iron Foundry Barbarian",
+    "parent_archetype": "Warlord Barbarian",
+    "description": "A brutal gang leader who rules over a captured foundry, swinging steam-powered hammers and leading raids on rival factories.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_008",
+    "name": "Smoke-Stack Reformer",
+    "parent_archetype": "Civic Reformer",
+    "description": "An idealist who campaigns for safer machines and shorter workdays in soot-choked cities, balancing progress with human dignity.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+
+  {
+    "id": "TR_STEAM_009",
+    "name": "Boiler-Room Hermit",
+    "parent_archetype": "Wise Hermit",
+    "description": "A reclusive engineer living below the streets amid pipes and valves, offering cryptic advice to those who manage to find their steam-wreathed lair.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_010",
+    "name": "Gunpowder Veteran",
+    "parent_archetype": "Cynical Veteran",
+    "description": "A scarred soldier of early industrial wars who now drinks in back-alley taverns, teaching rookies how to survive barbed wire and clockwork cannons.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_011",
+    "name": "Parlor-Room Tutor",
+    "parent_archetype": "Nurturing Teacher",
+    "description": "A kindly instructor who teaches street urchins reading, etiquette, and basic machine craft in cramped drawing rooms lit by gaslamps.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_012",
+    "name": "Cog-and-Gospel Zealot",
+    "parent_archetype": "Fanatical Zealot",
+    "description": "A religious fanatic who preaches that steam itself is holy breath, demanding strict moral codes for how engines and workers must serve the divine order.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_013",
+    "name": "Aether Theorem Mentor",
+    "parent_archetype": "Detached Scholar-Mentor",
+    "description": "A distant academic who studies aetheric fields and pressure engines in a lonely observatory, occasionally guiding protégés through calculations instead of affection.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_014",
+    "name": "Iron Parade Drillmaster",
+    "parent_archetype": "Tough Drill Instructor",
+    "description": "A brutal trainer who marches recruits up and down cobblestone yards under the hiss of steam rifles, breaking them into precise formation.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+
+  {
+    "id": "TR_STEAM_015",
+    "name": "Velvet-Glove Manipulator",
+    "parent_archetype": "Cold Manipulator",
+    "description": "A polished socialite who engineers mergers, strikes, and scandals in tea rooms, nudging barons and unions like chess pieces under chandelier light.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_016",
+    "name": "Smokestack Outcast",
+    "parent_archetype": "Vengeful Outcast",
+    "description": "A once-respected machinist ruined by a baron’s greed, now sabotaging factories and locomotives in calculated acts of revenge.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_017",
+    "name": "Forged-Ledger Fixer",
+    "parent_archetype": "Corrupt Bureaucrat",
+    "description": "A clerk who alters inspection logs and safety reports in exchange for coin, allowing dangerous engines to run so long as profits rise.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_018",
+    "name": "Carnival Gear Sadist",
+    "parent_archetype": "Chaotic Sadist",
+    "description": "A sadistic showman who runs a traveling mechanical carnival, turning malfunctioning rides and lethal automata into public spectacles.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_019",
+    "name": "Revolutionary Firebrand",
+    "parent_archetype": "Idealistic Extremist",
+    "description": "An idealist who believes the only way to liberate workers is to burn down factories and topple every smokestack in the empire.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_020",
+    "name": "Paranoid Telegrapher",
+    "parent_archetype": "Paranoid Conspirator",
+    "description": "A jittery telegraph operator convinced secret codes are hidden in every message, seeing plots in the tapping of every brass key.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+
+  {
+    "id": "TR_STEAM_021",
+    "name": "Robber Baron of Brass",
+    "parent_archetype": "Exploitative Merchant",
+    "description": "A ruthless magnate who owns mines, factories, and rail lines, squeezing workers while drinking brandy beneath portraits of themselves.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_022",
+    "name": "Steam-Logic Technocrat",
+    "parent_archetype": "Ice-Cold Technocrat",
+    "description": "A calculating engineer who redesigns entire districts according to efficiency charts, caring only for output, never for smog or suffering.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+
+  {
+    "id": "TR_STEAM_023",
+    "name": "Goggle-Eyed Street Jester",
+    "parent_archetype": "Playful Prankster",
+    "description": "A street performer whose spring-loaded tricks and harmless steam gadgets poke fun at pompous nobles in crowded marketplaces.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_024",
+    "name": "Airship Opportunist",
+    "parent_archetype": "Rogue Opportunist",
+    "description": "A charming rogue who hops airships, smuggling clockwork parts and stolen patents between rival cities for the highest bidder.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_025",
+    "name": "Brass-Mask Courier Spy",
+    "parent_archetype": "Mask-Wearing Spy",
+    "description": "A covert messenger who hides behind ornate gas masks and mirrored goggles, ferrying secrets through soot-filled alleys and sky-docks.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_026",
+    "name": "Music-Hall Cynic",
+    "parent_archetype": "Cynical Jester",
+    "description": "A cabaret comic whose biting songs about barons and ministers draw cheers from workers and sneers from the balcony boxes.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_027",
+    "name": "Clockwork Dice Gambler",
+    "parent_archetype": "Chaos Gambler",
+    "description": "A gambler who plays in smoke-filled parlors with weighted brass dice and rigged mechanical roulette tables, always courting ruin.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_028",
+    "name": "Broadsheet Satirist",
+    "parent_archetype": "Subversive Satirist",
+    "description": "A pamphleteer who prints mocking cartoons and essays about industrial corruption, slipping broadsheets under factory doors at dawn.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+
+  {
+    "id": "TR_STEAM_029",
+    "name": "Coal-Dust Companion",
+    "parent_archetype": "Loyal Companion",
+    "description": "A loyal childhood friend turned factory bodyguard, always walking just behind their chosen partner with a wrench or pistol ready.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_030",
+    "name": "Aetherline Fixer",
+    "parent_archetype": "Practical Fixer",
+    "description": "A tireless mechanic who keeps airship engines from exploding mid-flight, patching leaking pipes and cracked boilers in midair.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_031",
+    "name": "Tea-Room Healer",
+    "parent_archetype": "Soft-Spoken Healer",
+    "description": "A discreet practitioner who treats chemical coughs and gear injuries in quiet parlors, masking bitter tonics with fragrant tea.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_032",
+    "name": "Gaslamp Guide",
+    "parent_archetype": "Streetwise Guide",
+    "description": "A savvy local who knows every alley, sewer grate, and elevated tram, escorting clients safely through fog-choked industrial quarters.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_033",
+    "name": "Market Arcade Trader",
+    "parent_archetype": "Canny Trader",
+    "description": "A shrewd merchant dealing in pocket automatons, brass goggles, and illicit boiler schematics in bustling market arcades.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_034",
+    "name": "Union Hall Volunteer",
+    "parent_archetype": "Idealistic Volunteer",
+    "description": "A tireless helper who organizes soup lines, literacy classes, and legal aid for overworked factory laborers.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+
+  {
+    "id": "TR_STEAM_035",
+    "name": "Brass-Plated Bodyguard",
+    "parent_archetype": "Stoic Bodyguard",
+    "description": "A quiet protector clad in reinforced brass and leather, shadowing magnates or inventors through gala halls and rail yards.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_036",
+    "name": "Foundry Matron Protector",
+    "parent_archetype": "Parental Protector",
+    "description": "A stern caretaker who defends the children and apprentices of a factory district, confronting abusive foremen without fear.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_037",
+    "name": "Constable of the Iron Ward",
+    "parent_archetype": "Lawful Constable",
+    "description": "A determined officer patrolling soot-blackened streets with a truncheon and a steam-powered lantern, insisting law still matters.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_038",
+    "name": "Border Rail Sentinel",
+    "parent_archetype": "Territorial Sentinel",
+    "description": "A guard assigned to watch remote mountain rails and bridges, protecting the empire’s lifelines from saboteurs and bandits.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_039",
+    "name": "Sacrifice-Class Guardian",
+    "parent_archetype": "Martyr Guardian",
+    "description": "A defender ready to die triggering explosive failsafes or collapsing bridges to save a city from invading ironclads.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_040",
+    "name": "Customs Gatekeeper",
+    "parent_archetype": "Guarded Gatekeeper",
+    "description": "A suspicious inspector at an airship customs dock, deciding which crates of devices, chemicals, and clockwork limbs may enter the city.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+
+  {
+    "id": "TR_STEAM_041",
+    "name": "Fog-Choked Survivor",
+    "parent_archetype": "Timid Survivor",
+    "description": "A nervous worker who survived a boiler explosion, now navigating industrial life by avoiding danger and powerful people alike.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_042",
+    "name": "Scrapyard Scavenger",
+    "parent_archetype": "Hardened Scavenger",
+    "description": "A tough salvager who climbs junk heaps of twisted rails and broken automatons, selling parts to mechanics and inventors.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_043",
+    "name": "Steam-Field Farmer",
+    "parent_archetype": "Stoic Farmer",
+    "description": "A patient grower who runs clattering irrigation engines and brass plows, feeding factory cities despite soil exhausted by industry.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_044",
+    "name": "Refugee of the Broken Mills",
+    "parent_archetype": "Opportunistic Refugee",
+    "description": "A displaced laborer fleeing a collapsed industrial town, bartering skills in machine repair for passage and shelter.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_045",
+    "name": "Last Banner Machinist",
+    "parent_archetype": "Last Loyalist",
+    "description": "The final engineer loyal to a fallen guild, preserving blueprints and insignia while working in secret to keep its ideals alive.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+
+  {
+    "id": "TR_STEAM_046",
+    "name": "Aether-Tube Researcher",
+    "parent_archetype": "Curious Researcher",
+    "description": "A wide-eyed scientist fascinated by aetheric currents, building bizarre glass-and-brass apparatuses to channel invisible energies.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_047",
+    "name": "Morality-Free Automaton Tinker",
+    "parent_archetype": "Amoral Experimenter",
+    "description": "An inventor who implants unstable engines and questionable logic cores into automata, seeing people and machines as parts to rearrange.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_048",
+    "name": "Registry Vault Archivist",
+    "parent_archetype": "Archivist Bureaucrat",
+    "description": "A meticulous keeper of patent files, engineering diagrams, and worker ledgers, ensuring nothing is removed from the record without their stamp.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_049",
+    "name": "Railway Ballad Singer",
+    "parent_archetype": "Itinerant Storyteller",
+    "description": "A traveling performer who rides freight trains and airships, singing songs of wrecks, inventions, and quiet factory tragedies.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_STEAM_050",
+    "name": "Pressure-Gauge Theorist",
+    "parent_archetype": "Anxious Theorist",
+    "description": "A nervous analyst convinced the increasing pressure—economic, mechanical, and social—will soon explode the entire industrial order.",
+    "genre_tag": "Steampunk & Industrial Revolution"
+  },
+  {
+    "id": "TR_NOIR_001",
+    "name": "Boardroom Commander",
+    "parent_archetype": "Visionary Commander",
+    "description": "A long-game executive who steers entire divisions like chess pieces, orchestrating mergers, cover-ups, and brand wars from a glass-walled corner office with a nighttime skyline view.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_002",
+    "name": "Risk Model Strategist",
+    "parent_archetype": "Pragmatic Strategist",
+    "description": "A cool-headed planner who forecasts scandals and asset raids with spreadsheets and probability trees, always choosing the least disastrous option for the firm.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_003",
+    "name": "Media Populist",
+    "parent_archetype": "Charismatic Populist",
+    "description": "A smooth-talking spokesperson who spins corporate crimes into public triumphs, charming reporters and shareholders at the same time.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_004",
+    "name": "Security Force General",
+    "parent_archetype": "Authoritarian General",
+    "description": "The ruthless head of corporate security who commands black-suited agents, armored SUVs, and private detention floors beneath the headquarters.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_005",
+    "name": "Reluctant Whistleblower Leader",
+    "parent_archetype": "Reluctant Leader",
+    "description": "A mid-level analyst pushed into leading a small group of insiders after stumbling onto fraud, torn between self-preservation and doing the right thing.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_006",
+    "name": "Compliance Bureaucrat",
+    "parent_archetype": "Corporate Bureaucrat",
+    "description": "A paper-armored official who lives inside policy manuals and approval flows, more loyal to process than to any person or principle.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_007",
+    "name": "Enforcer Warlord",
+    "parent_archetype": "Warlord Barbarian",
+    "description": "A brutal street capo contracted by the corporation to keep unions and rivals in line, ruling alleys and loading docks through intimidation.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_008",
+    "name": "Union-Facing Reformer",
+    "parent_archetype": "Civic Reformer",
+    "description": "An internal crusader trying to turn the corporation toward ethical practices, lobbying from inside before the public finds out what lurks in the books.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+
+  {
+    "id": "TR_NOIR_009",
+    "name": "Rooftop Hermit Consultant",
+    "parent_archetype": "Wise Hermit",
+    "description": "A retired investigator who lives in a cramped rooftop flat, offering cryptic advice and old contacts to anyone still naive enough to chase the truth.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_010",
+    "name": "Burned Operations Veteran",
+    "parent_archetype": "Cynical Veteran",
+    "description": "A former company fixer who took the fall for a scandal, now drifting between cheap motels and backroom bars, coaching others on how not to get used up.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_011",
+    "name": "Onboarding Mentor",
+    "parent_archetype": "Nurturing Teacher",
+    "description": "A patient trainer in a beige conference room, quietly warning new hires where the real landmines are buried beneath the nice corporate slogans.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_012",
+    "name": "Brand Cult Zealot",
+    "parent_archetype": "Fanatical Zealot",
+    "description": "A true believer in the company mission who treats slogans like scripture, shunning anyone who questions leadership or PR narratives.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_013",
+    "name": "Think Tank Mentor",
+    "parent_archetype": "Detached Scholar-Mentor",
+    "description": "A data-obsessed strategist buried in whiteboards and market research, mentoring protégés in analysis but never in empathy.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_014",
+    "name": "Drill-Sergeant Sales Trainer",
+    "parent_archetype": "Tough Drill Instructor",
+    "description": "A ruthless trainer who barks scripts and quotas at sales teams, molding them into pressure-hardened closers in fluorescent-lit training rooms.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+
+  {
+    "id": "TR_NOIR_015",
+    "name": "Shadow Board Manipulator",
+    "parent_archetype": "Cold Manipulator",
+    "description": "A behind-the-scenes power broker who juggles board votes, leaks, and blackmail material, never appearing in official org charts.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_016",
+    "name": "Exiled Insider",
+    "parent_archetype": "Vengeful Outcast",
+    "description": "A former executive quietly forced out after opposing a conspiracy, now working to dismantle it from the outside with stolen information.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_017",
+    "name": "Expense Sheet Crook",
+    "parent_archetype": "Corrupt Bureaucrat",
+    "description": "A mid-level manager who reroutes budgets and slush funds, hiding bribes, shell companies, and off-book projects in routine paperwork.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_018",
+    "name": "Violent Club Enforcer",
+    "parent_archetype": "Chaotic Sadist",
+    "description": "A nightclub bouncer on the corporate payroll who enjoys roughing up whistleblowers and nosy reporters out behind the dumpsters.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_019",
+    "name": "Doctrine-Driven Saboteur",
+    "parent_archetype": "Idealistic Extremist",
+    "description": "A radical activist embedded inside the company, sabotaging its operations to push a cause, even if innocent workers get crushed in the fallout.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_020",
+    "name": "Conspiracy-Board Analyst",
+    "parent_archetype": "Paranoid Conspirator",
+    "description": "A jittery contractor whose apartment wall is covered in photos and string, convinced the corporation controls more than just markets.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+
+  {
+    "id": "TR_NOIR_021",
+    "name": "Supply Chain Shark",
+    "parent_archetype": "Exploitative Merchant",
+    "description": "A vendor who squeezes desperate departments with inflated prices and quiet kickback deals, thriving on shortages they help create.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_022",
+    "name": "Optimization Technocrat",
+    "parent_archetype": "Ice-Cold Technocrat",
+    "description": "A data-obsessed executive who treats employees as numbers on a dashboard, cutting jobs and benefits with clinical, emotionless efficiency.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+
+  {
+    "id": "TR_NOIR_023",
+    "name": "Loyal Driver",
+    "parent_archetype": "Loyal Companion",
+    "description": "A quiet chauffeur who hears everything said in the back seat, staying fiercely loyal to the one executive who once treated them like a person.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_024",
+    "name": "Night-Shift IT Fixer",
+    "parent_archetype": "Practical Fixer",
+    "description": "An overworked tech who keeps servers, cameras, and access logs running, slipping favors to whoever brings coffee and doesn’t ask too many questions.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_025",
+    "name": "Office Floor Medic",
+    "parent_archetype": "Soft-Spoken Healer",
+    "description": "A gentle HR nurse who tends to stress migraines and suspicious bruises, quietly documenting more than they ever say aloud.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_026",
+    "name": "City Grid Guide",
+    "parent_archetype": "Streetwise Guide",
+    "description": "A cab driver and fixer who knows which alleyways are watched, which hotels are bugged, and where to vanish when a job goes bad.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_027",
+    "name": "Back-Alley Broker",
+    "parent_archetype": "Canny Trader",
+    "description": "A dealmaker who trades stolen slides, prototype chips, and insider gossip in dimly lit bars for cash or leverage.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_028",
+    "name": "Pro Bono Idealist",
+    "parent_archetype": "Idealistic Volunteer",
+    "description": "A volunteer lawyer or activist who helps laid-off workers and whistleblowers navigate legal minefields against towering corporate firms.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+
+  {
+    "id": "TR_NOIR_029",
+    "name": "Silent Elevator Guard",
+    "parent_archetype": "Stoic Bodyguard",
+    "description": "A stone-faced security guard stationed outside the executive floor, noticing everything but speaking almost never.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_030",
+    "name": "Fierce Office Guardian",
+    "parent_archetype": "Parental Protector",
+    "description": "A manager who treats their small team like family, shielding them from layoffs, scapegoating, and impossible deadlines whenever they can.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_031",
+    "name": "Badge-and-Trenchcoat Constable",
+    "parent_archetype": "Lawful Constable",
+    "description": "A city detective who keeps running into the same company’s name in every major crime, balancing procedure against the pull of corruption.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_032",
+    "name": "Perimeter Sentinel",
+    "parent_archetype": "Territorial Sentinel",
+    "description": "A perimeter guard who patrols fences, camera banks, and loading docks, obsessed with keeping strangers off company property at night.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_033",
+    "name": "Fall-Guy Guardian",
+    "parent_archetype": "Martyr Guardian",
+    "description": "A loyal subordinate ready to sign the paperwork, take the blame, or testify falsely if it means protecting someone they owe everything to.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_034",
+    "name": "Building Access Gatekeeper",
+    "parent_archetype": "Guarded Gatekeeper",
+    "description": "A receptionist and security monitor who controls every badge that gets activated, quietly deciding who is allowed into the inner sanctum.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+
+  {
+    "id": "TR_NOIR_035",
+    "name": "Skittish Data Survivor",
+    "parent_archetype": "Timid Survivor",
+    "description": "A frightened junior employee who saw too much in a shared drive and now survives by pretending they saw nothing at all.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_036",
+    "name": "Dumpster Scavenger",
+    "parent_archetype": "Hardened Scavenger",
+    "description": "A hardened freelance snoop who digs through shredded reports and discarded prototypes, piecing together stories from the trash.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_037",
+    "name": "Edge-of-Town Landholder",
+    "parent_archetype": "Stoic Farmer",
+    "description": "A property owner whose land is suddenly valuable to the corporation, enduring buyout pressure and sabotage while tending their small, stubborn plot.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_038",
+    "name": "Relocated Refugee Employee",
+    "parent_archetype": "Opportunistic Refugee",
+    "description": "A worker moved across cities for a corporate transfer, quietly using their new position to trade information between regional offices.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_039",
+    "name": "Last Loyal Advisor",
+    "parent_archetype": "Last Loyalist",
+    "description": "The only remaining confidant of a disgraced CEO, clinging to old loyalties while the rest of the board circles like sharks.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+
+  {
+    "id": "TR_NOIR_040",
+    "name": "Investigative Researcher",
+    "parent_archetype": "Curious Researcher",
+    "description": "An obsessive researcher who compiles patterns of safety violations, shell companies, and dead witnesses into dossiers no one wants to read.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_041",
+    "name": "Human Trial Experimenter",
+    "parent_archetype": "Amoral Experimenter",
+    "description": "A project lead who runs ethically dubious tests on employees and customers, burying side effects in dense reports and NDA clauses.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_042",
+    "name": "Records Vault Archivist",
+    "parent_archetype": "Archivist Bureaucrat",
+    "description": "A document custodian who curates decades of contracts and emails, knowing exactly which locked drawer holds the smoking gun.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_043",
+    "name": "Nomad Story Courier",
+    "parent_archetype": "Itinerant Storyteller",
+    "description": "A wandering journalist who gathers rumors from bartenders, janitors, and cabbies, stitching them into exposés that never quite see full daylight.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_044",
+    "name": "Collapse Theorist",
+    "parent_archetype": "Anxious Theorist",
+    "description": "A nervous analyst convinced the corporation’s balance sheets, power plays, and enemies guarantee an inevitable crash, trying to predict the exact day it all caves in.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+
+  {
+    "id": "TR_NOIR_045",
+    "name": "Raincoat Companion",
+    "parent_archetype": "Loyal Companion",
+    "description": "A loyal friend who follows the noir detective through night stakeouts and smoky offices, holding onto trust in a world built on deals and lies.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_046",
+    "name": "Shadowline PI",
+    "parent_archetype": "Lawful Constable",
+    "description": "A private investigator who used to be a cop, now working just close enough to the law to sleep at night while digging into corporate crimes.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_047",
+    "name": "Gala-Hall Satirist",
+    "parent_archetype": "Subversive Satirist",
+    "description": "A stand-up comic or performance artist hired to entertain at corporate events, slipping sharp barbs about greed and secrets into their act.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_048",
+    "name": "Mask-and-Heels Spy",
+    "parent_archetype": "Mask-Wearing Spy",
+    "description": "A chameleon-like infiltrator who changes wardrobe, accent, and ID at will, drifting through boardrooms and back alleys as if they own them.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_049",
+    "name": "Backroom Negotiator",
+    "parent_archetype": "Canny Trader",
+    "description": "A smooth operator who closes deals in smoke-thick back rooms, trading influence, secrets, and favors rather than goods.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_NOIR_050",
+    "name": "Bleary-Eyed Volunteer",
+    "parent_archetype": "Idealistic Volunteer",
+    "description": "A burnt-out but still hopeful soul helping victims of corporate schemes find housing, jobs, or legal help, even as the system keeps making more victims.",
+    "genre_tag": "Corporate Espionage & Noir"
+  },
+  {
+    "id": "TR_BIO_001",
+    "name": "Helixborne Commander",
+    "parent_archetype": "Visionary Commander",
+    "description": "Leads bio-engineered militias and believes genetic evolution is humanity’s destined path.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_002",
+    "name": "Genecode Tactician",
+    "parent_archetype": "Pragmatic Strategist",
+    "description": "Plans operations using mutation patterns, protein models, and biological risk calculus.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_003",
+    "name": "Splice-Marked Populist",
+    "parent_archetype": "Charismatic Populist",
+    "description": "Rallies crowds of altered citizens with pheromone-boosted charisma and engineered charm.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_004",
+    "name": "Vat-Forged General",
+    "parent_archetype": "Authoritarian General",
+    "description": "Commands cloned battalions bred for obedience and battlefield endurance.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_005",
+    "name": "Reluctant Mutation Leader",
+    "parent_archetype": "Reluctant Leader",
+    "description": "Mutated by accident and thrust into leadership by others who see their change as destiny.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_006",
+    "name": "Genome Registry Clerk",
+    "parent_archetype": "Corporate Bureaucrat",
+    "description": "Processes genetic licensing paperwork and enforces company mutation policies.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_007",
+    "name": "Chitin-Fused Barbarian",
+    "parent_archetype": "Warlord Barbarian",
+    "description": "A tribal warlord enhanced with hardened dermal plating and animalistic instincts.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_008",
+    "name": "Gene Rights Reformer",
+    "parent_archetype": "Civic Reformer",
+    "description": "Fights for ethical treatment of clones, spliced workers, and mutation victims.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+
+  {
+    "id": "TR_BIO_009",
+    "name": "Wetware Hermit",
+    "parent_archetype": "Wise Hermit",
+    "description": "Lives in a remote overgrown lab, offering cryptic wisdom on mutation ethics.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_010",
+    "name": "Graft-Torn Veteran",
+    "parent_archetype": "Cynical Veteran",
+    "description": "A scarred ex-soldier surviving failed augmentations and biotech warfare.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_011",
+    "name": "Clone-Batch Caretaker",
+    "parent_archetype": "Nurturing Teacher",
+    "description": "Raises young clones and teaches them how to function beyond sterile vats.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_012",
+    "name": "Purist Zealot",
+    "parent_archetype": "Fanatical Zealot",
+    "description": "Preaches that all genetic alteration is heresy and hunts splicers with fanatic zeal.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_013",
+    "name": "Sterile Scholar",
+    "parent_archetype": "Detached Scholar-Mentor",
+    "description": "Studies mutation drift with cold detachment, mentoring apprentices without warmth.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_014",
+    "name": "Strain Drillmaster",
+    "parent_archetype": "Tough Drill Instructor",
+    "description": "Trains augmented recruits through harsh endurance and biochemical stress tests.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+
+  {
+    "id": "TR_BIO_015",
+    "name": "Gene-Broker Manipulator",
+    "parent_archetype": "Cold Manipulator",
+    "description": "Weaponizes DNA patents and private gene registries to control rivals.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_016",
+    "name": "Defective Outcast",
+    "parent_archetype": "Vengeful Outcast",
+    "description": "A failed experiment hunting the company that discarded them as biological waste.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_017",
+    "name": "Genome Ledger Forger",
+    "parent_archetype": "Corrupt Bureaucrat",
+    "description": "Edits mutation records for bribes, letting illegal gene-edits pass inspection.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_018",
+    "name": "Mutagen Sadist",
+    "parent_archetype": "Chaotic Sadist",
+    "description": "Injects random mutagens into victims for amusement, relishing the outcomes.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_019",
+    "name": "Eco-Splice Extremist",
+    "parent_archetype": "Idealistic Extremist",
+    "description": "Releases engineered plagues and predators to destroy polluting corporations.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_020",
+    "name": "Bio-Signal Paranoid",
+    "parent_archetype": "Paranoid Conspirator",
+    "description": "Believes hidden gene-coded commands lurk in food, water, and broadcast waves.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+
+  {
+    "id": "TR_BIO_021",
+    "name": "Organ-Baron Merchant",
+    "parent_archetype": "Exploitative Merchant",
+    "description": "Deals in harvested organs, black-market DNA packs, and stolen stemlines.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_022",
+    "name": "Genetic Systems Technocrat",
+    "parent_archetype": "Ice-Cold Technocrat",
+    "description": "Optimizes populations with cold algorithms—assigning splices, sterilizations, or enhancements.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+
+  {
+    "id": "TR_BIO_023",
+    "name": "Bonded Graft Companion",
+    "parent_archetype": "Loyal Companion",
+    "description": "A chemically bonded guardian with heightened senses, loyal beyond reason.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_024",
+    "name": "Bio-Patch Mechanic",
+    "parent_archetype": "Practical Fixer",
+    "description": "Repairs malfunctioning implants, ruptured muscle grafts, and defective wetware.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_025",
+    "name": "Serumfield Healer",
+    "parent_archetype": "Soft-Spoken Healer",
+    "description": "Treats mutation sickness with custom serums and gentle cellular rewiring.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_026",
+    "name": "Sporepath Guide",
+    "parent_archetype": "Streetwise Guide",
+    "description": "Navigates hazardous spore forests, gene-pits, and unstable biozones.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_027",
+    "name": "Genome Bazaar Trader",
+    "parent_archetype": "Canny Trader",
+    "description": "Trades proprietary enzymes, rare DNA templates, and mutation licenses.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_028",
+    "name": "Mutation Clinic Volunteer",
+    "parent_archetype": "Idealistic Volunteer",
+    "description": "Helps failed experiments and unstable mutants in underground shelters.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+
+  {
+    "id": "TR_BIO_029",
+    "name": "Carapace Guard",
+    "parent_archetype": "Stoic Bodyguard",
+    "description": "A reinforced sentinel with grafted armor plates and toxin-resistant blood.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_030",
+    "name": "Broodkeeper Guardian",
+    "parent_archetype": "Parental Protector",
+    "description": "Protects abandoned clones and early-stage mutants, refusing to surrender them to labs.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_031",
+    "name": "Bio-Law Officer",
+    "parent_archetype": "Lawful Constable",
+    "description": "Tracks illegal splicing dens using forensic gene-readers and mutation scanners.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_032",
+    "name": "Strain-Zone Sentinel",
+    "parent_archetype": "Territorial Sentinel",
+    "description": "Guards the borders of contaminated zones patrolled by rogue engineered creatures.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_033",
+    "name": "Failsafe Martyr",
+    "parent_archetype": "Martyr Guardian",
+    "description": "Implanted with a self-destruct biotech protocol that activates to protect civilians.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_034",
+    "name": "Genelock Gatekeeper",
+    "parent_archetype": "Guarded Gatekeeper",
+    "description": "Decides who may access vaults storing unstable organisms and DNA banks.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+
+  {
+    "id": "TR_BIO_035",
+    "name": "Mutation-Shy Survivor",
+    "parent_archetype": "Timid Survivor",
+    "description": "Terrified of gene exposure, they avoid biotech zones and mutated crowds.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_036",
+    "name": "Bio-Scrap Forager",
+    "parent_archetype": "Hardened Scavenger",
+    "description": "Harvests biotech debris from ruined labs and unstable industrial greenhouses.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_037",
+    "name": "Sporefield Cultivator",
+    "parent_archetype": "Stoic Farmer",
+    "description": "Grows gene-edited crops that survive toxic rains and hostile microbial swarms.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_038",
+    "name": "Clone-War Drifter",
+    "parent_archetype": "Opportunistic Refugee",
+    "description": "Flees conflict zones where corporations field armies of spliced soldiers.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_039",
+    "name": "Last Genome Keeper",
+    "parent_archetype": "Last Loyalist",
+    "description": "Preserves the last pure DNA sequence of a wiped-out lineage, guarding it fiercely.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+
+  {
+    "id": "TR_BIO_040",
+    "name": "Forbidden Sequence Researcher",
+    "parent_archetype": "Curious Researcher",
+    "description": "Obsessed with decoding unstable gene patterns stored in sealed bio-archives.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_041",
+    "name": "Hybridization Surgeon",
+    "parent_archetype": "Amoral Experimenter",
+    "description": "Splices clients with animal, fungal, or synthetic DNA, caring only for results.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_042",
+    "name": "DNA Vault Archivist",
+    "parent_archetype": "Archivist Bureaucrat",
+    "description": "Catalogs gene templates, sealing them in cryo-vaults with obsessive order.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_043",
+    "name": "Splice-Bard Wanderer",
+    "parent_archetype": "Itinerant Storyteller",
+    "description": "Travels across sprawl cities recounting tragedies of failed experiments and rebel clones.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_044",
+    "name": "Genetic Collapse Theorist",
+    "parent_archetype": "Anxious Theorist",
+    "description": "Obsessively maps mutation drift, predicting ecosystem collapse from genetic overload.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+
+  {
+    "id": "TR_BIO_045",
+    "name": "Fluorescent Trickster",
+    "parent_archetype": "Playful Prankster",
+    "description": "Creates harmless glowing skin effects and temporary mutations for amusement.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_046",
+    "name": "Gene-Smuggler Opportunist",
+    "parent_archetype": "Rogue Opportunist",
+    "description": "Steals rare DNA cartridges and enzyme kits to sell on the genome black market.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_047",
+    "name": "Chimera-Mask Infiltrator",
+    "parent_archetype": "Mask-Wearing Spy",
+    "description": "Uses adaptive tissue masks to infiltrate labs, replacing features in real time.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_048",
+    "name": "Toxin-Comedian",
+    "parent_archetype": "Cynical Jester",
+    "description": "Mocks biotech corruption with dark humor, performing in polluted mutation slums.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_049",
+    "name": "Gene-Satirist",
+    "parent_archetype": "Subversive Satirist",
+    "description": "Uses mutated puppets and engineered flora as satire against bio-corporate elites.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_BIO_050",
+    "name": "Splice-Aid Volunteer",
+    "parent_archetype": "Idealistic Volunteer",
+    "description": "Helps mutation victims reintegrate, offering care where corporations offer disposal.",
+    "genre_tag": "Biopunk & Genetic Mutation"
+  },
+  {
+    "id": "TR_FRONTIER_001",
+    "name": "Dustborn Commander",
+    "parent_archetype": "Visionary Commander",
+    "description": "A frontier leader who dreams of unifying scattered rim towns under one banner, rallying settlers with promises of stability and starlight prosperity.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_002",
+    "name": "Trail-Chart Strategist",
+    "parent_archetype": "Pragmatic Strategist",
+    "description": "A planner who maps safe travel routes through outlaw ranges, asteroid trails, and hazardous terraforming zones with practical precision.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_003",
+    "name": "Sundown Populist",
+    "parent_archetype": "Charismatic Populist",
+    "description": "A charismatic drifter who unites miners, ranchers, and outcasts through passionate speeches delivered atop saloon balconies.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_004",
+    "name": "Marshal-General of the Dust Belt",
+    "parent_archetype": "Authoritarian General",
+    "description": "A harsh commander who enforces martial law across frontier stations, leading armored rider units and ironclad hover-wagons.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_005",
+    "name": "Reluctant Sheriff-Captain",
+    "parent_archetype": "Reluctant Leader",
+    "description": "A former prospector forced to wear the badge when their settlement collapses into chaos, leading from necessity rather than desire.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_006",
+    "name": "Sector Registry Clerk",
+    "parent_archetype": "Corporate Bureaucrat",
+    "description": "A paperwork-obsessed official who keeps land deeds, mining rights, and bounty contracts in tight order for colonial corporations.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_007",
+    "name": "Rust-Plains Warlord",
+    "parent_archetype": "Warlord Barbarian",
+    "description": "A brutal leader ruling a reclaimed scrapyard kingdom with scavenged mechs and an iron fist.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_008",
+    "name": "Rimworld Reformer",
+    "parent_archetype": "Civic Reformer",
+    "description": "An idealist pushing for fair justice, proper water rights, and stabilized law across lawless frontier colonies.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+
+  {
+    "id": "TR_FRONTIER_009",
+    "name": "Canyon Hermit",
+    "parent_archetype": "Wise Hermit",
+    "description": "A reclusive sage living in the cavern mesas, offering quiet guidance to travelers seeking wisdom or refuge.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_010",
+    "name": "Old War Veteran",
+    "parent_archetype": "Cynical Veteran",
+    "description": "A battle-worn soldier who fought in early colony wars, now drifting from dust town to dust town with hard-earned warnings.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_011",
+    "name": "Frontier Schoolminder",
+    "parent_archetype": "Nurturing Teacher",
+    "description": "A caring educator teaching settlers’ children in makeshift classrooms built inside old cargo hulls.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_012",
+    "name": "Faith-Rider Zealot",
+    "parent_archetype": "Fanatical Zealot",
+    "description": "A fervent preacher who roams desert planets on hoverbikes, proclaiming a cosmic doctrine and denouncing all who doubt it.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_013",
+    "name": "Orbit-Tower Scholar",
+    "parent_archetype": "Detached Scholar-Mentor",
+    "description": "A solitary academic observing frontier life from a lonely orbital station, mentoring protégés with remote lectures.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_014",
+    "name": "Drill-Sergeant Wrangler",
+    "parent_archetype": "Tough Drill Instructor",
+    "description": "A harsh trainer who prepares colonists and rookie marshals through unforgiving drills in rocky dust fields.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+
+  {
+    "id": "TR_FRONTIER_015",
+    "name": "Backroom Manipulator",
+    "parent_archetype": "Cold Manipulator",
+    "description": "A smooth political snake who engineers deals and betrayals over quiet drinks in back-alley saloons.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_016",
+    "name": "Vengeance Drifter",
+    "parent_archetype": "Vengeful Outcast",
+    "description": "A scarred wanderer pursuing outlaws who wronged them, leaving ruined hideouts in their wake.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_017",
+    "name": "Ration-Ledger Crook",
+    "parent_archetype": "Corrupt Bureaucrat",
+    "description": "A crooked clerk who manipulates supply records, siphoning critical resources from frontier colonies.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_018",
+    "name": "Saloon Sadist",
+    "parent_archetype": "Chaotic Sadist",
+    "description": "A violent outlaw who revels in chaos, provoking barroom brawls and terrorizing entire settlements.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_019",
+    "name": "Cause-Rider Extremist",
+    "parent_archetype": "Idealistic Extremist",
+    "description": "A revolutionary who sabotages rail lines and corporate waystations to enforce their vision of frontier freedom.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_020",
+    "name": "Tin-Hat Conspiracy Prospector",
+    "parent_archetype": "Paranoid Conspirator",
+    "description": "A miner convinced aliens, corporations, or rogue AIs are carving symbols into canyon walls as secret warnings.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+
+  {
+    "id": "TR_FRONTIER_021",
+    "name": "Water-Baron Trader",
+    "parent_archetype": "Exploitative Merchant",
+    "description": "A ruthless trader who monopolizes freshwater supplies, selling it at extortionate prices across thirsty rim towns.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_022",
+    "name": "Terraforming Technocrat",
+    "parent_archetype": "Ice-Cold Technocrat",
+    "description": "A cold official directing climate controllers, optimizing frontier weather with no concern for the settlers affected.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+
+  {
+    "id": "TR_FRONTIER_023",
+    "name": "Dust-Stead Companion",
+    "parent_archetype": "Loyal Companion",
+    "description": "A steadfast partner who follows their ally through desolate plains, ever-watchful with rifle or repaired rover.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_024",
+    "name": "Railjack Fixer",
+    "parent_archetype": "Practical Fixer",
+    "description": "A mechanic keeping old sky-rails, hoverbikes, and train engines alive with scrap parts and stubborn grit.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_025",
+    "name": "Stardust Healer",
+    "parent_archetype": "Soft-Spoken Healer",
+    "description": "A quiet medic traveling between settlements treating wounds from gunfights, rust storms, and cosmic radiation.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_026",
+    "name": "Rimpath Guide",
+    "parent_archetype": "Streetwise Guide",
+    "description": "A navigator who knows every canyon shortcut, unmarked mining road, and pirate ambush site.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_027",
+    "name": "Backlot Trader",
+    "parent_archetype": "Canny Trader",
+    "description": "A shrewd merchant bartering fuel cells, weapon mods, and prospecting maps in bustling spaceports.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_028",
+    "name": "Homestead Helper",
+    "parent_archetype": "Idealistic Volunteer",
+    "description": "A benevolent worker who helps rebuild barns, fix droids, and repair irradiated fields for struggling settlers.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+
+  {
+    "id": "TR_FRONTIER_029",
+    "name": "Ironback Bodyguard",
+    "parent_archetype": "Stoic Bodyguard",
+    "description": "A hardened protector guarding caravans, saloons, and frontier marshals with unshakeable resolve.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_030",
+    "name": "Homestead Defender",
+    "parent_archetype": "Parental Protector",
+    "description": "A guardian shielding their settlement’s families from raiders, dust storms, and wild terraformed beasts.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_031",
+    "name": "Badgebound Constable",
+    "parent_archetype": "Lawful Constable",
+    "description": "A strict frontier law officer who hunts fugitives across deserts, asteroid towns, and outlaw hideouts.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_032",
+    "name": "Territory Watch Sentinel",
+    "parent_archetype": "Territorial Sentinel",
+    "description": "A frontier guardian protecting a disputed valley or old rail line from poachers, raiders, and claim jumpers.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_033",
+    "name": "Sacrifice-Ridge Guardian",
+    "parent_archetype": "Martyr Guardian",
+    "description": "A protector willing to make a last stand in narrow canyons or collapsing tunnels to save their people.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_034",
+    "name": "Checkpoint Gatekeeper",
+    "parent_archetype": "Guarded Gatekeeper",
+    "description": "A wary inspector guarding the only passable route into a frontier settlement, turning away threats and impostors.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+
+  {
+    "id": "TR_FRONTIER_035",
+    "name": "Skittish Drifter",
+    "parent_archetype": "Timid Survivor",
+    "description": "A nervous wanderer scraping by on odd jobs, hiding from bounty hunters and dust storms alike.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_036",
+    "name": "Scrap-Mine Scavenger",
+    "parent_archetype": "Hardened Scavenger",
+    "description": "A fearless looter who explores abandoned mining rigs and derelict terraforming stations for salvageable tech.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_037",
+    "name": "Red Soil Farmer",
+    "parent_archetype": "Stoic Farmer",
+    "description": "A hardworking settler tending nutrient-poor Mars soil with stubborn determination and old-world tools.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_038",
+    "name": "Outpost Refugee",
+    "parent_archetype": "Opportunistic Refugee",
+    "description": "A displaced worker from a collapsed colony, drifting between settlements seeking fresh starts and new alliances.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_039",
+    "name": "Last Banner Rider",
+    "parent_archetype": "Last Loyalist",
+    "description": "The final survivor of a dissolved marshal corps, still patrolling the frontier with their old badge and ancient oaths.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+
+  {
+    "id": "TR_FRONTIER_040",
+    "name": "Canyon Archive Researcher",
+    "parent_archetype": "Curious Researcher",
+    "description": "A scholar fascinated by ancient terraforming ruins and forgotten colony logs found in canyon vaults.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_041",
+    "name": "Amoral Gene Rancher",
+    "parent_archetype": "Amoral Experimenter",
+    "description": "Runs a remote ranch breeding engineered beasts for combat, entertainment, or illegal trade.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_042",
+    "name": "Ledger-Vault Archivist",
+    "parent_archetype": "Archivist Bureaucrat",
+    "description": "Keeps meticulous records of land deeds, bounties, and ancestral claims stored in dusty vaults.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_043",
+    "name": "Drift-Trail Bard",
+    "parent_archetype": "Itinerant Storyteller",
+    "description": "A traveling singer recounting tales of lost settlers, famous duels, and ghost stations.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_044",
+    "name": "Dustfall Theorist",
+    "parent_archetype": "Anxious Theorist",
+    "description": "A nervous thinker convinced the planet’s shifting dust patterns predict catastrophe or invasion.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+
+  {
+    "id": "TR_FRONTIER_045",
+    "name": "Prankster Ranchhand",
+    "parent_archetype": "Playful Prankster",
+    "description": "A mischievous helper who plays harmless tricks around stables, saloons, and rail yards.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_046",
+    "name": "Dust Rogue Opportunist",
+    "parent_archetype": "Rogue Opportunist",
+    "description": "A fast-talking scavenger who flips stolen cargo and unused water rations to the highest bidder.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_047",
+    "name": "Mask of the Rim",
+    "parent_archetype": "Mask-Wearing Spy",
+    "description": "An infiltrator who dons shifting disguises to gather secrets from outlaw gangs and corporate liaisons.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_048",
+    "name": "Sour Saloon Jester",
+    "parent_archetype": "Cynical Jester",
+    "description": "A bitter comic who mocks corrupt sheriffs, failed prospectors, and greedy barons in frontier taverns.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_049",
+    "name": "Rail-Riot Satirist",
+    "parent_archetype": "Subversive Satirist",
+    "description": "A sharp-tongued performer whose songs expose corruption in rail companies and frontier governments.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_FRONTIER_050",
+    "name": "Frontier-Aid Volunteer",
+    "parent_archetype": "Idealistic Volunteer",
+    "description": "Helps struggling settlers with repairs, water filters, and protection against roaming outlaws.",
+    "genre_tag": "The Frontier (Space Western)"
+  },
+  {
+    "id": "TR_MYTH_001",
+    "name": "Sun-Path Commander",
+    "parent_archetype": "Visionary Commander",
+    "description": "A mythic leader who follows celestial omens, guiding tribes according to visions carved in the sky by ancient gods.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_002",
+    "name": "Stone-Map Strategist",
+    "parent_archetype": "Pragmatic Strategist",
+    "description": "A tactician who studies terrain, animal migration, and sacred stone arrangements to plan survival and warfare.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_003",
+    "name": "Oath-Fire Populist",
+    "parent_archetype": "Charismatic Populist",
+    "description": "A stirring speaker whose voice echoes with ancestral power, rallying clans with ritual songs and shared legends.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_004",
+    "name": "Iron-Age Warchief",
+    "parent_archetype": "Authoritarian General",
+    "description": "A brutal chieftain who commands warriors with absolute authority, enforcing order through sacred law and the threat of divine wrath.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_005",
+    "name": "Reluctant Chosen One",
+    "parent_archetype": "Reluctant Leader",
+    "description": "A humble villager anointed by elders and omens, guiding the tribe despite doubting their worthiness.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_006",
+    "name": "Ceremony-Keeper Scribe",
+    "parent_archetype": "Corporate Bureaucrat",
+    "description": "A ritual record-keeper who documents ancestral laws and sacred rites on clay tablets and tree bark.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_007",
+    "name": "Beast-Lord Barbarian",
+    "parent_archetype": "Warlord Barbarian",
+    "description": "A ferocious warrior who commands giant beasts through primal dominance and ritual blood pacts.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_008",
+    "name": "Covenant Reformer",
+    "parent_archetype": "Civic Reformer",
+    "description": "An idealist striving to unify fractured clans under new laws inspired by nature spirits and ancestral wisdom.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+
+  {
+    "id": "TR_MYTH_009",
+    "name": "Ridge Hermit Seer",
+    "parent_archetype": "Wise Hermit",
+    "description": "A solitary mystic who interprets signs from wind, fire, and beasts, offering cryptic guidance to those who seek them.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_010",
+    "name": "Old-Bone Warrior",
+    "parent_archetype": "Cynical Veteran",
+    "description": "A hardened survivor of ancient wars, advising younger hunters while carrying scars from both man and monster.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_011",
+    "name": "Fable-Teacher",
+    "parent_archetype": "Nurturing Teacher",
+    "description": "A gentle storyteller who teaches children survival, courage, and morality through ancestral tales.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_012",
+    "name": "Flame-Chanter Zealot",
+    "parent_archetype": "Fanatical Zealot",
+    "description": "A fervent priest who preaches the will of fire gods, demanding absolute devotion and ritual sacrifice.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_013",
+    "name": "Sky-Scroll Scholar",
+    "parent_archetype": "Detached Scholar-Mentor",
+    "description": "A withdrawn thinker who studies constellations, cave paintings, and elder myths, teaching quietly from afar.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_014",
+    "name": "War-Rite Instructor",
+    "parent_archetype": "Tough Drill Instructor",
+    "description": "A brutal trainer who teaches ritual combat, harsh discipline, and survival under divine trial.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+
+  {
+    "id": "TR_MYTH_015",
+    "name": "Shadow-Circle Manipulator",
+    "parent_archetype": "Cold Manipulator",
+    "description": "A schemer who influences tribal politics through secret omens, veiled threats, and manipulation of ancient taboos.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_016",
+    "name": "Oathbreak Exile",
+    "parent_archetype": "Vengeful Outcast",
+    "description": "A shunned warrior seeking vengeance for betrayal, wielding cursed weapons forged in sacred fire.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_017",
+    "name": "Scroll-Fraud Scribe",
+    "parent_archetype": "Corrupt Bureaucrat",
+    "description": "A dishonest keeper of tribal records who alters sacred genealogies to elevate allies or dishonor enemies.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_018",
+    "name": "Blood-Mask Sadist",
+    "parent_archetype": "Chaotic Sadist",
+    "description": "A mad ritualist who delights in violence disguised as sacred rites, wearing the bones of their victims.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_019",
+    "name": "Purity Extremist",
+    "parent_archetype": "Idealistic Extremist",
+    "description": "A zealot who seeks to purge all tribes of foreign influence, enforcing a harsh return to ancient ways.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_020",
+    "name": "Sky-Sign Conspirator",
+    "parent_archetype": "Paranoid Conspirator",
+    "description": "A frantic watcher convinced gods hide messages in star movements and strange animal migrations.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+
+  {
+    "id": "TR_MYTH_021",
+    "name": "Barter-Beast Merchant",
+    "parent_archetype": "Exploitative Merchant",
+    "description": "A ruthless trader who captures sacred beasts or rare herbs, exploiting tradition for immense profit.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_022",
+    "name": "Stone-Law Technocrat",
+    "parent_archetype": "Ice-Cold Technocrat",
+    "description": "A calculating organizer who structures tribal life with rigid laws carved in stone, ignoring emotional or spiritual nuance.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+
+  {
+    "id": "TR_MYTH_023",
+    "name": "Hearth-Guard Companion",
+    "parent_archetype": "Loyal Companion",
+    "description": "A devoted protector who follows their chosen ally across sacred forests and storm-worn mountains.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_024",
+    "name": "Firepit Fixer",
+    "parent_archetype": "Practical Fixer",
+    "description": "A skilled artisan who repairs tools, shelters, snares, and ceremonial items essential for clan survival.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_025",
+    "name": "Herb-Loom Healer",
+    "parent_archetype": "Soft-Spoken Healer",
+    "description": "A gentle medic who treats wounds and curses with herbs, chants, and the blessings of nature spirits.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_026",
+    "name": "Path-Kin Guide",
+    "parent_archetype": "Streetwise Guide",
+    "description": "A trailmaster who knows where beasts roam, rivers shift, and spirits linger, guiding travelers safely.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_027",
+    "name": "Blessed Market Trader",
+    "parent_archetype": "Canny Trader",
+    "description": "A shrewd barterer who deals in rare pelts, bone charms, and divine relics, reading omens to secure profit.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_028",
+    "name": "Village Helper",
+    "parent_archetype": "Idealistic Volunteer",
+    "description": "A kind soul who rebuilds huts, gathers water, and helps any clan member without expecting reward.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+
+  {
+    "id": "TR_MYTH_029",
+    "name": "Shield-Oath Guardian",
+    "parent_archetype": "Stoic Bodyguard",
+    "description": "A steadfast protector sworn by sacred ritual to guard their charge until death or divine release.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_030",
+    "name": "Earth-Bond Protector",
+    "parent_archetype": "Parental Protector",
+    "description": "A nurturing defender safeguarding children and vulnerable villagers from beasts and rival clans.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_031",
+    "name": "Law-Spear Constable",
+    "parent_archetype": "Lawful Constable",
+    "description": "A tribal peacekeeper who enforces ancient laws with a carved spear and absolute impartiality.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_032",
+    "name": "Territory Rock Sentinel",
+    "parent_archetype": "Territorial Sentinel",
+    "description": "A sentinel who guards sacred boundaries marked by stone runes, never allowing trespass from neighboring clans.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_033",
+    "name": "Sacrifice-Path Guardian",
+    "parent_archetype": "Martyr Guardian",
+    "description": "A protector prepared to give their life to safeguard a divine site or ensure a prophecy’s fulfillment.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_034",
+    "name": "Stone-Gate Warden",
+    "parent_archetype": "Guarded Gatekeeper",
+    "description": "A stern keeper who guards the entrance to a sacred valley or ancient cavern housing relics of forgotten gods.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+
+  {
+    "id": "TR_MYTH_035",
+    "name": "Hollow-Tree Survivor",
+    "parent_archetype": "Timid Survivor",
+    "description": "A fearful wanderer who hides inside roots and caves, surviving by evading beasts and hostile clans.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_036",
+    "name": "Bonepile Scavenger",
+    "parent_archetype": "Hardened Scavenger",
+    "description": "A resilient gatherer who scavenges from battlefield remains, hunting tools, and ancient monster bones.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_037",
+    "name": "Riverbank Farmer",
+    "parent_archetype": "Stoic Farmer",
+    "description": "A quiet grower who cultivates fertile soil along ancient rivers, guiding crops by tradition and lunar cycles.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_038",
+    "name": "Storm-Fleeing Refugee",
+    "parent_archetype": "Opportunistic Refugee",
+    "description": "A survivor driven from their homeland by divine storms or rampaging beasts, adapting quickly to new tribes.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_039",
+    "name": "Last Torchbearer",
+    "parent_archetype": "Last Loyalist",
+    "description": "The final follower of a fallen tribe or dead god, determined to keep their rituals and stories alive alone.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+
+  {
+    "id": "TR_MYTH_040",
+    "name": "Glyph-Seeking Researcher",
+    "parent_archetype": "Curious Researcher",
+    "description": "A scholar fascinated by ancient glyphs, cave drawings, and forgotten myths hidden in sacred caverns.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_041",
+    "name": "Bone-Shaper Experimenter",
+    "parent_archetype": "Amoral Experimenter",
+    "description": "A reckless ritualist who fuses human and beast traits through primal magic, ignoring moral consequences.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_042",
+    "name": "Tablet Vault Archivist",
+    "parent_archetype": "Archivist Bureaucrat",
+    "description": "A keeper who stores clay tablets, carved stones, and tribe histories inside protected earth mounds.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_043",
+    "name": "Campfire Taleweaver",
+    "parent_archetype": "Itinerant Storyteller",
+    "description": "A wandering bard sharing myths of gods, heroes, and the first beasts to any tribe that offers shelter.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_044",
+    "name": "Omen-Worrier Theorist",
+    "parent_archetype": "Anxious Theorist",
+    "description": "A nervous thinker convinced the gods signal impending doom through strange storms and animal behavior.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+
+  {
+    "id": "TR_MYTH_045",
+    "name": "Ember-Trickster",
+    "parent_archetype": "Playful Prankster",
+    "description": "A mischievous fire dancer who bewilders clans with illusions of flame and mischief during sacred festivals.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_046",
+    "name": "Beast-Bandit Opportunist",
+    "parent_archetype": "Rogue Opportunist",
+    "description": "A clever raider who steals sacred relics or rare pelts, slipping through forests with beast-like agility.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_047",
+    "name": "Mask-of-the-Spirits Spy",
+    "parent_archetype": "Mask-Wearing Spy",
+    "description": "An infiltrator who dons ritual masks to blend among rival clans or trick divine guardians.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_048",
+    "name": "Cave-Mirth Jester",
+    "parent_archetype": "Cynical Jester",
+    "description": "A sharp-witted entertainer who mocks chiefs, gods, and tradition, often at great personal risk.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+  {
+    "id": "TR_MYTH_049",
+    "name": "Totem Satirist",
+    "parent_archetype": "Subversive Satirist",
+    "description": "A bold performer who uses carved masks and painted totems to expose hypocrisy in tribal leadership.",
+    "genre_tag": "Ancient Myth & Pre-History"
+  },
+ ]

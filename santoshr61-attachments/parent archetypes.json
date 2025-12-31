@@ -1,0 +1,702 @@
+[
+  {
+    "id": "ARCH_LEADER_01",
+    "name": "Visionary Commander",
+    "function_category": "Leadership",
+    "ocean_bias": {
+      "openness": 0.9,
+      "conscientiousness": 0.8,
+      "extroversion": 0.8,
+      "agreeableness": 0.5,
+      "neuroticism": 0.3
+    },
+    "primary_goal": "Shape the world according to a grand, long-term vision.",
+    "primary_fear": "Dying before their vision becomes reality."
+  },
+  {
+    "id": "ARCH_LEADER_02",
+    "name": "Pragmatic Strategist",
+    "function_category": "Leadership",
+    "ocean_bias": {
+      "openness": 0.6,
+      "conscientiousness": 0.9,
+      "extroversion": 0.6,
+      "agreeableness": 0.4,
+      "neuroticism": 0.3
+    },
+    "primary_goal": "Maximize advantage through careful planning and resource use.",
+    "primary_fear": "Losing control due to chaos or poor planning."
+  },
+  {
+    "id": "ARCH_LEADER_03",
+    "name": "Charismatic Populist",
+    "function_category": "Leadership",
+    "ocean_bias": {
+      "openness": 0.5,
+      "conscientiousness": 0.5,
+      "extroversion": 0.9,
+      "agreeableness": 0.6,
+      "neuroticism": 0.5
+    },
+    "primary_goal": "Win the hearts of the masses and remain adored.",
+    "primary_fear": "Public rejection or loss of popularity."
+  },
+  {
+    "id": "ARCH_LEADER_04",
+    "name": "Authoritarian General",
+    "function_category": "Leadership",
+    "ocean_bias": {
+      "openness": 0.3,
+      "conscientiousness": 0.9,
+      "extroversion": 0.7,
+      "agreeableness": 0.2,
+      "neuroticism": 0.4
+    },
+    "primary_goal": "Maintain strict order through discipline and force.",
+    "primary_fear": "Insurrection or disobedience undermining their authority."
+  },
+  {
+    "id": "ARCH_LEADER_05",
+    "name": "Reluctant Leader",
+    "function_category": "Leadership",
+    "ocean_bias": {
+      "openness": 0.7,
+      "conscientiousness": 0.6,
+      "extroversion": 0.4,
+      "agreeableness": 0.8,
+      "neuroticism": 0.6
+    },
+    "primary_goal": "Protect others by leading only when absolutely necessary.",
+    "primary_fear": "Failing people who have placed their trust in them."
+  },
+  {
+    "id": "ARCH_LEADER_06",
+    "name": "Corporate Bureaucrat",
+    "function_category": "Leadership",
+    "ocean_bias": {
+      "openness": 0.2,
+      "conscientiousness": 0.9,
+      "extroversion": 0.5,
+      "agreeableness": 0.4,
+      "neuroticism": 0.5
+    },
+    "primary_goal": "Preserve structure, procedure, and their own position.",
+    "primary_fear": "Disruptive change that invalidates established rules."
+  },
+  {
+    "id": "ARCH_LEADER_07",
+    "name": "Warlord Barbarian",
+    "function_category": "Leadership",
+    "ocean_bias": {
+      "openness": 0.3,
+      "conscientiousness": 0.4,
+      "extroversion": 0.9,
+      "agreeableness": 0.2,
+      "neuroticism": 0.5
+    },
+    "primary_goal": "Expand power through conquest and intimidation.",
+    "primary_fear": "Appearing weak and losing dominance."
+  },
+  {
+    "id": "ARCH_LEADER_08",
+    "name": "Civic Reformer",
+    "function_category": "Leadership",
+    "ocean_bias": {
+      "openness": 0.8,
+      "conscientiousness": 0.7,
+      "extroversion": 0.7,
+      "agreeableness": 0.7,
+      "neuroticism": 0.4
+    },
+    "primary_goal": "Improve institutions for the common good.",
+    "primary_fear": "Corruption or apathy rendering change impossible."
+  },
+  {
+    "id": "ARCH_MENTOR_01",
+    "name": "Wise Hermit",
+    "function_category": "Mentorship",
+    "ocean_bias": {
+      "openness": 0.9,
+      "conscientiousness": 0.6,
+      "extroversion": 0.1,
+      "agreeableness": 0.8,
+      "neuroticism": 0.3
+    },
+    "primary_goal": "Pass on essential knowledge to a worthy few.",
+    "primary_fear": "Seeing wisdom forgotten or misused."
+  },
+  {
+    "id": "ARCH_MENTOR_02",
+    "name": "Cynical Veteran",
+    "function_category": "Mentorship",
+    "ocean_bias": {
+      "openness": 0.4,
+      "conscientiousness": 0.7,
+      "extroversion": 0.4,
+      "agreeableness": 0.3,
+      "neuroticism": 0.6
+    },
+    "primary_goal": "Prepare others to survive harsh realities.",
+    "primary_fear": "Watching naïve proteges die repeating old mistakes."
+  },
+  {
+    "id": "ARCH_MENTOR_03",
+    "name": "Nurturing Teacher",
+    "function_category": "Mentorship",
+    "ocean_bias": {
+      "openness": 0.7,
+      "conscientiousness": 0.8,
+      "extroversion": 0.6,
+      "agreeableness": 0.9,
+      "neuroticism": 0.4
+    },
+    "primary_goal": "Help others grow into their best selves.",
+    "primary_fear": "Abandoning or failing those who rely on their guidance."
+  },
+  {
+    "id": "ARCH_MENTOR_04",
+    "name": "Fanatical Zealot",
+    "function_category": "Mentorship",
+    "ocean_bias": {
+      "openness": 0.2,
+      "conscientiousness": 0.8,
+      "extroversion": 0.7,
+      "agreeableness": 0.2,
+      "neuroticism": 0.7
+    },
+    "primary_goal": "Convert others to a rigid ideology or faith.",
+    "primary_fear": "Doubt or heresy spreading within their flock."
+  },
+  {
+    "id": "ARCH_MENTOR_05",
+    "name": "Detached Scholar-Mentor",
+    "function_category": "Mentorship",
+    "ocean_bias": {
+      "openness": 0.8,
+      "conscientiousness": 0.7,
+      "extroversion": 0.3,
+      "agreeableness": 0.5,
+      "neuroticism": 0.3
+    },
+    "primary_goal": "Cultivate intellect and curiosity in select students.",
+    "primary_fear": "Ignorance triumphing over reason."
+  },
+  {
+    "id": "ARCH_MENTOR_06",
+    "name": "Tough Drill Instructor",
+    "function_category": "Mentorship",
+    "ocean_bias": {
+      "openness": 0.3,
+      "conscientiousness": 0.9,
+      "extroversion": 0.7,
+      "agreeableness": 0.3,
+      "neuroticism": 0.5
+    },
+    "primary_goal": "Forge resilience and discipline through hardship.",
+    "primary_fear": "Producing weak or undisciplined followers."
+  },
+  {
+    "id": "ARCH_SHADOW_01",
+    "name": "Cold Manipulator",
+    "function_category": "Antagonism",
+    "ocean_bias": {
+      "openness": 0.7,
+      "conscientiousness": 0.8,
+      "extroversion": 0.5,
+      "agreeableness": 0.1,
+      "neuroticism": 0.2
+    },
+    "primary_goal": "Control outcomes from behind the scenes.",
+    "primary_fear": "Losing leverage and being exposed."
+  },
+  {
+    "id": "ARCH_SHADOW_02",
+    "name": "Vengeful Outcast",
+    "function_category": "Antagonism",
+    "ocean_bias": {
+      "openness": 0.5,
+      "conscientiousness": 0.6,
+      "extroversion": 0.3,
+      "agreeableness": 0.1,
+      "neuroticism": 0.8
+    },
+    "primary_goal": "Punish those they hold responsible for past suffering.",
+    "primary_fear": "Being forgotten or forgiven without retribution."
+  },
+  {
+    "id": "ARCH_SHADOW_03",
+    "name": "Corrupt Bureaucrat",
+    "function_category": "Antagonism",
+    "ocean_bias": {
+      "openness": 0.2,
+      "conscientiousness": 0.8,
+      "extroversion": 0.4,
+      "agreeableness": 0.2,
+      "neuroticism": 0.5
+    },
+    "primary_goal": "Exploit systems for personal gain while appearing compliant.",
+    "primary_fear": "Audit, exposure, or any disruption of the system they exploit."
+  },
+  {
+    "id": "ARCH_SHADOW_04",
+    "name": "Chaotic Sadist",
+    "function_category": "Antagonism",
+    "ocean_bias": {
+      "openness": 0.4,
+      "conscientiousness": 0.2,
+      "extroversion": 0.8,
+      "agreeableness": 0.0,
+      "neuroticism": 0.7
+    },
+    "primary_goal": "Create fear and chaos for personal amusement.",
+    "primary_fear": "Boredom and irrelevance."
+  },
+  {
+    "id": "ARCH_SHADOW_05",
+    "name": "Idealistic Extremist",
+    "function_category": "Antagonism",
+    "ocean_bias": {
+      "openness": 0.5,
+      "conscientiousness": 0.7,
+      "extroversion": 0.6,
+      "agreeableness": 0.2,
+      "neuroticism": 0.7
+    },
+    "primary_goal": "Force radical change for a single, absolute cause.",
+    "primary_fear": "Compromise that dilutes their ideology."
+  },
+  {
+    "id": "ARCH_SHADOW_06",
+    "name": "Paranoid Conspirator",
+    "function_category": "Antagonism",
+    "ocean_bias": {
+      "openness": 0.6,
+      "conscientiousness": 0.4,
+      "extroversion": 0.3,
+      "agreeableness": 0.2,
+      "neuroticism": 0.9
+    },
+    "primary_goal": "Expose or preempt imagined threats and plots.",
+    "primary_fear": "Being outmaneuvered by unseen enemies."
+  },
+  {
+    "id": "ARCH_SHADOW_07",
+    "name": "Exploitative Merchant",
+    "function_category": "Antagonism",
+    "ocean_bias": {
+      "openness": 0.5,
+      "conscientiousness": 0.7,
+      "extroversion": 0.7,
+      "agreeableness": 0.1,
+      "neuroticism": 0.4
+    },
+    "primary_goal": "Extract maximum profit regardless of cost to others.",
+    "primary_fear": "Losing their economic monopoly or bargaining edge."
+  },
+  {
+    "id": "ARCH_SHADOW_08",
+    "name": "Ice-Cold Technocrat",
+    "function_category": "Antagonism",
+    "ocean_bias": {
+      "openness": 0.7,
+      "conscientiousness": 0.9,
+      "extroversion": 0.3,
+      "agreeableness": 0.1,
+      "neuroticism": 0.2
+    },
+    "primary_goal": "Optimize systems even at the expense of human welfare.",
+    "primary_fear": "Emotional or irrational interference disrupting their designs."
+  },
+  {
+    "id": "ARCH_TRICKSTER_01",
+    "name": "Playful Prankster",
+    "function_category": "Trickster",
+    "ocean_bias": {
+      "openness": 0.8,
+      "conscientiousness": 0.3,
+      "extroversion": 0.9,
+      "agreeableness": 0.6,
+      "neuroticism": 0.4
+    },
+    "primary_goal": "Disrupt routines with humor and mischief.",
+    "primary_fear": "Being ignored or taken too seriously."
+  },
+  {
+    "id": "ARCH_TRICKSTER_02",
+    "name": "Rogue Opportunist",
+    "function_category": "Trickster",
+    "ocean_bias": {
+      "openness": 0.7,
+      "conscientiousness": 0.4,
+      "extroversion": 0.7,
+      "agreeableness": 0.3,
+      "neuroticism": 0.5
+    },
+    "primary_goal": "Exploit chances for personal gain with minimal commitment.",
+    "primary_fear": "Being tied down by obligations or rules."
+  },
+  {
+    "id": "ARCH_TRICKSTER_03",
+    "name": "Mask-Wearing Spy",
+    "function_category": "Trickster",
+    "ocean_bias": {
+      "openness": 0.8,
+      "conscientiousness": 0.7,
+      "extroversion": 0.6,
+      "agreeableness": 0.3,
+      "neuroticism": 0.6
+    },
+    "primary_goal": "Gather secrets while maintaining shifting identities.",
+    "primary_fear": "Having their true self or allegiance exposed."
+  },
+  {
+    "id": "ARCH_TRICKSTER_04",
+    "name": "Cynical Jester",
+    "function_category": "Trickster",
+    "ocean_bias": {
+      "openness": 0.6,
+      "conscientiousness": 0.4,
+      "extroversion": 0.8,
+      "agreeableness": 0.5,
+      "neuroticism": 0.7
+    },
+    "primary_goal": "Mock hypocrisy by turning serious moments into farce.",
+    "primary_fear": "Being forced into sincerity and vulnerability."
+  },
+  {
+    "id": "ARCH_TRICKSTER_05",
+    "name": "Chaos Gambler",
+    "function_category": "Trickster",
+    "ocean_bias": {
+      "openness": 0.7,
+      "conscientiousness": 0.2,
+      "extroversion": 0.9,
+      "agreeableness": 0.4,
+      "neuroticism": 0.6
+    },
+    "primary_goal": "Chase thrill and fortune through risky bets.",
+    "primary_fear": "A stagnant life devoid of risk or excitement."
+  },
+  {
+    "id": "ARCH_TRICKSTER_06",
+    "name": "Subversive Satirist",
+    "function_category": "Trickster",
+    "ocean_bias": {
+      "openness": 0.9,
+      "conscientiousness": 0.5,
+      "extroversion": 0.6,
+      "agreeableness": 0.3,
+      "neuroticism": 0.5
+    },
+    "primary_goal": "Undermine abusive power through wit and subversion.",
+    "primary_fear": "Their message being co-opted or silenced."
+  },
+  {
+    "id": "ARCH_ALLY_01",
+    "name": "Loyal Companion",
+    "function_category": "Support",
+    "ocean_bias": {
+      "openness": 0.5,
+      "conscientiousness": 0.7,
+      "extroversion": 0.6,
+      "agreeableness": 0.9,
+      "neuroticism": 0.4
+    },
+    "primary_goal": "Stand by chosen allies through hardship.",
+    "primary_fear": "Being abandoned or betraying someone they care about."
+  },
+  {
+    "id": "ARCH_ALLY_02",
+    "name": "Practical Fixer",
+    "function_category": "Support",
+    "ocean_bias": {
+      "openness": 0.5,
+      "conscientiousness": 0.8,
+      "extroversion": 0.5,
+      "agreeableness": 0.7,
+      "neuroticism": 0.3
+    },
+    "primary_goal": "Solve concrete problems and keep operations running.",
+    "primary_fear": "Watching preventable issues spiral out of control."
+  },
+  {
+    "id": "ARCH_ALLY_03",
+    "name": "Soft-Spoken Healer",
+    "function_category": "Support",
+    "ocean_bias": {
+      "openness": 0.7,
+      "conscientiousness": 0.6,
+      "extroversion": 0.3,
+      "agreeableness": 0.9,
+      "neuroticism": 0.5
+    },
+    "primary_goal": "Relieve pain and restore others physically or emotionally.",
+    "primary_fear": "Being unable to help when others are suffering."
+  },
+  {
+    "id": "ARCH_ALLY_04",
+    "name": "Streetwise Guide",
+    "function_category": "Support",
+    "ocean_bias": {
+      "openness": 0.6,
+      "conscientiousness": 0.5,
+      "extroversion": 0.7,
+      "agreeableness": 0.6,
+      "neuroticism": 0.4
+    },
+    "primary_goal": "Navigate complex environments using local knowledge.",
+    "primary_fear": "Losing their edge or home territory advantage."
+  },
+  {
+    "id": "ARCH_ALLY_05",
+    "name": "Canny Trader",
+    "function_category": "Support",
+    "ocean_bias": {
+      "openness": 0.6,
+      "conscientiousness": 0.7,
+      "extroversion": 0.7,
+      "agreeableness": 0.5,
+      "neuroticism": 0.3
+    },
+    "primary_goal": "Broker deals that benefit themselves and their partners.",
+    "primary_fear": "Being cheated or locked out of profitable exchanges."
+  },
+  {
+    "id": "ARCH_ALLY_06",
+    "name": "Idealistic Volunteer",
+    "function_category": "Support",
+    "ocean_bias": {
+      "openness": 0.8,
+      "conscientiousness": 0.6,
+      "extroversion": 0.6,
+      "agreeableness": 0.9,
+      "neuroticism": 0.6
+    },
+    "primary_goal": "Contribute to causes they believe will improve the world.",
+    "primary_fear": "Their efforts being meaningless or exploited."
+  },
+  {
+    "id": "ARCH_GUARDIAN_01",
+    "name": "Stoic Bodyguard",
+    "function_category": "Protection",
+    "ocean_bias": {
+      "openness": 0.3,
+      "conscientiousness": 0.9,
+      "extroversion": 0.3,
+      "agreeableness": 0.6,
+      "neuroticism": 0.2
+    },
+    "primary_goal": "Protect a person or asset with unwavering dedication.",
+    "primary_fear": "Failing their charge in a critical moment."
+  },
+  {
+    "id": "ARCH_GUARDIAN_02",
+    "name": "Parental Protector",
+    "function_category": "Protection",
+    "ocean_bias": {
+      "openness": 0.5,
+      "conscientiousness": 0.7,
+      "extroversion": 0.5,
+      "agreeableness": 0.9,
+      "neuroticism": 0.6
+    },
+    "primary_goal": "Shield the vulnerable from harm and hardship.",
+    "primary_fear": "Seeing loved ones hurt due to their own inaction."
+  },
+  {
+    "id": "ARCH_GUARDIAN_03",
+    "name": "Lawful Constable",
+    "function_category": "Protection",
+    "ocean_bias": {
+      "openness": 0.4,
+      "conscientiousness": 0.9,
+      "extroversion": 0.6,
+      "agreeableness": 0.6,
+      "neuroticism": 0.4
+    },
+    "primary_goal": "Maintain public order by upholding established law.",
+    "primary_fear": "Lawlessness making their role irrelevant."
+  },
+  {
+    "id": "ARCH_GUARDIAN_04",
+    "name": "Territorial Sentinel",
+    "function_category": "Protection",
+    "ocean_bias": {
+      "openness": 0.3,
+      "conscientiousness": 0.8,
+      "extroversion": 0.4,
+      "agreeableness": 0.3,
+      "neuroticism": 0.5
+    },
+    "primary_goal": "Defend a defined territory or border at all costs.",
+    "primary_fear": "Intrusion that signals they failed their watch."
+  },
+  {
+    "id": "ARCH_GUARDIAN_05",
+    "name": "Martyr Guardian",
+    "function_category": "Protection",
+    "ocean_bias": {
+      "openness": 0.6,
+      "conscientiousness": 0.8,
+      "extroversion": 0.5,
+      "agreeableness": 0.8,
+      "neuroticism": 0.7
+    },
+    "primary_goal": "Sacrifice themselves if necessary to save others.",
+    "primary_fear": "Dying for nothing or failing to protect in the end."
+  },
+  {
+    "id": "ARCH_GUARDIAN_06",
+    "name": "Guarded Gatekeeper",
+    "function_category": "Protection",
+    "ocean_bias": {
+      "openness": 0.2,
+      "conscientiousness": 0.8,
+      "extroversion": 0.3,
+      "agreeableness": 0.4,
+      "neuroticism": 0.5
+    },
+    "primary_goal": "Control access to resources, information, or places.",
+    "primary_fear": "Granting access to someone who should have been barred."
+  },
+  {
+    "id": "ARCH_SURVIVOR_01",
+    "name": "Timid Survivor",
+    "function_category": "Survival",
+    "ocean_bias": {
+      "openness": 0.4,
+      "conscientiousness": 0.6,
+      "extroversion": 0.2,
+      "agreeableness": 0.7,
+      "neuroticism": 0.9
+    },
+    "primary_goal": "Avoid danger and stay alive at any cost.",
+    "primary_fear": "Direct confrontation or being cornered with no escape."
+  },
+  {
+    "id": "ARCH_SURVIVOR_02",
+    "name": "Hardened Scavenger",
+    "function_category": "Survival",
+    "ocean_bias": {
+      "openness": 0.5,
+      "conscientiousness": 0.5,
+      "extroversion": 0.4,
+      "agreeableness": 0.3,
+      "neuroticism": 0.6
+    },
+    "primary_goal": "Scrape by on whatever can be found or stolen.",
+    "primary_fear": "Running out of resources in a hostile environment."
+  },
+  {
+    "id": "ARCH_SURVIVOR_03",
+    "name": "Stoic Farmer",
+    "function_category": "Survival",
+    "ocean_bias": {
+      "openness": 0.4,
+      "conscientiousness": 0.8,
+      "extroversion": 0.3,
+      "agreeableness": 0.7,
+      "neuroticism": 0.3
+    },
+    "primary_goal": "Maintain a stable, modest life through steady work.",
+    "primary_fear": "Disaster that destroys their livelihood."
+  },
+  {
+    "id": "ARCH_SURVIVOR_04",
+    "name": "Opportunistic Refugee",
+    "function_category": "Survival",
+    "ocean_bias": {
+      "openness": 0.7,
+      "conscientiousness": 0.4,
+      "extroversion": 0.6,
+      "agreeableness": 0.5,
+      "neuroticism": 0.8
+    },
+    "primary_goal": "Find safety and leverage new situations to restart life.",
+    "primary_fear": "Being forced back into the dangers they escaped."
+  },
+  {
+    "id": "ARCH_SURVIVOR_05",
+    "name": "Last Loyalist",
+    "function_category": "Survival",
+    "ocean_bias": {
+      "openness": 0.5,
+      "conscientiousness": 0.7,
+      "extroversion": 0.4,
+      "agreeableness": 0.8,
+      "neuroticism": 0.7
+    },
+    "primary_goal": "Preserve the remnants of a fallen group or cause.",
+    "primary_fear": "Becoming the only one left who remembers."
+  },
+  {
+    "id": "ARCH_SCHOLAR_01",
+    "name": "Curious Researcher",
+    "function_category": "Knowledge",
+    "ocean_bias": {
+      "openness": 0.9,
+      "conscientiousness": 0.8,
+      "extroversion": 0.4,
+      "agreeableness": 0.7,
+      "neuroticism": 0.4
+    },
+    "primary_goal": "Discover and document new truths about the world.",
+    "primary_fear": "Stagnation of knowledge or being censored."
+  },
+  {
+    "id": "ARCH_SCHOLAR_02",
+    "name": "Amoral Experimenter",
+    "function_category": "Knowledge",
+    "ocean_bias": {
+      "openness": 0.8,
+      "conscientiousness": 0.7,
+      "extroversion": 0.3,
+      "agreeableness": 0.1,
+      "neuroticism": 0.3
+    },
+    "primary_goal": "Push the boundaries of understanding regardless of cost.",
+    "primary_fear": "Limits imposed by ethics, law, or fear."
+  },
+  {
+    "id": "ARCH_SCHOLAR_03",
+    "name": "Archivist Bureaucrat",
+    "function_category": "Knowledge",
+    "ocean_bias": {
+      "openness": 0.3,
+      "conscientiousness": 0.9,
+      "extroversion": 0.2,
+      "agreeableness": 0.5,
+      "neuroticism": 0.4
+    },
+    "primary_goal": "Classify and preserve records with perfect order.",
+    "primary_fear": "Loss or disorder in their archive."
+  },
+  {
+    "id": "ARCH_SCHOLAR_04",
+    "name": "Itinerant Storyteller",
+    "function_category": "Knowledge",
+    "ocean_bias": {
+      "openness": 0.8,
+      "conscientiousness": 0.5,
+      "extroversion": 0.8,
+      "agreeableness": 0.8,
+      "neuroticism": 0.5
+    },
+    "primary_goal": "Collect and share stories across cultures.",
+    "primary_fear": "Having their voice silenced or forgotten."
+  },
+  {
+    "id": "ARCH_SCHOLAR_05",
+    "name": "Anxious Theorist",
+    "function_category": "Knowledge",
+    "ocean_bias": {
+      "openness": 0.9,
+      "conscientiousness": 0.6,
+      "extroversion": 0.2,
+      "agreeableness": 0.6,
+      "neuroticism": 0.9
+    },
+    "primary_goal": "Develop explanations for complex systems and patterns.",
+    "primary_fear": "Being proven fundamentally wrong or irrelevant."
+  }
+]
