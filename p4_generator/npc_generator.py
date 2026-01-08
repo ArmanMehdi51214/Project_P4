@@ -24,24 +24,41 @@ def generate_npc(
 ) -> Dict:
     rng = random.Random(seed)
 
+    # -------------------------------------------------
+    # Terrain lookup
+    # -------------------------------------------------
     cell: WorldCell | None = terrain_map.get_cell(x, y)
     if cell is None:
         raise ValueError(f"No terrain cell at ({x}, {y})")
 
     biome = get_biome(cell.biome_code)
     if biome is None:
-    # Fallback: treat unknown land biomes as frontier hinterland
-      biome = get_biome(40)
+        # Fallback: treat unknown land biomes as frontier hinterland
+        biome = get_biome(40)
 
+    # -------------------------------------------------
+    # Archetype selection (biome constrained)
+    # -------------------------------------------------
     allowed_archetypes = ARCHETYPE_POOLS.get(biome.code, [])
     if not allowed_archetypes:
         raise ValueError(f"No archetype pool for biome {biome.code}")
 
     parent = select_archetype(parents_by_id, allowed_archetypes, rng)
 
+    # -------------------------------------------------
+    # Psychology shaping
+    # -------------------------------------------------
     biome_mods = BIOME_OCEAN_MODIFIERS.get(biome.code, {})
-    ocean_stats, explanation = apply_biome_modifiers(parent.ocean_bias, biome_mods)
+    ocean_stats, explanation = apply_biome_modifiers(
+        parent.ocean_bias,
+        biome_mods,
+    )
 
+    trait = max(ocean_stats, key=ocean_stats.get)
+
+    # -------------------------------------------------
+    # Trope selection (genre-aware)
+    # -------------------------------------------------
     trope = select_trope(
         tropes=tropes,
         mapping_rows=mapping_rows,
@@ -50,6 +67,9 @@ def generate_npc(
         rng=rng,
     )
 
+    # -------------------------------------------------
+    # Final NPC payload
+    # -------------------------------------------------
     npc = {
         "npc_id": f"NPC_GEN_x{x}y{y}",
         "name": trope.name,
@@ -64,7 +84,7 @@ def generate_npc(
         },
         "psychometrics": {
             "ocean_stats": ocean_stats,
-            "dominant_trait": max(ocean_stats, key=ocean_stats.get),
+            "dominant_trait": f"High {trait.capitalize()}",
             "environmental_influence": explanation,
         },
         "narrative": {

@@ -1,0 +1,33 @@
+{
+  "npc_id": "NPC_GEN_x0y0",
+  "name": "Holo-Stage Populist",
+  "archetype_parent": "ARCH_LEADER_03",
+  "archetype_name": "Charismatic Populist",
+  "trope_child": "TR_CYBER_006",
+  "trope_name": "Holo-Stage Populist",
+  "origin": {
+    "coordinates": {
+      "x": 0,
+      "y": 0
+    },
+    "biome_id": 50,
+    "mapped_theme": "Cyberpunk Sprawl"
+  },
+  "psychometrics": {
+    "ocean_stats": {
+      "openness": 0.5,
+      "conscientiousness": 0.65,
+      "extroversion": 0.9,
+      "agreeableness": 0.5,
+      "neuroticism": 0.6
+    },
+    "dominant_trait": "High Extroversion",
+    "environmental_influence": "Biome influence: conscientiousness +0.15, agreeableness -0.1, neuroticism +0.1"
+  },
+  "narrative": {
+    "goal": "Win the hearts of the masses and remain adored.",
+    "fear": "Public rejection or loss of popularity.",
+    "visual_description": "A magnetic AR performer whose digitally projected charisma rallies thousands to protest corporate oppression.",
+    "dialogue_voice": "Cyberpunk Sprawl"
+  }
+}

@@ -15,6 +15,7 @@ from p4_rules.archetype_pools import ARCHETYPE_POOLS
 from p4_rules.biome_rules import BIOME_OCEAN_MODIFIERS
 
 from p4_generator.npc_generator import generate_npc
+from p4_utils.terrain_utils import find_cell_with_biome
 
 
 # ---------------------------------------------------------------------
@@ -87,7 +88,6 @@ def main():
     parents_by_id = {p.id: p for p in parents}
 
     terrain_loader = TerrainLoader()
-
     tokyo = terrain_loader.load_map(paths.terrain_dir / "Tokyo_MegaCity.json")
     yakutsk = terrain_loader.load_map(paths.terrain_dir / "Yakutsk_FrozenTundra.json")
 
@@ -115,13 +115,19 @@ def main():
     print("Yakutsk modifiers:", BIOME_OCEAN_MODIFIERS.get(100))
 
     # -------------------------------------------------
-    # Phase 4: NPC Generation (THE PAYOFF)
+    # Phase 4: NPC Generation (CORRECT SAMPLING)
     # -------------------------------------------------
     print("\n=== PHASE 4: NPC GENERATION ===")
 
+    tokyo_xy = find_cell_with_biome(tokyo, 50)       # Urban core
+    yakutsk_xy = find_cell_with_biome(yakutsk, 100) # True tundra
+
+    if tokyo_xy is None or yakutsk_xy is None:
+        raise RuntimeError("Required biome cells not found for demo")
+
     tokyo_npc = generate_npc(
-        x=10,
-        y=10,
+        x=tokyo_xy[0],
+        y=tokyo_xy[1],
         terrain_map=tokyo,
         parents_by_id=parents_by_id,
         tropes=tropes,
@@ -130,8 +136,8 @@ def main():
     )
 
     yakutsk_npc = generate_npc(
-        x=10,
-        y=10,
+        x=yakutsk_xy[0],
+        y=yakutsk_xy[1],
         terrain_map=yakutsk,
         parents_by_id=parents_by_id,
         tropes=tropes,

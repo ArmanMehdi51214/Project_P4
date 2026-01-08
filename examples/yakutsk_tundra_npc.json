@@ -1,0 +1,33 @@
+{
+  "npc_id": "NPC_GEN_x213y1",
+  "name": "Veteran Chrome-Soldier",
+  "archetype_parent": "ARCH_MENTOR_02",
+  "archetype_name": "Cynical Veteran",
+  "trope_child": "TR_CYBER_013",
+  "trope_name": "Veteran Chrome-Soldier",
+  "origin": {
+    "coordinates": {
+      "x": 213,
+      "y": 1
+    },
+    "biome_id": 100,
+    "mapped_theme": "Frozen Expanse"
+  },
+  "psychometrics": {
+    "ocean_stats": {
+      "openness": 0.4,
+      "conscientiousness": 0.9,
+      "extroversion": 0.2,
+      "agreeableness": 0.3,
+      "neuroticism": 0.8
+    },
+    "dominant_trait": "High Conscientiousness",
+    "environmental_influence": "Biome influence: conscientiousness +0.2, extroversion -0.2, neuroticism +0.2"
+  },
+  "narrative": {
+    "goal": "Prepare others to survive harsh realities.",
+    "fear": "Watching na\u00efve proteges die repeating old mistakes.",
+    "visual_description": "A war-torn ex-mercenary wearing outdated cybernetics, training rookies while quietly expecting the worst from humanity.",
+    "dialogue_voice": "Frozen Expanse"
+  }
+}
