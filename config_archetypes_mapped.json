@@ -1,0 +1,3970 @@
+[
+  {
+    "child_id": "TR_CYBER_001",
+    "child_name": "Neon-Fused Companion",
+    "resolved_parent_id": "ARCH_ALLY_01",
+    "resolved_parent_name": "Loyal Companion",
+    "confidence_score": 0.5892,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_CYBER_002",
+    "child_name": "Street Patch Engineer",
+    "resolved_parent_id": "ARCH_ALLY_02",
+    "resolved_parent_name": "Practical Fixer",
+    "confidence_score": 0.6612,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_003",
+    "child_name": "Rain-Quiet Medtech",
+    "resolved_parent_id": "ARCH_ALLY_03",
+    "resolved_parent_name": "Soft-Spoken Healer",
+    "confidence_score": 0.5591,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_CYBER_004",
+    "child_name": "Chrome-Willed Commander",
+    "resolved_parent_id": "ARCH_LEADER_01",
+    "resolved_parent_name": "Visionary Commander",
+    "confidence_score": 0.6218,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_005",
+    "child_name": "Protocol Strategist",
+    "resolved_parent_id": "ARCH_LEADER_02",
+    "resolved_parent_name": "Pragmatic Strategist",
+    "confidence_score": 0.6453,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_006",
+    "child_name": "Holo-Stage Populist",
+    "resolved_parent_id": "ARCH_LEADER_03",
+    "resolved_parent_name": "Charismatic Populist",
+    "confidence_score": 0.6477,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_007",
+    "child_name": "Sector Iron General",
+    "resolved_parent_id": "ARCH_LEADER_04",
+    "resolved_parent_name": "Authoritarian General",
+    "confidence_score": 0.5886,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_CYBER_008",
+    "child_name": "Reluctant Neon Leader",
+    "resolved_parent_id": "ARCH_LEADER_05",
+    "resolved_parent_name": "Reluctant Leader",
+    "confidence_score": 0.5165,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_CYBER_009",
+    "child_name": "Corporate Workflow Enforcer",
+    "resolved_parent_id": "ARCH_LEADER_06",
+    "resolved_parent_name": "Corporate Bureaucrat",
+    "confidence_score": 0.5316,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_CYBER_010",
+    "child_name": "Chrome-Clad Barbarian",
+    "resolved_parent_id": "ARCH_LEADER_07",
+    "resolved_parent_name": "Warlord Barbarian",
+    "confidence_score": 0.6695,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_011",
+    "child_name": "Grid Reformer",
+    "resolved_parent_id": "ARCH_LEADER_08",
+    "resolved_parent_name": "Civic Reformer",
+    "confidence_score": 0.6533,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_012",
+    "child_name": "Basement Hermit Hacker",
+    "resolved_parent_id": "ARCH_MENTOR_01",
+    "resolved_parent_name": "Wise Hermit",
+    "confidence_score": 0.6617,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_013",
+    "child_name": "Veteran Chrome-Soldier",
+    "resolved_parent_id": "ARCH_MENTOR_02",
+    "resolved_parent_name": "Cynical Veteran",
+    "confidence_score": 0.392,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_CYBER_014",
+    "child_name": "Neon Nurture Mentor",
+    "resolved_parent_id": "ARCH_MENTOR_03",
+    "resolved_parent_name": "Nurturing Teacher",
+    "confidence_score": 0.617,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_CYBER_015",
+    "child_name": "Viral-Code Zealot",
+    "resolved_parent_id": "ARCH_MENTOR_04",
+    "resolved_parent_name": "Fanatical Zealot",
+    "confidence_score": 0.6773,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_016",
+    "child_name": "Cortex Recluse",
+    "resolved_parent_id": "ARCH_MENTOR_05",
+    "resolved_parent_name": "Detached Scholar-Mentor",
+    "confidence_score": 0.5316,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_CYBER_017",
+    "child_name": "Drillframe Instructor",
+    "resolved_parent_id": "ARCH_MENTOR_06",
+    "resolved_parent_name": "Tough Drill Instructor",
+    "confidence_score": 0.6986,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_018",
+    "child_name": "The Invisible Manipulator",
+    "resolved_parent_id": "ARCH_SHADOW_01",
+    "resolved_parent_name": "Cold Manipulator",
+    "confidence_score": 0.6872,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_019",
+    "child_name": "Augmented Outcast",
+    "resolved_parent_id": "ARCH_SHADOW_02",
+    "resolved_parent_name": "Vengeful Outcast",
+    "confidence_score": 0.5977,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_CYBER_020",
+    "child_name": "Data-Leech Bureaucrat",
+    "resolved_parent_id": "ARCH_SHADOW_03",
+    "resolved_parent_name": "Corrupt Bureaucrat",
+    "confidence_score": 0.6396,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_021",
+    "child_name": "Neon-Edge Sadist",
+    "resolved_parent_id": "ARCH_SHADOW_04",
+    "resolved_parent_name": "Chaotic Sadist",
+    "confidence_score": 0.6788,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_022",
+    "child_name": "Hardline Extremist",
+    "resolved_parent_id": "ARCH_SHADOW_05",
+    "resolved_parent_name": "Idealistic Extremist",
+    "confidence_score": 0.6958,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_023",
+    "child_name": "Circuit Conspiracy Hunter",
+    "resolved_parent_id": "ARCH_SHADOW_06",
+    "resolved_parent_name": "Paranoid Conspirator",
+    "confidence_score": 0.6438,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_024",
+    "child_name": "Black-Market Aug Dealer",
+    "resolved_parent_id": "ARCH_SHADOW_07",
+    "resolved_parent_name": "Exploitative Merchant",
+    "confidence_score": 0.5878,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_CYBER_025",
+    "child_name": "Technocrat Overseer",
+    "resolved_parent_id": "ARCH_SHADOW_08",
+    "resolved_parent_name": "Ice-Cold Technocrat",
+    "confidence_score": 0.7412,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_026",
+    "child_name": "Ghost-Frame Bodyguard",
+    "resolved_parent_id": "ARCH_GUARDIAN_01",
+    "resolved_parent_name": "Stoic Bodyguard",
+    "confidence_score": 0.6979,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_027",
+    "child_name": "Hover-Block Protector",
+    "resolved_parent_id": "ARCH_GUARDIAN_02",
+    "resolved_parent_name": "Parental Protector",
+    "confidence_score": 0.6134,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_CYBER_028",
+    "child_name": "Algorithmic Constable",
+    "resolved_parent_id": "ARCH_GUARDIAN_03",
+    "resolved_parent_name": "Lawful Constable",
+    "confidence_score": 0.583,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_CYBER_029",
+    "child_name": "Territory Node Sentinel",
+    "resolved_parent_id": "ARCH_GUARDIAN_04",
+    "resolved_parent_name": "Territorial Sentinel",
+    "confidence_score": 0.6901,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_030",
+    "child_name": "Sacrifice Protocol Guardian",
+    "resolved_parent_id": "ARCH_GUARDIAN_05",
+    "resolved_parent_name": "Martyr Guardian",
+    "confidence_score": 0.7464,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_031",
+    "child_name": "Gatekeeper of the Undernet",
+    "resolved_parent_id": "ARCH_GUARDIAN_06",
+    "resolved_parent_name": "Guarded Gatekeeper",
+    "confidence_score": 0.7447,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_032",
+    "child_name": "Console Crawler",
+    "resolved_parent_id": "ARCH_SURVIVOR_01",
+    "resolved_parent_name": "Timid Survivor",
+    "confidence_score": 0.5138,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_CYBER_033",
+    "child_name": "Scrapware Scavenger",
+    "resolved_parent_id": "ARCH_SURVIVOR_02",
+    "resolved_parent_name": "Hardened Scavenger",
+    "confidence_score": 0.6876,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_034",
+    "child_name": "Hydroponic Rooftop Farmer",
+    "resolved_parent_id": "ARCH_SURVIVOR_03",
+    "resolved_parent_name": "Stoic Farmer",
+    "confidence_score": 0.4574,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_CYBER_035",
+    "child_name": "Refugee of Code Wars",
+    "resolved_parent_id": "ARCH_SURVIVOR_04",
+    "resolved_parent_name": "Opportunistic Refugee",
+    "confidence_score": 0.7302,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_036",
+    "child_name": "Loyalist Echo",
+    "resolved_parent_id": "ARCH_SURVIVOR_05",
+    "resolved_parent_name": "Last Loyalist",
+    "confidence_score": 0.6669,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_037",
+    "child_name": "Data Archaeologist",
+    "resolved_parent_id": "ARCH_SCHOLAR_01",
+    "resolved_parent_name": "Curious Researcher",
+    "confidence_score": 0.5546,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_CYBER_038",
+    "child_name": "Ethics-Free Gene Modder",
+    "resolved_parent_id": "ARCH_SCHOLAR_02",
+    "resolved_parent_name": "Amoral Experimenter",
+    "confidence_score": 0.4206,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_CYBER_039",
+    "child_name": "Archive Sentinel",
+    "resolved_parent_id": "ARCH_SCHOLAR_03",
+    "resolved_parent_name": "Archivist Bureaucrat",
+    "confidence_score": 0.7139,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_040",
+    "child_name": "Street Storycaster",
+    "resolved_parent_id": "ARCH_SCHOLAR_04",
+    "resolved_parent_name": "Itinerant Storyteller",
+    "confidence_score": 0.5775,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_CYBER_041",
+    "child_name": "Conspiracy Pattern Theorist",
+    "resolved_parent_id": "ARCH_SHADOW_06",
+    "resolved_parent_name": "Paranoid Conspirator",
+    "confidence_score": 0.4708,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_CYBER_042",
+    "child_name": "Run-Circuit Prankster",
+    "resolved_parent_id": "ARCH_TRICKSTER_01",
+    "resolved_parent_name": "Playful Prankster",
+    "confidence_score": 0.6612,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_043",
+    "child_name": "Chrome Opportunist",
+    "resolved_parent_id": "ARCH_TRICKSTER_02",
+    "resolved_parent_name": "Rogue Opportunist",
+    "confidence_score": 0.5409,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_CYBER_044",
+    "child_name": "Masked Cortex Agent",
+    "resolved_parent_id": "ARCH_TRICKSTER_03",
+    "resolved_parent_name": "Mask-Wearing Spy",
+    "confidence_score": 0.7241,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_045",
+    "child_name": "Laughtrack Saboteur",
+    "resolved_parent_id": "ARCH_TRICKSTER_04",
+    "resolved_parent_name": "Cynical Jester",
+    "confidence_score": 0.5578,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_CYBER_046",
+    "child_name": "Wildcard Grid Gambler",
+    "resolved_parent_id": "ARCH_TRICKSTER_05",
+    "resolved_parent_name": "Chaos Gambler",
+    "confidence_score": 0.6876,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_047",
+    "child_name": "Subversion Broadcaster",
+    "resolved_parent_id": "ARCH_TRICKSTER_06",
+    "resolved_parent_name": "Subversive Satirist",
+    "confidence_score": 0.6822,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_CYBER_048",
+    "child_name": "Neon Volunteer",
+    "resolved_parent_id": "ARCH_ALLY_06",
+    "resolved_parent_name": "Idealistic Volunteer",
+    "confidence_score": 0.517,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_CYBER_049",
+    "child_name": "Slum Path Navigator",
+    "resolved_parent_id": "ARCH_ALLY_04",
+    "resolved_parent_name": "Streetwise Guide",
+    "confidence_score": 0.6182,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_CYBER_050",
+    "child_name": "Marketware Negotiator",
+    "resolved_parent_id": "ARCH_ALLY_05",
+    "resolved_parent_name": "Canny Trader",
+    "confidence_score": 0.6841,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_001",
+    "child_name": "Oathbound Companion of the Greenwood",
+    "resolved_parent_id": "ARCH_ALLY_01",
+    "resolved_parent_name": "Loyal Companion",
+    "confidence_score": 0.552,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_002",
+    "child_name": "Runesmith Tinkerer",
+    "resolved_parent_id": "ARCH_ALLY_02",
+    "resolved_parent_name": "Practical Fixer",
+    "confidence_score": 0.5191,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_003",
+    "child_name": "Quiet Grove Healer",
+    "resolved_parent_id": "ARCH_ALLY_03",
+    "resolved_parent_name": "Soft-Spoken Healer",
+    "confidence_score": 0.714,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_004",
+    "child_name": "Highwind Commander",
+    "resolved_parent_id": "ARCH_LEADER_01",
+    "resolved_parent_name": "Visionary Commander",
+    "confidence_score": 0.6938,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_005",
+    "child_name": "Royal Battle Strategist",
+    "resolved_parent_id": "ARCH_LEADER_02",
+    "resolved_parent_name": "Pragmatic Strategist",
+    "confidence_score": 0.581,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_006",
+    "child_name": "Charmer of the Court",
+    "resolved_parent_id": "ARCH_LEADER_03",
+    "resolved_parent_name": "Charismatic Populist",
+    "confidence_score": 0.5306,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_007",
+    "child_name": "Iron Oath General",
+    "resolved_parent_id": "ARCH_LEADER_04",
+    "resolved_parent_name": "Authoritarian General",
+    "confidence_score": 0.6367,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_008",
+    "child_name": "Reluctant Bearer of the Crown",
+    "resolved_parent_id": "ARCH_LEADER_05",
+    "resolved_parent_name": "Reluctant Leader",
+    "confidence_score": 0.677,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_009",
+    "child_name": "Guild Bureaucrat of Scrolls",
+    "resolved_parent_id": "ARCH_SCHOLAR_03",
+    "resolved_parent_name": "Archivist Bureaucrat",
+    "confidence_score": 0.5493,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_010",
+    "child_name": "Barbarian of the Thunder Steppes",
+    "resolved_parent_id": "ARCH_LEADER_07",
+    "resolved_parent_name": "Warlord Barbarian",
+    "confidence_score": 0.578,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_011",
+    "child_name": "Reformer of the Crystal Council",
+    "resolved_parent_id": "ARCH_LEADER_08",
+    "resolved_parent_name": "Civic Reformer",
+    "confidence_score": 0.6351,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_012",
+    "child_name": "Hermit of the Whispering Peaks",
+    "resolved_parent_id": "ARCH_MENTOR_01",
+    "resolved_parent_name": "Wise Hermit",
+    "confidence_score": 0.5914,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_013",
+    "child_name": "Hardened Veteran of the Old War",
+    "resolved_parent_id": "ARCH_MENTOR_02",
+    "resolved_parent_name": "Cynical Veteran",
+    "confidence_score": 0.5547,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_014",
+    "child_name": "Mentor of Meadow Spirits",
+    "resolved_parent_id": "ARCH_MENTOR_03",
+    "resolved_parent_name": "Nurturing Teacher",
+    "confidence_score": 0.5178,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_015",
+    "child_name": "Zealot of the Burning Sun",
+    "resolved_parent_id": "ARCH_MENTOR_04",
+    "resolved_parent_name": "Fanatical Zealot",
+    "confidence_score": 0.6968,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_016",
+    "child_name": "Towerbound Scholar-Mentor",
+    "resolved_parent_id": "ARCH_MENTOR_05",
+    "resolved_parent_name": "Detached Scholar-Mentor",
+    "confidence_score": 0.5928,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_017",
+    "child_name": "Iron-Drill Instructor",
+    "resolved_parent_id": "ARCH_MENTOR_06",
+    "resolved_parent_name": "Tough Drill Instructor",
+    "confidence_score": 0.704,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_018",
+    "child_name": "Whispercloak Manipulator",
+    "resolved_parent_id": "ARCH_SHADOW_01",
+    "resolved_parent_name": "Cold Manipulator",
+    "confidence_score": 0.5223,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_019",
+    "child_name": "Cursed Exile",
+    "resolved_parent_id": "ARCH_SHADOW_02",
+    "resolved_parent_name": "Vengeful Outcast",
+    "confidence_score": 0.6201,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_020",
+    "child_name": "Scroll-Forging Bureaucrat",
+    "resolved_parent_id": "ARCH_SHADOW_03",
+    "resolved_parent_name": "Corrupt Bureaucrat",
+    "confidence_score": 0.5618,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_021",
+    "child_name": "Carnival of Chaos Herald",
+    "resolved_parent_id": "ARCH_SHADOW_04",
+    "resolved_parent_name": "Chaotic Sadist",
+    "confidence_score": 0.5841,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_022",
+    "child_name": "Radical Prophet of the New Dawn",
+    "resolved_parent_id": "ARCH_SHADOW_05",
+    "resolved_parent_name": "Idealistic Extremist",
+    "confidence_score": 0.5072,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_023",
+    "child_name": "Runestone Conspirator",
+    "resolved_parent_id": "ARCH_SHADOW_06",
+    "resolved_parent_name": "Paranoid Conspirator",
+    "confidence_score": 0.5804,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_024",
+    "child_name": "Merchant of Enchanted Trinkets",
+    "resolved_parent_id": "ARCH_SHADOW_07",
+    "resolved_parent_name": "Exploitative Merchant",
+    "confidence_score": 0.6505,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_025",
+    "child_name": "Frost-Blood Technocrat of the Arcane",
+    "resolved_parent_id": "ARCH_SHADOW_08",
+    "resolved_parent_name": "Ice-Cold Technocrat",
+    "confidence_score": 0.6123,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_026",
+    "child_name": "Shieldwall Guardian",
+    "resolved_parent_id": "ARCH_GUARDIAN_01",
+    "resolved_parent_name": "Stoic Bodyguard",
+    "confidence_score": 0.6259,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_027",
+    "child_name": "Broodmother Protector",
+    "resolved_parent_id": "ARCH_GUARDIAN_02",
+    "resolved_parent_name": "Parental Protector",
+    "confidence_score": 0.6196,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_028",
+    "child_name": "Constable of the Silver Sigil",
+    "resolved_parent_id": "ARCH_GUARDIAN_03",
+    "resolved_parent_name": "Lawful Constable",
+    "confidence_score": 0.6607,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_029",
+    "child_name": "Border Grove Sentinel",
+    "resolved_parent_id": "ARCH_GUARDIAN_04",
+    "resolved_parent_name": "Territorial Sentinel",
+    "confidence_score": 0.6552,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_030",
+    "child_name": "Sacrificial Lightbearer",
+    "resolved_parent_id": "ARCH_GUARDIAN_05",
+    "resolved_parent_name": "Martyr Guardian",
+    "confidence_score": 0.7202,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_031",
+    "child_name": "Keeper of the Hidden Gate",
+    "resolved_parent_id": "ARCH_GUARDIAN_06",
+    "resolved_parent_name": "Guarded Gatekeeper",
+    "confidence_score": 0.6785,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_032",
+    "child_name": "Frightened Hedge-Witch",
+    "resolved_parent_id": "ARCH_SURVIVOR_01",
+    "resolved_parent_name": "Timid Survivor",
+    "confidence_score": 0.6192,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_033",
+    "child_name": "Scrap-Trail Forager",
+    "resolved_parent_id": "ARCH_SURVIVOR_02",
+    "resolved_parent_name": "Hardened Scavenger",
+    "confidence_score": 0.6223,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_034",
+    "child_name": "Farmland Mage",
+    "resolved_parent_id": "ARCH_SURVIVOR_03",
+    "resolved_parent_name": "Stoic Farmer",
+    "confidence_score": 0.6648,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_035",
+    "child_name": "Wandering Refugee of the Blightlands",
+    "resolved_parent_id": "ARCH_SURVIVOR_04",
+    "resolved_parent_name": "Opportunistic Refugee",
+    "confidence_score": 0.678,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_036",
+    "child_name": "Last Oathbound Knight",
+    "resolved_parent_id": "ARCH_SURVIVOR_05",
+    "resolved_parent_name": "Last Loyalist",
+    "confidence_score": 0.5793,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_037",
+    "child_name": "Curiosity-Seeker Mage",
+    "resolved_parent_id": "ARCH_SCHOLAR_01",
+    "resolved_parent_name": "Curious Researcher",
+    "confidence_score": 0.5412,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_038",
+    "child_name": "Morality-Free Spellwright",
+    "resolved_parent_id": "ARCH_SCHOLAR_02",
+    "resolved_parent_name": "Amoral Experimenter",
+    "confidence_score": 0.6642,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_039",
+    "child_name": "Archive Lantern-Keeper",
+    "resolved_parent_id": "ARCH_SCHOLAR_03",
+    "resolved_parent_name": "Archivist Bureaucrat",
+    "confidence_score": 0.6673,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_040",
+    "child_name": "Wandering Taleweaver",
+    "resolved_parent_id": "ARCH_SCHOLAR_04",
+    "resolved_parent_name": "Itinerant Storyteller",
+    "confidence_score": 0.5247,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_041",
+    "child_name": "Rune-Fretted Theorist",
+    "resolved_parent_id": "ARCH_SCHOLAR_05",
+    "resolved_parent_name": "Anxious Theorist",
+    "confidence_score": 0.6247,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_042",
+    "child_name": "Meadow Guardian Companion",
+    "resolved_parent_id": "ARCH_ALLY_01",
+    "resolved_parent_name": "Loyal Companion",
+    "confidence_score": 0.6496,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_043",
+    "child_name": "Fey-Lit Guide",
+    "resolved_parent_id": "ARCH_ALLY_04",
+    "resolved_parent_name": "Streetwise Guide",
+    "confidence_score": 0.5252,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_044",
+    "child_name": "Silver-Tongued Trader",
+    "resolved_parent_id": "ARCH_ALLY_05",
+    "resolved_parent_name": "Canny Trader",
+    "confidence_score": 0.6139,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_045",
+    "child_name": "Wandering Blessing-Bearer",
+    "resolved_parent_id": "ARCH_ALLY_06",
+    "resolved_parent_name": "Idealistic Volunteer",
+    "confidence_score": 0.535,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_046",
+    "child_name": "Laughing Court Jester",
+    "resolved_parent_id": "ARCH_TRICKSTER_04",
+    "resolved_parent_name": "Cynical Jester",
+    "confidence_score": 0.7331,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_047",
+    "child_name": "Wild-Fate Gambler",
+    "resolved_parent_id": "ARCH_TRICKSTER_05",
+    "resolved_parent_name": "Chaos Gambler",
+    "confidence_score": 0.7783,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_048",
+    "child_name": "Satirical Spellbard",
+    "resolved_parent_id": "ARCH_TRICKSTER_06",
+    "resolved_parent_name": "Subversive Satirist",
+    "confidence_score": 0.5183,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FANTASY_049",
+    "child_name": "Fey-Linked Spy",
+    "resolved_parent_id": "ARCH_TRICKSTER_03",
+    "resolved_parent_name": "Mask-Wearing Spy",
+    "confidence_score": 0.7254,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FANTASY_050",
+    "child_name": "Opportunistic Relic Hunter",
+    "resolved_parent_id": "ARCH_TRICKSTER_02",
+    "resolved_parent_name": "Rogue Opportunist",
+    "confidence_score": 0.5643,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_WASTE_001",
+    "child_name": "Ash-Bonded Companion",
+    "resolved_parent_id": "ARCH_ALLY_01",
+    "resolved_parent_name": "Loyal Companion",
+    "confidence_score": 0.6662,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_002",
+    "child_name": "Scrapline Fixer",
+    "resolved_parent_id": "ARCH_ALLY_02",
+    "resolved_parent_name": "Practical Fixer",
+    "confidence_score": 0.5679,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_WASTE_003",
+    "child_name": "Dust-Quiet Healer",
+    "resolved_parent_id": "ARCH_ALLY_03",
+    "resolved_parent_name": "Soft-Spoken Healer",
+    "confidence_score": 0.6778,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_004",
+    "child_name": "Prophet of the Burned Horizon",
+    "resolved_parent_id": "ARCH_LEADER_01",
+    "resolved_parent_name": "Visionary Commander",
+    "confidence_score": 0.6808,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_005",
+    "child_name": "Route-Plot Strategist",
+    "resolved_parent_id": "ARCH_LEADER_02",
+    "resolved_parent_name": "Pragmatic Strategist",
+    "confidence_score": 0.626,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_006",
+    "child_name": "Charmer of the Scrap Settlements",
+    "resolved_parent_id": "ARCH_LEADER_03",
+    "resolved_parent_name": "Charismatic Populist",
+    "confidence_score": 0.5445,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_WASTE_007",
+    "child_name": "War-Rig General",
+    "resolved_parent_id": "ARCH_LEADER_04",
+    "resolved_parent_name": "Authoritarian General",
+    "confidence_score": 0.6191,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_WASTE_008",
+    "child_name": "Reluctant Convoy Leader",
+    "resolved_parent_id": "ARCH_LEADER_05",
+    "resolved_parent_name": "Reluctant Leader",
+    "confidence_score": 0.5941,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_WASTE_009",
+    "child_name": "Registry Keeper of the Ruins",
+    "resolved_parent_id": "ARCH_LEADER_06",
+    "resolved_parent_name": "Corporate Bureaucrat",
+    "confidence_score": 0.5111,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_WASTE_010",
+    "child_name": "Tribal Warlord of the Red Dunes",
+    "resolved_parent_id": "ARCH_LEADER_07",
+    "resolved_parent_name": "Warlord Barbarian",
+    "confidence_score": 0.5797,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_WASTE_011",
+    "child_name": "Civic Reclaimer",
+    "resolved_parent_id": "ARCH_LEADER_08",
+    "resolved_parent_name": "Civic Reformer",
+    "confidence_score": 0.5733,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_WASTE_012",
+    "child_name": "The Tunnel Hermit",
+    "resolved_parent_id": "ARCH_MENTOR_01",
+    "resolved_parent_name": "Wise Hermit",
+    "confidence_score": 0.6301,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_013",
+    "child_name": "Veteran of the Acid Wars",
+    "resolved_parent_id": "ARCH_MENTOR_02",
+    "resolved_parent_name": "Cynical Veteran",
+    "confidence_score": 0.5532,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_WASTE_014",
+    "child_name": "Caretaker of the Last Garden",
+    "resolved_parent_id": "ARCH_MENTOR_03",
+    "resolved_parent_name": "Nurturing Teacher",
+    "confidence_score": 0.5007,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_WASTE_015",
+    "child_name": "Zealot of the Glow",
+    "resolved_parent_id": "ARCH_MENTOR_04",
+    "resolved_parent_name": "Fanatical Zealot",
+    "confidence_score": 0.66,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_016",
+    "child_name": "Dust Scholar",
+    "resolved_parent_id": "ARCH_MENTOR_05",
+    "resolved_parent_name": "Detached Scholar-Mentor",
+    "confidence_score": 0.6647,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_017",
+    "child_name": "Spine-Breaker Instructor",
+    "resolved_parent_id": "ARCH_MENTOR_06",
+    "resolved_parent_name": "Tough Drill Instructor",
+    "confidence_score": 0.7317,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_018",
+    "child_name": "Ash-Veil Manipulator",
+    "resolved_parent_id": "ARCH_SHADOW_01",
+    "resolved_parent_name": "Cold Manipulator",
+    "confidence_score": 0.6389,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_019",
+    "child_name": "The Vengeful Husk",
+    "resolved_parent_id": "ARCH_SHADOW_02",
+    "resolved_parent_name": "Vengeful Outcast",
+    "confidence_score": 0.5856,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_WASTE_020",
+    "child_name": "Ration Ledger Crook",
+    "resolved_parent_id": "ARCH_SHADOW_03",
+    "resolved_parent_name": "Corrupt Bureaucrat",
+    "confidence_score": 0.5342,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_WASTE_021",
+    "child_name": "Blood Carnival Sadist",
+    "resolved_parent_id": "ARCH_SHADOW_04",
+    "resolved_parent_name": "Chaotic Sadist",
+    "confidence_score": 0.5622,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_WASTE_022",
+    "child_name": "Doctrine of the New Flame",
+    "resolved_parent_id": "ARCH_SHADOW_05",
+    "resolved_parent_name": "Idealistic Extremist",
+    "confidence_score": 0.6833,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_023",
+    "child_name": "Watcher of the Night Sirens",
+    "resolved_parent_id": "ARCH_SHADOW_06",
+    "resolved_parent_name": "Paranoid Conspirator",
+    "confidence_score": 0.582,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_WASTE_024",
+    "child_name": "Water-Baron Merchant",
+    "resolved_parent_id": "ARCH_SHADOW_07",
+    "resolved_parent_name": "Exploitative Merchant",
+    "confidence_score": 0.6755,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_025",
+    "child_name": "Steel-Mind Technocrat",
+    "resolved_parent_id": "ARCH_SHADOW_08",
+    "resolved_parent_name": "Ice-Cold Technocrat",
+    "confidence_score": 0.7349,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_026",
+    "child_name": "Shield-Carapace Guardian",
+    "resolved_parent_id": "ARCH_GUARDIAN_01",
+    "resolved_parent_name": "Stoic Bodyguard",
+    "confidence_score": 0.7061,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_027",
+    "child_name": "Mother of the Lost",
+    "resolved_parent_id": "ARCH_GUARDIAN_02",
+    "resolved_parent_name": "Parental Protector",
+    "confidence_score": 0.5807,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_WASTE_028",
+    "child_name": "Rust Constable",
+    "resolved_parent_id": "ARCH_GUARDIAN_03",
+    "resolved_parent_name": "Lawful Constable",
+    "confidence_score": 0.5843,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_WASTE_029",
+    "child_name": "Boundary Sentinel",
+    "resolved_parent_id": "ARCH_GUARDIAN_04",
+    "resolved_parent_name": "Territorial Sentinel",
+    "confidence_score": 0.7419,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_030",
+    "child_name": "Sacrificial Bulwark",
+    "resolved_parent_id": "ARCH_GUARDIAN_05",
+    "resolved_parent_name": "Martyr Guardian",
+    "confidence_score": 0.6924,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_031",
+    "child_name": "Gate Warden of the Last Shelter",
+    "resolved_parent_id": "ARCH_GUARDIAN_06",
+    "resolved_parent_name": "Guarded Gatekeeper",
+    "confidence_score": 0.5932,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_WASTE_032",
+    "child_name": "Dust-Choked Runner",
+    "resolved_parent_id": "ARCH_SURVIVOR_01",
+    "resolved_parent_name": "Timid Survivor",
+    "confidence_score": 0.6062,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_WASTE_033",
+    "child_name": "Rad-Scavenger",
+    "resolved_parent_id": "ARCH_SURVIVOR_02",
+    "resolved_parent_name": "Hardened Scavenger",
+    "confidence_score": 0.6101,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_WASTE_034",
+    "child_name": "Irrigated Plot Farmer",
+    "resolved_parent_id": "ARCH_SURVIVOR_03",
+    "resolved_parent_name": "Stoic Farmer",
+    "confidence_score": 0.6405,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_035",
+    "child_name": "Wasteland Refugee",
+    "resolved_parent_id": "ARCH_SURVIVOR_04",
+    "resolved_parent_name": "Opportunistic Refugee",
+    "confidence_score": 0.7178,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_036",
+    "child_name": "Last Standard-Bearer",
+    "resolved_parent_id": "ARCH_SURVIVOR_05",
+    "resolved_parent_name": "Last Loyalist",
+    "confidence_score": 0.7281,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_037",
+    "child_name": "Ruins Researcher",
+    "resolved_parent_id": "ARCH_SCHOLAR_01",
+    "resolved_parent_name": "Curious Researcher",
+    "confidence_score": 0.633,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_038",
+    "child_name": "Morality-Absent Gene Tinkerer",
+    "resolved_parent_id": "ARCH_SCHOLAR_02",
+    "resolved_parent_name": "Amoral Experimenter",
+    "confidence_score": 0.452,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_WASTE_039",
+    "child_name": "Archive Ruin-Watcher",
+    "resolved_parent_id": "ARCH_SCHOLAR_03",
+    "resolved_parent_name": "Archivist Bureaucrat",
+    "confidence_score": 0.7367,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_040",
+    "child_name": "Wasteland Story-Walker",
+    "resolved_parent_id": "ARCH_SCHOLAR_04",
+    "resolved_parent_name": "Itinerant Storyteller",
+    "confidence_score": 0.6433,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_041",
+    "child_name": "Doom-Watcher Theorist",
+    "resolved_parent_id": "ARCH_SCHOLAR_05",
+    "resolved_parent_name": "Anxious Theorist",
+    "confidence_score": 0.6193,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_WASTE_042",
+    "child_name": "Scrap Blade Prankster",
+    "resolved_parent_id": "ARCH_TRICKSTER_01",
+    "resolved_parent_name": "Playful Prankster",
+    "confidence_score": 0.6451,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_043",
+    "child_name": "Opportunistic Scavenger-Rogue",
+    "resolved_parent_id": "ARCH_TRICKSTER_02",
+    "resolved_parent_name": "Rogue Opportunist",
+    "confidence_score": 0.5935,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_WASTE_044",
+    "child_name": "Dust-Mask Spy",
+    "resolved_parent_id": "ARCH_TRICKSTER_03",
+    "resolved_parent_name": "Mask-Wearing Spy",
+    "confidence_score": 0.7519,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_045",
+    "child_name": "Wasteland Jester",
+    "resolved_parent_id": "ARCH_TRICKSTER_04",
+    "resolved_parent_name": "Cynical Jester",
+    "confidence_score": 0.7042,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_046",
+    "child_name": "Rust-Dice Gambler",
+    "resolved_parent_id": "ARCH_TRICKSTER_05",
+    "resolved_parent_name": "Chaos Gambler",
+    "confidence_score": 0.7147,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_WASTE_047",
+    "child_name": "Satirical Scrap Bard",
+    "resolved_parent_id": "ARCH_TRICKSTER_06",
+    "resolved_parent_name": "Subversive Satirist",
+    "confidence_score": 0.4366,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_001",
+    "child_name": "Starsworn Companion",
+    "resolved_parent_id": "ARCH_ALLY_01",
+    "resolved_parent_name": "Loyal Companion",
+    "confidence_score": 0.6746,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_SPACE_002",
+    "child_name": "Hullpatch Mechanic",
+    "resolved_parent_id": "ARCH_ALLY_02",
+    "resolved_parent_name": "Practical Fixer",
+    "confidence_score": 0.4849,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_003",
+    "child_name": "Void-Healer Adept",
+    "resolved_parent_id": "ARCH_ALLY_03",
+    "resolved_parent_name": "Soft-Spoken Healer",
+    "confidence_score": 0.6774,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_SPACE_004",
+    "child_name": "Constellation Commander",
+    "resolved_parent_id": "ARCH_LEADER_01",
+    "resolved_parent_name": "Visionary Commander",
+    "confidence_score": 0.6975,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_SPACE_005",
+    "child_name": "Galactic Tactician",
+    "resolved_parent_id": "ARCH_LEADER_02",
+    "resolved_parent_name": "Pragmatic Strategist",
+    "confidence_score": 0.574,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_006",
+    "child_name": "Sector Populist Orator",
+    "resolved_parent_id": "ARCH_LEADER_03",
+    "resolved_parent_name": "Charismatic Populist",
+    "confidence_score": 0.6019,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_007",
+    "child_name": "High Admiral of Iron Suns",
+    "resolved_parent_id": "ARCH_LEADER_04",
+    "resolved_parent_name": "Authoritarian General",
+    "confidence_score": 0.5496,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_008",
+    "child_name": "Reluctant Starship Captain",
+    "resolved_parent_id": "ARCH_LEADER_05",
+    "resolved_parent_name": "Reluctant Leader",
+    "confidence_score": 0.4817,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_009",
+    "child_name": "Imperial Records Bureaucrat",
+    "resolved_parent_id": "ARCH_LEADER_06",
+    "resolved_parent_name": "Corporate Bureaucrat",
+    "confidence_score": 0.5863,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_010",
+    "child_name": "Barbarian of the Outer Belt",
+    "resolved_parent_id": "ARCH_LEADER_07",
+    "resolved_parent_name": "Warlord Barbarian",
+    "confidence_score": 0.6693,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_SPACE_011",
+    "child_name": "Galactic Reformer",
+    "resolved_parent_id": "ARCH_LEADER_08",
+    "resolved_parent_name": "Civic Reformer",
+    "confidence_score": 0.6337,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_SPACE_012",
+    "child_name": "Void Hermit",
+    "resolved_parent_id": "ARCH_MENTOR_01",
+    "resolved_parent_name": "Wise Hermit",
+    "confidence_score": 0.6029,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_013",
+    "child_name": "Battle-Hardened Veteran of the Nebula Wars",
+    "resolved_parent_id": "ARCH_MENTOR_02",
+    "resolved_parent_name": "Cynical Veteran",
+    "confidence_score": 0.5413,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_014",
+    "child_name": "Starborne Mentor",
+    "resolved_parent_id": "ARCH_MENTOR_03",
+    "resolved_parent_name": "Nurturing Teacher",
+    "confidence_score": 0.5227,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_015",
+    "child_name": "Flame of the Cosmic Creed",
+    "resolved_parent_id": "ARCH_MENTOR_04",
+    "resolved_parent_name": "Fanatical Zealot",
+    "confidence_score": 0.5962,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_016",
+    "child_name": "Archivium Mentor",
+    "resolved_parent_id": "ARCH_MENTOR_05",
+    "resolved_parent_name": "Detached Scholar-Mentor",
+    "confidence_score": 0.6113,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_017",
+    "child_name": "Gravity Drill Sergeant",
+    "resolved_parent_id": "ARCH_MENTOR_06",
+    "resolved_parent_name": "Tough Drill Instructor",
+    "confidence_score": 0.5887,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_018",
+    "child_name": "Nebula Manipulator",
+    "resolved_parent_id": "ARCH_SHADOW_01",
+    "resolved_parent_name": "Cold Manipulator",
+    "confidence_score": 0.4987,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_019",
+    "child_name": "Exiled Starborn Avenger",
+    "resolved_parent_id": "ARCH_SHADOW_02",
+    "resolved_parent_name": "Vengeful Outcast",
+    "confidence_score": 0.433,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_020",
+    "child_name": "Log-Forger Bureaucrat",
+    "resolved_parent_id": "ARCH_SHADOW_03",
+    "resolved_parent_name": "Corrupt Bureaucrat",
+    "confidence_score": 0.6332,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_SPACE_021",
+    "child_name": "The Galactic Sadist",
+    "resolved_parent_id": "ARCH_SHADOW_04",
+    "resolved_parent_name": "Chaotic Sadist",
+    "confidence_score": 0.7492,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_SPACE_022",
+    "child_name": "Starfire Extremist",
+    "resolved_parent_id": "ARCH_SHADOW_05",
+    "resolved_parent_name": "Idealistic Extremist",
+    "confidence_score": 0.5178,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_023",
+    "child_name": "Cosmic Conspirator",
+    "resolved_parent_id": "ARCH_SHADOW_06",
+    "resolved_parent_name": "Paranoid Conspirator",
+    "confidence_score": 0.6512,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_SPACE_024",
+    "child_name": "Hyperlane Merchant Prince",
+    "resolved_parent_id": "ARCH_SHADOW_07",
+    "resolved_parent_name": "Exploitative Merchant",
+    "confidence_score": 0.6272,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_SPACE_025",
+    "child_name": "Cryo-Mind Technocrat",
+    "resolved_parent_id": "ARCH_SHADOW_08",
+    "resolved_parent_name": "Ice-Cold Technocrat",
+    "confidence_score": 0.7295,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_SPACE_026",
+    "child_name": "Quantum Bodyguard",
+    "resolved_parent_id": "ARCH_GUARDIAN_01",
+    "resolved_parent_name": "Stoic Bodyguard",
+    "confidence_score": 0.6779,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_SPACE_027",
+    "child_name": "Starseed Protector",
+    "resolved_parent_id": "ARCH_GUARDIAN_02",
+    "resolved_parent_name": "Parental Protector",
+    "confidence_score": 0.5517,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_028",
+    "child_name": "Constable of the Void Lanes",
+    "resolved_parent_id": "ARCH_GUARDIAN_03",
+    "resolved_parent_name": "Lawful Constable",
+    "confidence_score": 0.6377,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_SPACE_029",
+    "child_name": "Asteroid Sentinel",
+    "resolved_parent_id": "ARCH_GUARDIAN_04",
+    "resolved_parent_name": "Territorial Sentinel",
+    "confidence_score": 0.6655,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_SPACE_030",
+    "child_name": "Sacrifice-Class Guardian",
+    "resolved_parent_id": "ARCH_GUARDIAN_05",
+    "resolved_parent_name": "Martyr Guardian",
+    "confidence_score": 0.6787,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_SPACE_031",
+    "child_name": "Gatekeeper of the Wormhole Shrine",
+    "resolved_parent_id": "ARCH_GUARDIAN_06",
+    "resolved_parent_name": "Guarded Gatekeeper",
+    "confidence_score": 0.5107,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_032",
+    "child_name": "Skittish Driftling",
+    "resolved_parent_id": "ARCH_SURVIVOR_01",
+    "resolved_parent_name": "Timid Survivor",
+    "confidence_score": 0.5864,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_033",
+    "child_name": "Scrapper of the Stargrave Fields",
+    "resolved_parent_id": "ARCH_SURVIVOR_02",
+    "resolved_parent_name": "Hardened Scavenger",
+    "confidence_score": 0.5985,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_034",
+    "child_name": "Hydro-Dome Agrarian",
+    "resolved_parent_id": "ARCH_SURVIVOR_03",
+    "resolved_parent_name": "Stoic Farmer",
+    "confidence_score": 0.5286,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_035",
+    "child_name": "Warp-Displaced Refugee",
+    "resolved_parent_id": "ARCH_SURVIVOR_04",
+    "resolved_parent_name": "Opportunistic Refugee",
+    "confidence_score": 0.6646,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_SPACE_036",
+    "child_name": "Last Loyal Banner-Soldier",
+    "resolved_parent_id": "ARCH_SURVIVOR_05",
+    "resolved_parent_name": "Last Loyalist",
+    "confidence_score": 0.6676,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_SPACE_037",
+    "child_name": "Archivist of Celestial Ruins",
+    "resolved_parent_id": "ARCH_SCHOLAR_03",
+    "resolved_parent_name": "Archivist Bureaucrat",
+    "confidence_score": 0.48,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_038",
+    "child_name": "Bioforge Experimenter",
+    "resolved_parent_id": "ARCH_SCHOLAR_02",
+    "resolved_parent_name": "Amoral Experimenter",
+    "confidence_score": 0.6069,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_039",
+    "child_name": "Starlit Archive Keeper",
+    "resolved_parent_id": "ARCH_SCHOLAR_03",
+    "resolved_parent_name": "Archivist Bureaucrat",
+    "confidence_score": 0.7112,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_SPACE_040",
+    "child_name": "Nebula Talesinger",
+    "resolved_parent_id": "ARCH_SCHOLAR_04",
+    "resolved_parent_name": "Itinerant Storyteller",
+    "confidence_score": 0.6003,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_041",
+    "child_name": "Galactic Collapse Theorist",
+    "resolved_parent_id": "ARCH_SCHOLAR_05",
+    "resolved_parent_name": "Anxious Theorist",
+    "confidence_score": 0.6119,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_042",
+    "child_name": "Orbit-Hopper Prankster",
+    "resolved_parent_id": "ARCH_TRICKSTER_01",
+    "resolved_parent_name": "Playful Prankster",
+    "confidence_score": 0.6021,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_043",
+    "child_name": "Smuggler Opportunist",
+    "resolved_parent_id": "ARCH_TRICKSTER_02",
+    "resolved_parent_name": "Rogue Opportunist",
+    "confidence_score": 0.5965,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_044",
+    "child_name": "Phase-Mask Agent",
+    "resolved_parent_id": "ARCH_TRICKSTER_03",
+    "resolved_parent_name": "Mask-Wearing Spy",
+    "confidence_score": 0.7225,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_SPACE_045",
+    "child_name": "Star Court Jester",
+    "resolved_parent_id": "ARCH_TRICKSTER_04",
+    "resolved_parent_name": "Cynical Jester",
+    "confidence_score": 0.6469,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_SPACE_046",
+    "child_name": "Quantum Gambler",
+    "resolved_parent_id": "ARCH_TRICKSTER_05",
+    "resolved_parent_name": "Chaos Gambler",
+    "confidence_score": 0.7862,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_SPACE_047",
+    "child_name": "Subspace Satirist",
+    "resolved_parent_id": "ARCH_TRICKSTER_06",
+    "resolved_parent_name": "Subversive Satirist",
+    "confidence_score": 0.5606,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_048",
+    "child_name": "Cosmic Volunteer",
+    "resolved_parent_id": "ARCH_ALLY_06",
+    "resolved_parent_name": "Idealistic Volunteer",
+    "confidence_score": 0.6657,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_SPACE_049",
+    "child_name": "Star Path Navigator",
+    "resolved_parent_id": "ARCH_ALLY_04",
+    "resolved_parent_name": "Streetwise Guide",
+    "confidence_score": 0.4966,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_SPACE_050",
+    "child_name": "Galactic Barter Merchant",
+    "resolved_parent_id": "ARCH_ALLY_05",
+    "resolved_parent_name": "Canny Trader",
+    "confidence_score": 0.5773,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_COSMIC_001",
+    "child_name": "Abyss-Touched Visionary Commander",
+    "resolved_parent_id": "ARCH_LEADER_01",
+    "resolved_parent_name": "Visionary Commander",
+    "confidence_score": 0.7198,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_002",
+    "child_name": "Star-Maddened Pragmatic Strategist",
+    "resolved_parent_id": "ARCH_LEADER_02",
+    "resolved_parent_name": "Pragmatic Strategist",
+    "confidence_score": 0.7471,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_003",
+    "child_name": "Glyph-Scarred Charismatic Populist",
+    "resolved_parent_id": "ARCH_LEADER_03",
+    "resolved_parent_name": "Charismatic Populist",
+    "confidence_score": 0.7686,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_004",
+    "child_name": "Void-Worn Authoritarian General",
+    "resolved_parent_id": "ARCH_LEADER_04",
+    "resolved_parent_name": "Authoritarian General",
+    "confidence_score": 0.7666,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_005",
+    "child_name": "Dream-Drunk Reluctant Leader",
+    "resolved_parent_id": "ARCH_LEADER_05",
+    "resolved_parent_name": "Reluctant Leader",
+    "confidence_score": 0.6353,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_006",
+    "child_name": "Veil-Torn Corporate Bureaucrat",
+    "resolved_parent_id": "ARCH_LEADER_06",
+    "resolved_parent_name": "Corporate Bureaucrat",
+    "confidence_score": 0.7519,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_007",
+    "child_name": "Whisper-Crowned Warlord Barbarian",
+    "resolved_parent_id": "ARCH_LEADER_07",
+    "resolved_parent_name": "Warlord Barbarian",
+    "confidence_score": 0.7485,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_008",
+    "child_name": "Eldritch-Bound Civic Reformer",
+    "resolved_parent_id": "ARCH_LEADER_08",
+    "resolved_parent_name": "Civic Reformer",
+    "confidence_score": 0.6784,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_009",
+    "child_name": "Sanity-Frayed Wise Hermit",
+    "resolved_parent_id": "ARCH_MENTOR_01",
+    "resolved_parent_name": "Wise Hermit",
+    "confidence_score": 0.7178,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_010",
+    "child_name": "Rift-Walker Cynical Veteran",
+    "resolved_parent_id": "ARCH_MENTOR_02",
+    "resolved_parent_name": "Cynical Veteran",
+    "confidence_score": 0.6342,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_011",
+    "child_name": "Abyss-Touched Nurturing Teacher",
+    "resolved_parent_id": "ARCH_MENTOR_03",
+    "resolved_parent_name": "Nurturing Teacher",
+    "confidence_score": 0.66,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_012",
+    "child_name": "Star-Maddened Fanatical Zealot",
+    "resolved_parent_id": "ARCH_MENTOR_04",
+    "resolved_parent_name": "Fanatical Zealot",
+    "confidence_score": 0.7392,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_013",
+    "child_name": "Glyph-Scarred Detached Scholar-Mentor",
+    "resolved_parent_id": "ARCH_MENTOR_05",
+    "resolved_parent_name": "Detached Scholar-Mentor",
+    "confidence_score": 0.6921,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_014",
+    "child_name": "Void-Worn Tough Drill Instructor",
+    "resolved_parent_id": "ARCH_MENTOR_06",
+    "resolved_parent_name": "Tough Drill Instructor",
+    "confidence_score": 0.699,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_015",
+    "child_name": "Dream-Drunk Cold Manipulator",
+    "resolved_parent_id": "ARCH_SHADOW_01",
+    "resolved_parent_name": "Cold Manipulator",
+    "confidence_score": 0.6496,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_016",
+    "child_name": "Veil-Torn Vengeful Outcast",
+    "resolved_parent_id": "ARCH_SHADOW_02",
+    "resolved_parent_name": "Vengeful Outcast",
+    "confidence_score": 0.5156,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_COSMIC_017",
+    "child_name": "Whisper-Crowned Corrupt Bureaucrat",
+    "resolved_parent_id": "ARCH_SHADOW_03",
+    "resolved_parent_name": "Corrupt Bureaucrat",
+    "confidence_score": 0.5814,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_COSMIC_018",
+    "child_name": "Eldritch-Bound Chaotic Sadist",
+    "resolved_parent_id": "ARCH_SHADOW_04",
+    "resolved_parent_name": "Chaotic Sadist",
+    "confidence_score": 0.6757,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_019",
+    "child_name": "Sanity-Frayed Idealistic Extremist",
+    "resolved_parent_id": "ARCH_SHADOW_05",
+    "resolved_parent_name": "Idealistic Extremist",
+    "confidence_score": 0.6442,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_020",
+    "child_name": "Rift-Walker Paranoid Conspirator",
+    "resolved_parent_id": "ARCH_SHADOW_06",
+    "resolved_parent_name": "Paranoid Conspirator",
+    "confidence_score": 0.6992,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_021",
+    "child_name": "Abyss-Touched Exploitative Merchant",
+    "resolved_parent_id": "ARCH_SHADOW_07",
+    "resolved_parent_name": "Exploitative Merchant",
+    "confidence_score": 0.6721,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_022",
+    "child_name": "Star-Maddened Ice-Cold Technocrat",
+    "resolved_parent_id": "ARCH_SHADOW_08",
+    "resolved_parent_name": "Ice-Cold Technocrat",
+    "confidence_score": 0.7095,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_023",
+    "child_name": "Glyph-Scarred Playful Prankster",
+    "resolved_parent_id": "ARCH_TRICKSTER_01",
+    "resolved_parent_name": "Playful Prankster",
+    "confidence_score": 0.7679,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_024",
+    "child_name": "Void-Worn Rogue Opportunist",
+    "resolved_parent_id": "ARCH_TRICKSTER_02",
+    "resolved_parent_name": "Rogue Opportunist",
+    "confidence_score": 0.6184,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_COSMIC_025",
+    "child_name": "Dream-Drunk Mask-Wearing Spy",
+    "resolved_parent_id": "ARCH_TRICKSTER_03",
+    "resolved_parent_name": "Mask-Wearing Spy",
+    "confidence_score": 0.7767,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_026",
+    "child_name": "Veil-Torn Cynical Jester",
+    "resolved_parent_id": "ARCH_TRICKSTER_04",
+    "resolved_parent_name": "Cynical Jester",
+    "confidence_score": 0.7346,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_027",
+    "child_name": "Whisper-Crowned Chaos Gambler",
+    "resolved_parent_id": "ARCH_TRICKSTER_05",
+    "resolved_parent_name": "Chaos Gambler",
+    "confidence_score": 0.7576,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_028",
+    "child_name": "Eldritch-Bound Subversive Satirist",
+    "resolved_parent_id": "ARCH_TRICKSTER_06",
+    "resolved_parent_name": "Subversive Satirist",
+    "confidence_score": 0.6468,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_029",
+    "child_name": "Sanity-Frayed Loyal Companion",
+    "resolved_parent_id": "ARCH_ALLY_01",
+    "resolved_parent_name": "Loyal Companion",
+    "confidence_score": 0.7212,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_030",
+    "child_name": "Rift-Walker Practical Fixer",
+    "resolved_parent_id": "ARCH_ALLY_02",
+    "resolved_parent_name": "Practical Fixer",
+    "confidence_score": 0.5693,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_COSMIC_031",
+    "child_name": "Abyss-Touched Soft-Spoken Healer",
+    "resolved_parent_id": "ARCH_ALLY_03",
+    "resolved_parent_name": "Soft-Spoken Healer",
+    "confidence_score": 0.7479,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_032",
+    "child_name": "Star-Maddened Streetwise Guide",
+    "resolved_parent_id": "ARCH_ALLY_04",
+    "resolved_parent_name": "Streetwise Guide",
+    "confidence_score": 0.626,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_033",
+    "child_name": "Glyph-Scarred Canny Trader",
+    "resolved_parent_id": "ARCH_ALLY_05",
+    "resolved_parent_name": "Canny Trader",
+    "confidence_score": 0.6236,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_034",
+    "child_name": "Void-Worn Idealistic Volunteer",
+    "resolved_parent_id": "ARCH_ALLY_06",
+    "resolved_parent_name": "Idealistic Volunteer",
+    "confidence_score": 0.6602,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_035",
+    "child_name": "Dream-Drunk Stoic Bodyguard",
+    "resolved_parent_id": "ARCH_GUARDIAN_01",
+    "resolved_parent_name": "Stoic Bodyguard",
+    "confidence_score": 0.8101,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_036",
+    "child_name": "Veil-Torn Parental Protector",
+    "resolved_parent_id": "ARCH_GUARDIAN_02",
+    "resolved_parent_name": "Parental Protector",
+    "confidence_score": 0.6307,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_037",
+    "child_name": "Whisper-Crowned Lawful Constable",
+    "resolved_parent_id": "ARCH_GUARDIAN_03",
+    "resolved_parent_name": "Lawful Constable",
+    "confidence_score": 0.6764,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_038",
+    "child_name": "Eldritch-Bound Territorial Sentinel",
+    "resolved_parent_id": "ARCH_GUARDIAN_04",
+    "resolved_parent_name": "Territorial Sentinel",
+    "confidence_score": 0.7035,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_039",
+    "child_name": "Sanity-Frayed Martyr Guardian",
+    "resolved_parent_id": "ARCH_GUARDIAN_05",
+    "resolved_parent_name": "Martyr Guardian",
+    "confidence_score": 0.7345,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_040",
+    "child_name": "Rift-Walker Guarded Gatekeeper",
+    "resolved_parent_id": "ARCH_GUARDIAN_06",
+    "resolved_parent_name": "Guarded Gatekeeper",
+    "confidence_score": 0.7175,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_041",
+    "child_name": "Abyss-Touched Timid Survivor",
+    "resolved_parent_id": "ARCH_SURVIVOR_01",
+    "resolved_parent_name": "Timid Survivor",
+    "confidence_score": 0.6984,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_042",
+    "child_name": "Star-Maddened Hardened Scavenger",
+    "resolved_parent_id": "ARCH_SURVIVOR_02",
+    "resolved_parent_name": "Hardened Scavenger",
+    "confidence_score": 0.6041,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_COSMIC_043",
+    "child_name": "Glyph-Scarred Stoic Farmer",
+    "resolved_parent_id": "ARCH_SURVIVOR_03",
+    "resolved_parent_name": "Stoic Farmer",
+    "confidence_score": 0.7725,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_044",
+    "child_name": "Void-Worn Opportunistic Refugee",
+    "resolved_parent_id": "ARCH_SURVIVOR_04",
+    "resolved_parent_name": "Opportunistic Refugee",
+    "confidence_score": 0.7111,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_045",
+    "child_name": "Dream-Drunk Last Loyalist",
+    "resolved_parent_id": "ARCH_SURVIVOR_05",
+    "resolved_parent_name": "Last Loyalist",
+    "confidence_score": 0.6643,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_046",
+    "child_name": "Veil-Torn Curious Researcher",
+    "resolved_parent_id": "ARCH_SCHOLAR_01",
+    "resolved_parent_name": "Curious Researcher",
+    "confidence_score": 0.7192,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_047",
+    "child_name": "Whisper-Crowned Amoral Experimenter",
+    "resolved_parent_id": "ARCH_SCHOLAR_02",
+    "resolved_parent_name": "Amoral Experimenter",
+    "confidence_score": 0.7652,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_048",
+    "child_name": "Eldritch-Bound Archivist Bureaucrat",
+    "resolved_parent_id": "ARCH_SCHOLAR_03",
+    "resolved_parent_name": "Archivist Bureaucrat",
+    "confidence_score": 0.6467,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_049",
+    "child_name": "Sanity-Frayed Itinerant Storyteller",
+    "resolved_parent_id": "ARCH_SCHOLAR_04",
+    "resolved_parent_name": "Itinerant Storyteller",
+    "confidence_score": 0.6908,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_COSMIC_050",
+    "child_name": "Rift-Walker Anxious Theorist",
+    "resolved_parent_id": "ARCH_SCHOLAR_05",
+    "resolved_parent_name": "Anxious Theorist",
+    "confidence_score": 0.7976,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_STEAM_001",
+    "child_name": "Aether Rail Commander",
+    "resolved_parent_id": "ARCH_LEADER_01",
+    "resolved_parent_name": "Visionary Commander",
+    "confidence_score": 0.6135,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_002",
+    "child_name": "Coal-Ledger Strategist",
+    "resolved_parent_id": "ARCH_LEADER_02",
+    "resolved_parent_name": "Pragmatic Strategist",
+    "confidence_score": 0.7246,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_STEAM_003",
+    "child_name": "Clocktower Populist",
+    "resolved_parent_id": "ARCH_LEADER_03",
+    "resolved_parent_name": "Charismatic Populist",
+    "confidence_score": 0.5479,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_004",
+    "child_name": "Ironclad General",
+    "resolved_parent_id": "ARCH_LEADER_04",
+    "resolved_parent_name": "Authoritarian General",
+    "confidence_score": 0.5728,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_005",
+    "child_name": "Reluctant Airship Captain",
+    "resolved_parent_id": "ARCH_LEADER_05",
+    "resolved_parent_name": "Reluctant Leader",
+    "confidence_score": 0.4601,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_006",
+    "child_name": "Ministry of Cogs Clerk",
+    "resolved_parent_id": "ARCH_GUARDIAN_03",
+    "resolved_parent_name": "Lawful Constable",
+    "confidence_score": 0.4249,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_007",
+    "child_name": "Iron Foundry Barbarian",
+    "resolved_parent_id": "ARCH_LEADER_07",
+    "resolved_parent_name": "Warlord Barbarian",
+    "confidence_score": 0.6409,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_STEAM_008",
+    "child_name": "Smoke-Stack Reformer",
+    "resolved_parent_id": "ARCH_LEADER_08",
+    "resolved_parent_name": "Civic Reformer",
+    "confidence_score": 0.6416,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_STEAM_009",
+    "child_name": "Boiler-Room Hermit",
+    "resolved_parent_id": "ARCH_MENTOR_01",
+    "resolved_parent_name": "Wise Hermit",
+    "confidence_score": 0.6103,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_010",
+    "child_name": "Gunpowder Veteran",
+    "resolved_parent_id": "ARCH_MENTOR_06",
+    "resolved_parent_name": "Tough Drill Instructor",
+    "confidence_score": 0.4709,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_011",
+    "child_name": "Parlor-Room Tutor",
+    "resolved_parent_id": "ARCH_MENTOR_03",
+    "resolved_parent_name": "Nurturing Teacher",
+    "confidence_score": 0.5282,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_012",
+    "child_name": "Cog-and-Gospel Zealot",
+    "resolved_parent_id": "ARCH_MENTOR_04",
+    "resolved_parent_name": "Fanatical Zealot",
+    "confidence_score": 0.6489,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_STEAM_013",
+    "child_name": "Aether Theorem Mentor",
+    "resolved_parent_id": "ARCH_MENTOR_05",
+    "resolved_parent_name": "Detached Scholar-Mentor",
+    "confidence_score": 0.5755,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_014",
+    "child_name": "Iron Parade Drillmaster",
+    "resolved_parent_id": "ARCH_MENTOR_06",
+    "resolved_parent_name": "Tough Drill Instructor",
+    "confidence_score": 0.6291,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_STEAM_015",
+    "child_name": "Velvet-Glove Manipulator",
+    "resolved_parent_id": "ARCH_SHADOW_01",
+    "resolved_parent_name": "Cold Manipulator",
+    "confidence_score": 0.559,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_016",
+    "child_name": "Smokestack Outcast",
+    "resolved_parent_id": "ARCH_SHADOW_02",
+    "resolved_parent_name": "Vengeful Outcast",
+    "confidence_score": 0.4384,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_017",
+    "child_name": "Forged-Ledger Fixer",
+    "resolved_parent_id": "ARCH_SHADOW_03",
+    "resolved_parent_name": "Corrupt Bureaucrat",
+    "confidence_score": 0.6499,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_STEAM_018",
+    "child_name": "Carnival Gear Sadist",
+    "resolved_parent_id": "ARCH_SHADOW_04",
+    "resolved_parent_name": "Chaotic Sadist",
+    "confidence_score": 0.644,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_STEAM_019",
+    "child_name": "Revolutionary Firebrand",
+    "resolved_parent_id": "ARCH_SHADOW_05",
+    "resolved_parent_name": "Idealistic Extremist",
+    "confidence_score": 0.462,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_020",
+    "child_name": "Paranoid Telegrapher",
+    "resolved_parent_id": "ARCH_SHADOW_06",
+    "resolved_parent_name": "Paranoid Conspirator",
+    "confidence_score": 0.5885,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_021",
+    "child_name": "Robber Baron of Brass",
+    "resolved_parent_id": "ARCH_SHADOW_07",
+    "resolved_parent_name": "Exploitative Merchant",
+    "confidence_score": 0.4696,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_022",
+    "child_name": "Steam-Logic Technocrat",
+    "resolved_parent_id": "ARCH_SHADOW_08",
+    "resolved_parent_name": "Ice-Cold Technocrat",
+    "confidence_score": 0.7332,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_STEAM_023",
+    "child_name": "Goggle-Eyed Street Jester",
+    "resolved_parent_id": "ARCH_TRICKSTER_01",
+    "resolved_parent_name": "Playful Prankster",
+    "confidence_score": 0.6519,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_STEAM_024",
+    "child_name": "Airship Opportunist",
+    "resolved_parent_id": "ARCH_TRICKSTER_02",
+    "resolved_parent_name": "Rogue Opportunist",
+    "confidence_score": 0.4985,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_025",
+    "child_name": "Brass-Mask Courier Spy",
+    "resolved_parent_id": "ARCH_TRICKSTER_03",
+    "resolved_parent_name": "Mask-Wearing Spy",
+    "confidence_score": 0.7407,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_STEAM_026",
+    "child_name": "Music-Hall Cynic",
+    "resolved_parent_id": "ARCH_TRICKSTER_04",
+    "resolved_parent_name": "Cynical Jester",
+    "confidence_score": 0.4835,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_027",
+    "child_name": "Clockwork Dice Gambler",
+    "resolved_parent_id": "ARCH_TRICKSTER_05",
+    "resolved_parent_name": "Chaos Gambler",
+    "confidence_score": 0.7079,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_STEAM_028",
+    "child_name": "Broadsheet Satirist",
+    "resolved_parent_id": "ARCH_TRICKSTER_06",
+    "resolved_parent_name": "Subversive Satirist",
+    "confidence_score": 0.4975,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_029",
+    "child_name": "Coal-Dust Companion",
+    "resolved_parent_id": "ARCH_ALLY_01",
+    "resolved_parent_name": "Loyal Companion",
+    "confidence_score": 0.5769,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_030",
+    "child_name": "Aetherline Fixer",
+    "resolved_parent_id": "ARCH_ALLY_02",
+    "resolved_parent_name": "Practical Fixer",
+    "confidence_score": 0.5595,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_031",
+    "child_name": "Tea-Room Healer",
+    "resolved_parent_id": "ARCH_ALLY_03",
+    "resolved_parent_name": "Soft-Spoken Healer",
+    "confidence_score": 0.6866,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_STEAM_032",
+    "child_name": "Gaslamp Guide",
+    "resolved_parent_id": "ARCH_ALLY_04",
+    "resolved_parent_name": "Streetwise Guide",
+    "confidence_score": 0.598,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_033",
+    "child_name": "Market Arcade Trader",
+    "resolved_parent_id": "ARCH_ALLY_05",
+    "resolved_parent_name": "Canny Trader",
+    "confidence_score": 0.6081,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_034",
+    "child_name": "Union Hall Volunteer",
+    "resolved_parent_id": "ARCH_ALLY_06",
+    "resolved_parent_name": "Idealistic Volunteer",
+    "confidence_score": 0.53,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_035",
+    "child_name": "Brass-Plated Bodyguard",
+    "resolved_parent_id": "ARCH_GUARDIAN_01",
+    "resolved_parent_name": "Stoic Bodyguard",
+    "confidence_score": 0.7411,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_STEAM_036",
+    "child_name": "Foundry Matron Protector",
+    "resolved_parent_id": "ARCH_GUARDIAN_02",
+    "resolved_parent_name": "Parental Protector",
+    "confidence_score": 0.5952,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_037",
+    "child_name": "Constable of the Iron Ward",
+    "resolved_parent_id": "ARCH_GUARDIAN_03",
+    "resolved_parent_name": "Lawful Constable",
+    "confidence_score": 0.6168,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_038",
+    "child_name": "Border Rail Sentinel",
+    "resolved_parent_id": "ARCH_GUARDIAN_04",
+    "resolved_parent_name": "Territorial Sentinel",
+    "confidence_score": 0.6887,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_STEAM_039",
+    "child_name": "Sacrifice-Class Guardian",
+    "resolved_parent_id": "ARCH_GUARDIAN_05",
+    "resolved_parent_name": "Martyr Guardian",
+    "confidence_score": 0.7276,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_STEAM_040",
+    "child_name": "Customs Gatekeeper",
+    "resolved_parent_id": "ARCH_GUARDIAN_06",
+    "resolved_parent_name": "Guarded Gatekeeper",
+    "confidence_score": 0.5878,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_041",
+    "child_name": "Fog-Choked Survivor",
+    "resolved_parent_id": "ARCH_SURVIVOR_01",
+    "resolved_parent_name": "Timid Survivor",
+    "confidence_score": 0.6006,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_042",
+    "child_name": "Scrapyard Scavenger",
+    "resolved_parent_id": "ARCH_SURVIVOR_02",
+    "resolved_parent_name": "Hardened Scavenger",
+    "confidence_score": 0.6938,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_STEAM_043",
+    "child_name": "Steam-Field Farmer",
+    "resolved_parent_id": "ARCH_SURVIVOR_03",
+    "resolved_parent_name": "Stoic Farmer",
+    "confidence_score": 0.5798,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_044",
+    "child_name": "Refugee of the Broken Mills",
+    "resolved_parent_id": "ARCH_SURVIVOR_04",
+    "resolved_parent_name": "Opportunistic Refugee",
+    "confidence_score": 0.6684,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_STEAM_045",
+    "child_name": "Last Banner Machinist",
+    "resolved_parent_id": "ARCH_SURVIVOR_05",
+    "resolved_parent_name": "Last Loyalist",
+    "confidence_score": 0.5192,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_046",
+    "child_name": "Aether-Tube Researcher",
+    "resolved_parent_id": "ARCH_SCHOLAR_01",
+    "resolved_parent_name": "Curious Researcher",
+    "confidence_score": 0.4399,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_047",
+    "child_name": "Morality-Free Automaton Tinker",
+    "resolved_parent_id": "ARCH_SCHOLAR_02",
+    "resolved_parent_name": "Amoral Experimenter",
+    "confidence_score": 0.6216,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_STEAM_048",
+    "child_name": "Registry Vault Archivist",
+    "resolved_parent_id": "ARCH_SCHOLAR_03",
+    "resolved_parent_name": "Archivist Bureaucrat",
+    "confidence_score": 0.7407,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_STEAM_049",
+    "child_name": "Railway Ballad Singer",
+    "resolved_parent_id": "ARCH_SCHOLAR_04",
+    "resolved_parent_name": "Itinerant Storyteller",
+    "confidence_score": 0.5428,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_STEAM_050",
+    "child_name": "Pressure-Gauge Theorist",
+    "resolved_parent_id": "ARCH_SCHOLAR_05",
+    "resolved_parent_name": "Anxious Theorist",
+    "confidence_score": 0.6563,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_001",
+    "child_name": "Boardroom Commander",
+    "resolved_parent_id": "ARCH_LEADER_01",
+    "resolved_parent_name": "Visionary Commander",
+    "confidence_score": 0.6544,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_002",
+    "child_name": "Risk Model Strategist",
+    "resolved_parent_id": "ARCH_LEADER_02",
+    "resolved_parent_name": "Pragmatic Strategist",
+    "confidence_score": 0.682,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_003",
+    "child_name": "Media Populist",
+    "resolved_parent_id": "ARCH_LEADER_03",
+    "resolved_parent_name": "Charismatic Populist",
+    "confidence_score": 0.6591,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_004",
+    "child_name": "Security Force General",
+    "resolved_parent_id": "ARCH_LEADER_04",
+    "resolved_parent_name": "Authoritarian General",
+    "confidence_score": 0.6204,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_005",
+    "child_name": "Reluctant Whistleblower Leader",
+    "resolved_parent_id": "ARCH_LEADER_05",
+    "resolved_parent_name": "Reluctant Leader",
+    "confidence_score": 0.562,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_NOIR_006",
+    "child_name": "Compliance Bureaucrat",
+    "resolved_parent_id": "ARCH_LEADER_06",
+    "resolved_parent_name": "Corporate Bureaucrat",
+    "confidence_score": 0.6858,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_007",
+    "child_name": "Enforcer Warlord",
+    "resolved_parent_id": "ARCH_LEADER_07",
+    "resolved_parent_name": "Warlord Barbarian",
+    "confidence_score": 0.5756,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_NOIR_008",
+    "child_name": "Union-Facing Reformer",
+    "resolved_parent_id": "ARCH_LEADER_08",
+    "resolved_parent_name": "Civic Reformer",
+    "confidence_score": 0.7116,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_009",
+    "child_name": "Rooftop Hermit Consultant",
+    "resolved_parent_id": "ARCH_MENTOR_01",
+    "resolved_parent_name": "Wise Hermit",
+    "confidence_score": 0.5984,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_NOIR_010",
+    "child_name": "Burned Operations Veteran",
+    "resolved_parent_id": "ARCH_MENTOR_02",
+    "resolved_parent_name": "Cynical Veteran",
+    "confidence_score": 0.5792,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_NOIR_011",
+    "child_name": "Onboarding Mentor",
+    "resolved_parent_id": "ARCH_MENTOR_03",
+    "resolved_parent_name": "Nurturing Teacher",
+    "confidence_score": 0.4929,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_NOIR_012",
+    "child_name": "Brand Cult Zealot",
+    "resolved_parent_id": "ARCH_MENTOR_04",
+    "resolved_parent_name": "Fanatical Zealot",
+    "confidence_score": 0.6856,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_013",
+    "child_name": "Think Tank Mentor",
+    "resolved_parent_id": "ARCH_MENTOR_05",
+    "resolved_parent_name": "Detached Scholar-Mentor",
+    "confidence_score": 0.6677,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_014",
+    "child_name": "Drill-Sergeant Sales Trainer",
+    "resolved_parent_id": "ARCH_MENTOR_06",
+    "resolved_parent_name": "Tough Drill Instructor",
+    "confidence_score": 0.611,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_NOIR_015",
+    "child_name": "Shadow Board Manipulator",
+    "resolved_parent_id": "ARCH_SHADOW_01",
+    "resolved_parent_name": "Cold Manipulator",
+    "confidence_score": 0.5609,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_NOIR_016",
+    "child_name": "Exiled Insider",
+    "resolved_parent_id": "ARCH_SHADOW_02",
+    "resolved_parent_name": "Vengeful Outcast",
+    "confidence_score": 0.3669,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_NOIR_017",
+    "child_name": "Expense Sheet Crook",
+    "resolved_parent_id": "ARCH_SHADOW_03",
+    "resolved_parent_name": "Corrupt Bureaucrat",
+    "confidence_score": 0.6247,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_018",
+    "child_name": "Violent Club Enforcer",
+    "resolved_parent_id": "ARCH_SHADOW_03",
+    "resolved_parent_name": "Corrupt Bureaucrat",
+    "confidence_score": 0.4265,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_NOIR_019",
+    "child_name": "Doctrine-Driven Saboteur",
+    "resolved_parent_id": "ARCH_SHADOW_05",
+    "resolved_parent_name": "Idealistic Extremist",
+    "confidence_score": 0.5922,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_NOIR_020",
+    "child_name": "Conspiracy-Board Analyst",
+    "resolved_parent_id": "ARCH_SHADOW_06",
+    "resolved_parent_name": "Paranoid Conspirator",
+    "confidence_score": 0.6773,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_021",
+    "child_name": "Supply Chain Shark",
+    "resolved_parent_id": "ARCH_SHADOW_07",
+    "resolved_parent_name": "Exploitative Merchant",
+    "confidence_score": 0.6837,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_022",
+    "child_name": "Optimization Technocrat",
+    "resolved_parent_id": "ARCH_SHADOW_08",
+    "resolved_parent_name": "Ice-Cold Technocrat",
+    "confidence_score": 0.7696,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_023",
+    "child_name": "Loyal Driver",
+    "resolved_parent_id": "ARCH_ALLY_01",
+    "resolved_parent_name": "Loyal Companion",
+    "confidence_score": 0.6415,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_024",
+    "child_name": "Night-Shift IT Fixer",
+    "resolved_parent_id": "ARCH_ALLY_02",
+    "resolved_parent_name": "Practical Fixer",
+    "confidence_score": 0.6062,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_NOIR_025",
+    "child_name": "Office Floor Medic",
+    "resolved_parent_id": "ARCH_ALLY_03",
+    "resolved_parent_name": "Soft-Spoken Healer",
+    "confidence_score": 0.588,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_NOIR_026",
+    "child_name": "City Grid Guide",
+    "resolved_parent_id": "ARCH_ALLY_04",
+    "resolved_parent_name": "Streetwise Guide",
+    "confidence_score": 0.6179,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_NOIR_027",
+    "child_name": "Back-Alley Broker",
+    "resolved_parent_id": "ARCH_ALLY_05",
+    "resolved_parent_name": "Canny Trader",
+    "confidence_score": 0.6878,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_028",
+    "child_name": "Pro Bono Idealist",
+    "resolved_parent_id": "ARCH_ALLY_06",
+    "resolved_parent_name": "Idealistic Volunteer",
+    "confidence_score": 0.6661,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_029",
+    "child_name": "Silent Elevator Guard",
+    "resolved_parent_id": "ARCH_GUARDIAN_01",
+    "resolved_parent_name": "Stoic Bodyguard",
+    "confidence_score": 0.6164,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_NOIR_030",
+    "child_name": "Fierce Office Guardian",
+    "resolved_parent_id": "ARCH_GUARDIAN_02",
+    "resolved_parent_name": "Parental Protector",
+    "confidence_score": 0.6095,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_NOIR_031",
+    "child_name": "Badge-and-Trenchcoat Constable",
+    "resolved_parent_id": "ARCH_GUARDIAN_03",
+    "resolved_parent_name": "Lawful Constable",
+    "confidence_score": 0.6526,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_032",
+    "child_name": "Perimeter Sentinel",
+    "resolved_parent_id": "ARCH_GUARDIAN_04",
+    "resolved_parent_name": "Territorial Sentinel",
+    "confidence_score": 0.7105,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_033",
+    "child_name": "Fall-Guy Guardian",
+    "resolved_parent_id": "ARCH_GUARDIAN_05",
+    "resolved_parent_name": "Martyr Guardian",
+    "confidence_score": 0.7071,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_034",
+    "child_name": "Building Access Gatekeeper",
+    "resolved_parent_id": "ARCH_GUARDIAN_06",
+    "resolved_parent_name": "Guarded Gatekeeper",
+    "confidence_score": 0.713,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_035",
+    "child_name": "Skittish Data Survivor",
+    "resolved_parent_id": "ARCH_SURVIVOR_01",
+    "resolved_parent_name": "Timid Survivor",
+    "confidence_score": 0.5365,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_NOIR_036",
+    "child_name": "Dumpster Scavenger",
+    "resolved_parent_id": "ARCH_SURVIVOR_02",
+    "resolved_parent_name": "Hardened Scavenger",
+    "confidence_score": 0.6603,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_037",
+    "child_name": "Edge-of-Town Landholder",
+    "resolved_parent_id": "ARCH_SURVIVOR_03",
+    "resolved_parent_name": "Stoic Farmer",
+    "confidence_score": 0.6069,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_NOIR_038",
+    "child_name": "Relocated Refugee Employee",
+    "resolved_parent_id": "ARCH_SURVIVOR_04",
+    "resolved_parent_name": "Opportunistic Refugee",
+    "confidence_score": 0.6231,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_039",
+    "child_name": "Last Loyal Advisor",
+    "resolved_parent_id": "ARCH_SURVIVOR_05",
+    "resolved_parent_name": "Last Loyalist",
+    "confidence_score": 0.5578,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_NOIR_040",
+    "child_name": "Investigative Researcher",
+    "resolved_parent_id": "ARCH_SCHOLAR_01",
+    "resolved_parent_name": "Curious Researcher",
+    "confidence_score": 0.6749,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_041",
+    "child_name": "Human Trial Experimenter",
+    "resolved_parent_id": "ARCH_SCHOLAR_02",
+    "resolved_parent_name": "Amoral Experimenter",
+    "confidence_score": 0.6369,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_042",
+    "child_name": "Records Vault Archivist",
+    "resolved_parent_id": "ARCH_SCHOLAR_03",
+    "resolved_parent_name": "Archivist Bureaucrat",
+    "confidence_score": 0.7065,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_043",
+    "child_name": "Nomad Story Courier",
+    "resolved_parent_id": "ARCH_SCHOLAR_04",
+    "resolved_parent_name": "Itinerant Storyteller",
+    "confidence_score": 0.6641,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_044",
+    "child_name": "Collapse Theorist",
+    "resolved_parent_id": "ARCH_SCHOLAR_05",
+    "resolved_parent_name": "Anxious Theorist",
+    "confidence_score": 0.6418,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_045",
+    "child_name": "Raincoat Companion",
+    "resolved_parent_id": "ARCH_ALLY_01",
+    "resolved_parent_name": "Loyal Companion",
+    "confidence_score": 0.6128,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_NOIR_046",
+    "child_name": "Shadowline PI",
+    "resolved_parent_id": "ARCH_GUARDIAN_03",
+    "resolved_parent_name": "Lawful Constable",
+    "confidence_score": 0.6019,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_NOIR_047",
+    "child_name": "Gala-Hall Satirist",
+    "resolved_parent_id": "ARCH_TRICKSTER_06",
+    "resolved_parent_name": "Subversive Satirist",
+    "confidence_score": 0.4432,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_NOIR_048",
+    "child_name": "Mask-and-Heels Spy",
+    "resolved_parent_id": "ARCH_TRICKSTER_03",
+    "resolved_parent_name": "Mask-Wearing Spy",
+    "confidence_score": 0.733,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_049",
+    "child_name": "Backroom Negotiator",
+    "resolved_parent_id": "ARCH_ALLY_05",
+    "resolved_parent_name": "Canny Trader",
+    "confidence_score": 0.6323,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_NOIR_050",
+    "child_name": "Bleary-Eyed Volunteer",
+    "resolved_parent_id": "ARCH_ALLY_06",
+    "resolved_parent_name": "Idealistic Volunteer",
+    "confidence_score": 0.6362,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_BIO_001",
+    "child_name": "Helixborne Commander",
+    "resolved_parent_id": "ARCH_LEADER_01",
+    "resolved_parent_name": "Visionary Commander",
+    "confidence_score": 0.3873,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_002",
+    "child_name": "Genecode Tactician",
+    "resolved_parent_id": "ARCH_LEADER_02",
+    "resolved_parent_name": "Pragmatic Strategist",
+    "confidence_score": 0.4466,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_003",
+    "child_name": "Splice-Marked Populist",
+    "resolved_parent_id": "ARCH_LEADER_03",
+    "resolved_parent_name": "Charismatic Populist",
+    "confidence_score": 0.6261,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_BIO_004",
+    "child_name": "Vat-Forged General",
+    "resolved_parent_id": "ARCH_LEADER_04",
+    "resolved_parent_name": "Authoritarian General",
+    "confidence_score": 0.4309,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_005",
+    "child_name": "Reluctant Mutation Leader",
+    "resolved_parent_id": "ARCH_LEADER_05",
+    "resolved_parent_name": "Reluctant Leader",
+    "confidence_score": 0.5382,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_006",
+    "child_name": "Genome Registry Clerk",
+    "resolved_parent_id": "ARCH_LEADER_06",
+    "resolved_parent_name": "Corporate Bureaucrat",
+    "confidence_score": 0.3725,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_007",
+    "child_name": "Chitin-Fused Barbarian",
+    "resolved_parent_id": "ARCH_LEADER_07",
+    "resolved_parent_name": "Warlord Barbarian",
+    "confidence_score": 0.6893,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_BIO_008",
+    "child_name": "Gene Rights Reformer",
+    "resolved_parent_id": "ARCH_LEADER_08",
+    "resolved_parent_name": "Civic Reformer",
+    "confidence_score": 0.5498,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_009",
+    "child_name": "Wetware Hermit",
+    "resolved_parent_id": "ARCH_MENTOR_01",
+    "resolved_parent_name": "Wise Hermit",
+    "confidence_score": 0.5354,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_010",
+    "child_name": "Graft-Torn Veteran",
+    "resolved_parent_id": "ARCH_MENTOR_02",
+    "resolved_parent_name": "Cynical Veteran",
+    "confidence_score": 0.3776,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_011",
+    "child_name": "Clone-Batch Caretaker",
+    "resolved_parent_id": "ARCH_MENTOR_03",
+    "resolved_parent_name": "Nurturing Teacher",
+    "confidence_score": 0.4213,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_012",
+    "child_name": "Purist Zealot",
+    "resolved_parent_id": "ARCH_MENTOR_04",
+    "resolved_parent_name": "Fanatical Zealot",
+    "confidence_score": 0.6407,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_BIO_013",
+    "child_name": "Sterile Scholar",
+    "resolved_parent_id": "ARCH_MENTOR_05",
+    "resolved_parent_name": "Detached Scholar-Mentor",
+    "confidence_score": 0.6098,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_014",
+    "child_name": "Strain Drillmaster",
+    "resolved_parent_id": "ARCH_MENTOR_06",
+    "resolved_parent_name": "Tough Drill Instructor",
+    "confidence_score": 0.5474,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_015",
+    "child_name": "Gene-Broker Manipulator",
+    "resolved_parent_id": "ARCH_SHADOW_01",
+    "resolved_parent_name": "Cold Manipulator",
+    "confidence_score": 0.4422,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_016",
+    "child_name": "Defective Outcast",
+    "resolved_parent_id": "ARCH_SHADOW_02",
+    "resolved_parent_name": "Vengeful Outcast",
+    "confidence_score": 0.3771,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_017",
+    "child_name": "Genome Ledger Forger",
+    "resolved_parent_id": "ARCH_SHADOW_03",
+    "resolved_parent_name": "Corrupt Bureaucrat",
+    "confidence_score": 0.5541,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_018",
+    "child_name": "Mutagen Sadist",
+    "resolved_parent_id": "ARCH_SHADOW_04",
+    "resolved_parent_name": "Chaotic Sadist",
+    "confidence_score": 0.5711,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_019",
+    "child_name": "Eco-Splice Extremist",
+    "resolved_parent_id": "ARCH_SHADOW_05",
+    "resolved_parent_name": "Idealistic Extremist",
+    "confidence_score": 0.4758,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_020",
+    "child_name": "Bio-Signal Paranoid",
+    "resolved_parent_id": "ARCH_SHADOW_06",
+    "resolved_parent_name": "Paranoid Conspirator",
+    "confidence_score": 0.6299,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_BIO_021",
+    "child_name": "Organ-Baron Merchant",
+    "resolved_parent_id": "ARCH_SHADOW_07",
+    "resolved_parent_name": "Exploitative Merchant",
+    "confidence_score": 0.5047,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_022",
+    "child_name": "Genetic Systems Technocrat",
+    "resolved_parent_id": "ARCH_SHADOW_08",
+    "resolved_parent_name": "Ice-Cold Technocrat",
+    "confidence_score": 0.5823,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_023",
+    "child_name": "Bonded Graft Companion",
+    "resolved_parent_id": "ARCH_ALLY_01",
+    "resolved_parent_name": "Loyal Companion",
+    "confidence_score": 0.6777,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_BIO_024",
+    "child_name": "Bio-Patch Mechanic",
+    "resolved_parent_id": "ARCH_ALLY_02",
+    "resolved_parent_name": "Practical Fixer",
+    "confidence_score": 0.4185,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_025",
+    "child_name": "Serumfield Healer",
+    "resolved_parent_id": "ARCH_ALLY_03",
+    "resolved_parent_name": "Soft-Spoken Healer",
+    "confidence_score": 0.5374,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_026",
+    "child_name": "Sporepath Guide",
+    "resolved_parent_id": "ARCH_ALLY_04",
+    "resolved_parent_name": "Streetwise Guide",
+    "confidence_score": 0.4223,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_027",
+    "child_name": "Genome Bazaar Trader",
+    "resolved_parent_id": "ARCH_ALLY_05",
+    "resolved_parent_name": "Canny Trader",
+    "confidence_score": 0.5014,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_028",
+    "child_name": "Mutation Clinic Volunteer",
+    "resolved_parent_id": "ARCH_ALLY_06",
+    "resolved_parent_name": "Idealistic Volunteer",
+    "confidence_score": 0.363,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_029",
+    "child_name": "Carapace Guard",
+    "resolved_parent_id": "ARCH_GUARDIAN_01",
+    "resolved_parent_name": "Stoic Bodyguard",
+    "confidence_score": 0.6188,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_030",
+    "child_name": "Broodkeeper Guardian",
+    "resolved_parent_id": "ARCH_GUARDIAN_02",
+    "resolved_parent_name": "Parental Protector",
+    "confidence_score": 0.45,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_031",
+    "child_name": "Bio-Law Officer",
+    "resolved_parent_id": "ARCH_GUARDIAN_03",
+    "resolved_parent_name": "Lawful Constable",
+    "confidence_score": 0.3188,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_032",
+    "child_name": "Strain-Zone Sentinel",
+    "resolved_parent_id": "ARCH_GUARDIAN_04",
+    "resolved_parent_name": "Territorial Sentinel",
+    "confidence_score": 0.6116,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_033",
+    "child_name": "Failsafe Martyr",
+    "resolved_parent_id": "ARCH_GUARDIAN_05",
+    "resolved_parent_name": "Martyr Guardian",
+    "confidence_score": 0.5332,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_034",
+    "child_name": "Genelock Gatekeeper",
+    "resolved_parent_id": "ARCH_GUARDIAN_06",
+    "resolved_parent_name": "Guarded Gatekeeper",
+    "confidence_score": 0.5468,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_035",
+    "child_name": "Mutation-Shy Survivor",
+    "resolved_parent_id": "ARCH_SURVIVOR_01",
+    "resolved_parent_name": "Timid Survivor",
+    "confidence_score": 0.4818,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_036",
+    "child_name": "Bio-Scrap Forager",
+    "resolved_parent_id": "ARCH_SURVIVOR_02",
+    "resolved_parent_name": "Hardened Scavenger",
+    "confidence_score": 0.4756,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_037",
+    "child_name": "Sporefield Cultivator",
+    "resolved_parent_id": "ARCH_SURVIVOR_03",
+    "resolved_parent_name": "Stoic Farmer",
+    "confidence_score": 0.4217,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_038",
+    "child_name": "Clone-War Drifter",
+    "resolved_parent_id": "ARCH_SURVIVOR_04",
+    "resolved_parent_name": "Opportunistic Refugee",
+    "confidence_score": 0.5667,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_039",
+    "child_name": "Last Genome Keeper",
+    "resolved_parent_id": "ARCH_SURVIVOR_05",
+    "resolved_parent_name": "Last Loyalist",
+    "confidence_score": 0.4709,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_040",
+    "child_name": "Forbidden Sequence Researcher",
+    "resolved_parent_id": "ARCH_SCHOLAR_01",
+    "resolved_parent_name": "Curious Researcher",
+    "confidence_score": 0.4523,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_041",
+    "child_name": "Hybridization Surgeon",
+    "resolved_parent_id": "ARCH_SCHOLAR_02",
+    "resolved_parent_name": "Amoral Experimenter",
+    "confidence_score": 0.4675,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_042",
+    "child_name": "DNA Vault Archivist",
+    "resolved_parent_id": "ARCH_SCHOLAR_03",
+    "resolved_parent_name": "Archivist Bureaucrat",
+    "confidence_score": 0.5688,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_043",
+    "child_name": "Splice-Bard Wanderer",
+    "resolved_parent_id": "ARCH_SCHOLAR_04",
+    "resolved_parent_name": "Itinerant Storyteller",
+    "confidence_score": 0.5236,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_044",
+    "child_name": "Genetic Collapse Theorist",
+    "resolved_parent_id": "ARCH_SCHOLAR_05",
+    "resolved_parent_name": "Anxious Theorist",
+    "confidence_score": 0.5863,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_045",
+    "child_name": "Fluorescent Trickster",
+    "resolved_parent_id": "ARCH_TRICKSTER_01",
+    "resolved_parent_name": "Playful Prankster",
+    "confidence_score": 0.5978,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_046",
+    "child_name": "Gene-Smuggler Opportunist",
+    "resolved_parent_id": "ARCH_TRICKSTER_02",
+    "resolved_parent_name": "Rogue Opportunist",
+    "confidence_score": 0.3986,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_047",
+    "child_name": "Chimera-Mask Infiltrator",
+    "resolved_parent_id": "ARCH_TRICKSTER_03",
+    "resolved_parent_name": "Mask-Wearing Spy",
+    "confidence_score": 0.5419,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_048",
+    "child_name": "Toxin-Comedian",
+    "resolved_parent_id": "ARCH_TRICKSTER_04",
+    "resolved_parent_name": "Cynical Jester",
+    "confidence_score": 0.4995,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_049",
+    "child_name": "Gene-Satirist",
+    "resolved_parent_id": "ARCH_TRICKSTER_06",
+    "resolved_parent_name": "Subversive Satirist",
+    "confidence_score": 0.488,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_BIO_050",
+    "child_name": "Splice-Aid Volunteer",
+    "resolved_parent_id": "ARCH_ALLY_06",
+    "resolved_parent_name": "Idealistic Volunteer",
+    "confidence_score": 0.4761,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_001",
+    "child_name": "Dustborn Commander",
+    "resolved_parent_id": "ARCH_LEADER_01",
+    "resolved_parent_name": "Visionary Commander",
+    "confidence_score": 0.5953,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_002",
+    "child_name": "Trail-Chart Strategist",
+    "resolved_parent_id": "ARCH_LEADER_02",
+    "resolved_parent_name": "Pragmatic Strategist",
+    "confidence_score": 0.6385,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FRONTIER_003",
+    "child_name": "Sundown Populist",
+    "resolved_parent_id": "ARCH_LEADER_03",
+    "resolved_parent_name": "Charismatic Populist",
+    "confidence_score": 0.7015,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FRONTIER_004",
+    "child_name": "Marshal-General of the Dust Belt",
+    "resolved_parent_id": "ARCH_LEADER_04",
+    "resolved_parent_name": "Authoritarian General",
+    "confidence_score": 0.5383,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_005",
+    "child_name": "Reluctant Sheriff-Captain",
+    "resolved_parent_id": "ARCH_LEADER_05",
+    "resolved_parent_name": "Reluctant Leader",
+    "confidence_score": 0.4272,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_006",
+    "child_name": "Sector Registry Clerk",
+    "resolved_parent_id": "ARCH_LEADER_06",
+    "resolved_parent_name": "Corporate Bureaucrat",
+    "confidence_score": 0.5896,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_007",
+    "child_name": "Rust-Plains Warlord",
+    "resolved_parent_id": "ARCH_LEADER_07",
+    "resolved_parent_name": "Warlord Barbarian",
+    "confidence_score": 0.6143,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_008",
+    "child_name": "Rimworld Reformer",
+    "resolved_parent_id": "ARCH_LEADER_08",
+    "resolved_parent_name": "Civic Reformer",
+    "confidence_score": 0.634,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FRONTIER_009",
+    "child_name": "Canyon Hermit",
+    "resolved_parent_id": "ARCH_MENTOR_01",
+    "resolved_parent_name": "Wise Hermit",
+    "confidence_score": 0.6181,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_010",
+    "child_name": "Old War Veteran",
+    "resolved_parent_id": "ARCH_MENTOR_02",
+    "resolved_parent_name": "Cynical Veteran",
+    "confidence_score": 0.4181,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_011",
+    "child_name": "Frontier Schoolminder",
+    "resolved_parent_id": "ARCH_MENTOR_03",
+    "resolved_parent_name": "Nurturing Teacher",
+    "confidence_score": 0.5039,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_012",
+    "child_name": "Faith-Rider Zealot",
+    "resolved_parent_id": "ARCH_MENTOR_04",
+    "resolved_parent_name": "Fanatical Zealot",
+    "confidence_score": 0.6679,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FRONTIER_013",
+    "child_name": "Orbit-Tower Scholar",
+    "resolved_parent_id": "ARCH_MENTOR_05",
+    "resolved_parent_name": "Detached Scholar-Mentor",
+    "confidence_score": 0.5623,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_014",
+    "child_name": "Drill-Sergeant Wrangler",
+    "resolved_parent_id": "ARCH_MENTOR_06",
+    "resolved_parent_name": "Tough Drill Instructor",
+    "confidence_score": 0.606,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_015",
+    "child_name": "Backroom Manipulator",
+    "resolved_parent_id": "ARCH_SHADOW_01",
+    "resolved_parent_name": "Cold Manipulator",
+    "confidence_score": 0.4517,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_016",
+    "child_name": "Vengeance Drifter",
+    "resolved_parent_id": "ARCH_SHADOW_02",
+    "resolved_parent_name": "Vengeful Outcast",
+    "confidence_score": 0.4541,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_017",
+    "child_name": "Ration-Ledger Crook",
+    "resolved_parent_id": "ARCH_SHADOW_03",
+    "resolved_parent_name": "Corrupt Bureaucrat",
+    "confidence_score": 0.6335,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FRONTIER_018",
+    "child_name": "Saloon Sadist",
+    "resolved_parent_id": "ARCH_SHADOW_04",
+    "resolved_parent_name": "Chaotic Sadist",
+    "confidence_score": 0.5967,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_019",
+    "child_name": "Cause-Rider Extremist",
+    "resolved_parent_id": "ARCH_SHADOW_05",
+    "resolved_parent_name": "Idealistic Extremist",
+    "confidence_score": 0.6022,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_020",
+    "child_name": "Tin-Hat Conspiracy Prospector",
+    "resolved_parent_id": "ARCH_SHADOW_06",
+    "resolved_parent_name": "Paranoid Conspirator",
+    "confidence_score": 0.5669,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_021",
+    "child_name": "Water-Baron Trader",
+    "resolved_parent_id": "ARCH_SHADOW_07",
+    "resolved_parent_name": "Exploitative Merchant",
+    "confidence_score": 0.6451,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FRONTIER_022",
+    "child_name": "Terraforming Technocrat",
+    "resolved_parent_id": "ARCH_SHADOW_08",
+    "resolved_parent_name": "Ice-Cold Technocrat",
+    "confidence_score": 0.6734,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FRONTIER_023",
+    "child_name": "Dust-Stead Companion",
+    "resolved_parent_id": "ARCH_ALLY_01",
+    "resolved_parent_name": "Loyal Companion",
+    "confidence_score": 0.6254,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FRONTIER_024",
+    "child_name": "Railjack Fixer",
+    "resolved_parent_id": "ARCH_ALLY_02",
+    "resolved_parent_name": "Practical Fixer",
+    "confidence_score": 0.5542,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_025",
+    "child_name": "Stardust Healer",
+    "resolved_parent_id": "ARCH_ALLY_03",
+    "resolved_parent_name": "Soft-Spoken Healer",
+    "confidence_score": 0.6784,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FRONTIER_026",
+    "child_name": "Rimpath Guide",
+    "resolved_parent_id": "ARCH_ALLY_04",
+    "resolved_parent_name": "Streetwise Guide",
+    "confidence_score": 0.6079,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_027",
+    "child_name": "Backlot Trader",
+    "resolved_parent_id": "ARCH_ALLY_05",
+    "resolved_parent_name": "Canny Trader",
+    "confidence_score": 0.6137,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_028",
+    "child_name": "Homestead Helper",
+    "resolved_parent_id": "ARCH_ALLY_06",
+    "resolved_parent_name": "Idealistic Volunteer",
+    "confidence_score": 0.5932,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_029",
+    "child_name": "Ironback Bodyguard",
+    "resolved_parent_id": "ARCH_GUARDIAN_01",
+    "resolved_parent_name": "Stoic Bodyguard",
+    "confidence_score": 0.6828,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FRONTIER_030",
+    "child_name": "Homestead Defender",
+    "resolved_parent_id": "ARCH_GUARDIAN_02",
+    "resolved_parent_name": "Parental Protector",
+    "confidence_score": 0.5586,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_031",
+    "child_name": "Badgebound Constable",
+    "resolved_parent_id": "ARCH_GUARDIAN_03",
+    "resolved_parent_name": "Lawful Constable",
+    "confidence_score": 0.7114,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FRONTIER_032",
+    "child_name": "Territory Watch Sentinel",
+    "resolved_parent_id": "ARCH_GUARDIAN_04",
+    "resolved_parent_name": "Territorial Sentinel",
+    "confidence_score": 0.7161,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FRONTIER_033",
+    "child_name": "Sacrifice-Ridge Guardian",
+    "resolved_parent_id": "ARCH_GUARDIAN_05",
+    "resolved_parent_name": "Martyr Guardian",
+    "confidence_score": 0.7451,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FRONTIER_034",
+    "child_name": "Checkpoint Gatekeeper",
+    "resolved_parent_id": "ARCH_GUARDIAN_06",
+    "resolved_parent_name": "Guarded Gatekeeper",
+    "confidence_score": 0.7227,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FRONTIER_035",
+    "child_name": "Skittish Drifter",
+    "resolved_parent_id": "ARCH_SURVIVOR_01",
+    "resolved_parent_name": "Timid Survivor",
+    "confidence_score": 0.5908,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_036",
+    "child_name": "Scrap-Mine Scavenger",
+    "resolved_parent_id": "ARCH_SURVIVOR_02",
+    "resolved_parent_name": "Hardened Scavenger",
+    "confidence_score": 0.6989,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FRONTIER_037",
+    "child_name": "Red Soil Farmer",
+    "resolved_parent_id": "ARCH_SURVIVOR_03",
+    "resolved_parent_name": "Stoic Farmer",
+    "confidence_score": 0.6297,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FRONTIER_038",
+    "child_name": "Outpost Refugee",
+    "resolved_parent_id": "ARCH_SURVIVOR_04",
+    "resolved_parent_name": "Opportunistic Refugee",
+    "confidence_score": 0.74,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FRONTIER_039",
+    "child_name": "Last Banner Rider",
+    "resolved_parent_id": "ARCH_SURVIVOR_05",
+    "resolved_parent_name": "Last Loyalist",
+    "confidence_score": 0.6093,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_040",
+    "child_name": "Canyon Archive Researcher",
+    "resolved_parent_id": "ARCH_SCHOLAR_01",
+    "resolved_parent_name": "Curious Researcher",
+    "confidence_score": 0.5393,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_041",
+    "child_name": "Amoral Gene Rancher",
+    "resolved_parent_id": "ARCH_SCHOLAR_02",
+    "resolved_parent_name": "Amoral Experimenter",
+    "confidence_score": 0.4426,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_042",
+    "child_name": "Ledger-Vault Archivist",
+    "resolved_parent_id": "ARCH_SCHOLAR_03",
+    "resolved_parent_name": "Archivist Bureaucrat",
+    "confidence_score": 0.698,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FRONTIER_043",
+    "child_name": "Drift-Trail Bard",
+    "resolved_parent_id": "ARCH_SCHOLAR_04",
+    "resolved_parent_name": "Itinerant Storyteller",
+    "confidence_score": 0.4895,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_044",
+    "child_name": "Dustfall Theorist",
+    "resolved_parent_id": "ARCH_SCHOLAR_05",
+    "resolved_parent_name": "Anxious Theorist",
+    "confidence_score": 0.5679,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_045",
+    "child_name": "Prankster Ranchhand",
+    "resolved_parent_id": "ARCH_TRICKSTER_01",
+    "resolved_parent_name": "Playful Prankster",
+    "confidence_score": 0.6063,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_046",
+    "child_name": "Dust Rogue Opportunist",
+    "resolved_parent_id": "ARCH_TRICKSTER_02",
+    "resolved_parent_name": "Rogue Opportunist",
+    "confidence_score": 0.5189,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_047",
+    "child_name": "Mask of the Rim",
+    "resolved_parent_id": "ARCH_TRICKSTER_03",
+    "resolved_parent_name": "Mask-Wearing Spy",
+    "confidence_score": 0.7638,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_FRONTIER_048",
+    "child_name": "Sour Saloon Jester",
+    "resolved_parent_id": "ARCH_TRICKSTER_04",
+    "resolved_parent_name": "Cynical Jester",
+    "confidence_score": 0.6144,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_049",
+    "child_name": "Rail-Riot Satirist",
+    "resolved_parent_id": "ARCH_TRICKSTER_06",
+    "resolved_parent_name": "Subversive Satirist",
+    "confidence_score": 0.4409,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_FRONTIER_050",
+    "child_name": "Frontier-Aid Volunteer",
+    "resolved_parent_id": "ARCH_ALLY_06",
+    "resolved_parent_name": "Idealistic Volunteer",
+    "confidence_score": 0.5497,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_MYTH_001",
+    "child_name": "Sun-Path Commander",
+    "resolved_parent_id": "ARCH_LEADER_01",
+    "resolved_parent_name": "Visionary Commander",
+    "confidence_score": 0.6461,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_002",
+    "child_name": "Stone-Map Strategist",
+    "resolved_parent_id": "ARCH_LEADER_02",
+    "resolved_parent_name": "Pragmatic Strategist",
+    "confidence_score": 0.5931,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_MYTH_003",
+    "child_name": "Oath-Fire Populist",
+    "resolved_parent_id": "ARCH_LEADER_03",
+    "resolved_parent_name": "Charismatic Populist",
+    "confidence_score": 0.6134,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_MYTH_004",
+    "child_name": "Iron-Age Warchief",
+    "resolved_parent_id": "ARCH_LEADER_04",
+    "resolved_parent_name": "Authoritarian General",
+    "confidence_score": 0.6227,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_005",
+    "child_name": "Reluctant Chosen One",
+    "resolved_parent_id": "ARCH_LEADER_05",
+    "resolved_parent_name": "Reluctant Leader",
+    "confidence_score": 0.5829,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_MYTH_006",
+    "child_name": "Ceremony-Keeper Scribe",
+    "resolved_parent_id": "ARCH_LEADER_06",
+    "resolved_parent_name": "Corporate Bureaucrat",
+    "confidence_score": 0.5024,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_MYTH_007",
+    "child_name": "Beast-Lord Barbarian",
+    "resolved_parent_id": "ARCH_LEADER_07",
+    "resolved_parent_name": "Warlord Barbarian",
+    "confidence_score": 0.7445,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_008",
+    "child_name": "Covenant Reformer",
+    "resolved_parent_id": "ARCH_LEADER_08",
+    "resolved_parent_name": "Civic Reformer",
+    "confidence_score": 0.6185,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_MYTH_009",
+    "child_name": "Ridge Hermit Seer",
+    "resolved_parent_id": "ARCH_MENTOR_01",
+    "resolved_parent_name": "Wise Hermit",
+    "confidence_score": 0.5814,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_MYTH_010",
+    "child_name": "Old-Bone Warrior",
+    "resolved_parent_id": "ARCH_MENTOR_06",
+    "resolved_parent_name": "Tough Drill Instructor",
+    "confidence_score": 0.4846,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_MYTH_011",
+    "child_name": "Fable-Teacher",
+    "resolved_parent_id": "ARCH_MENTOR_03",
+    "resolved_parent_name": "Nurturing Teacher",
+    "confidence_score": 0.6455,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_012",
+    "child_name": "Flame-Chanter Zealot",
+    "resolved_parent_id": "ARCH_MENTOR_04",
+    "resolved_parent_name": "Fanatical Zealot",
+    "confidence_score": 0.6348,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_013",
+    "child_name": "Sky-Scroll Scholar",
+    "resolved_parent_id": "ARCH_MENTOR_05",
+    "resolved_parent_name": "Detached Scholar-Mentor",
+    "confidence_score": 0.6278,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_014",
+    "child_name": "War-Rite Instructor",
+    "resolved_parent_id": "ARCH_MENTOR_06",
+    "resolved_parent_name": "Tough Drill Instructor",
+    "confidence_score": 0.7394,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_015",
+    "child_name": "Shadow-Circle Manipulator",
+    "resolved_parent_id": "ARCH_SHADOW_01",
+    "resolved_parent_name": "Cold Manipulator",
+    "confidence_score": 0.4861,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_MYTH_016",
+    "child_name": "Oathbreak Exile",
+    "resolved_parent_id": "ARCH_SHADOW_02",
+    "resolved_parent_name": "Vengeful Outcast",
+    "confidence_score": 0.5412,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_MYTH_017",
+    "child_name": "Scroll-Fraud Scribe",
+    "resolved_parent_id": "ARCH_SHADOW_03",
+    "resolved_parent_name": "Corrupt Bureaucrat",
+    "confidence_score": 0.5634,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_MYTH_018",
+    "child_name": "Blood-Mask Sadist",
+    "resolved_parent_id": "ARCH_SHADOW_04",
+    "resolved_parent_name": "Chaotic Sadist",
+    "confidence_score": 0.5389,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_MYTH_019",
+    "child_name": "Purity Extremist",
+    "resolved_parent_id": "ARCH_MENTOR_04",
+    "resolved_parent_name": "Fanatical Zealot",
+    "confidence_score": 0.7002,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_020",
+    "child_name": "Sky-Sign Conspirator",
+    "resolved_parent_id": "ARCH_SHADOW_06",
+    "resolved_parent_name": "Paranoid Conspirator",
+    "confidence_score": 0.6128,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_MYTH_021",
+    "child_name": "Barter-Beast Merchant",
+    "resolved_parent_id": "ARCH_SHADOW_07",
+    "resolved_parent_name": "Exploitative Merchant",
+    "confidence_score": 0.6846,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_022",
+    "child_name": "Stone-Law Technocrat",
+    "resolved_parent_id": "ARCH_SHADOW_08",
+    "resolved_parent_name": "Ice-Cold Technocrat",
+    "confidence_score": 0.6647,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_023",
+    "child_name": "Hearth-Guard Companion",
+    "resolved_parent_id": "ARCH_ALLY_01",
+    "resolved_parent_name": "Loyal Companion",
+    "confidence_score": 0.6414,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_024",
+    "child_name": "Firepit Fixer",
+    "resolved_parent_id": "ARCH_ALLY_02",
+    "resolved_parent_name": "Practical Fixer",
+    "confidence_score": 0.5611,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_MYTH_025",
+    "child_name": "Herb-Loom Healer",
+    "resolved_parent_id": "ARCH_ALLY_03",
+    "resolved_parent_name": "Soft-Spoken Healer",
+    "confidence_score": 0.6967,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_026",
+    "child_name": "Path-Kin Guide",
+    "resolved_parent_id": "ARCH_ALLY_04",
+    "resolved_parent_name": "Streetwise Guide",
+    "confidence_score": 0.5726,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_MYTH_027",
+    "child_name": "Blessed Market Trader",
+    "resolved_parent_id": "ARCH_ALLY_05",
+    "resolved_parent_name": "Canny Trader",
+    "confidence_score": 0.5892,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_MYTH_028",
+    "child_name": "Village Helper",
+    "resolved_parent_id": "ARCH_ALLY_06",
+    "resolved_parent_name": "Idealistic Volunteer",
+    "confidence_score": 0.5883,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_MYTH_029",
+    "child_name": "Shield-Oath Guardian",
+    "resolved_parent_id": "ARCH_GUARDIAN_01",
+    "resolved_parent_name": "Stoic Bodyguard",
+    "confidence_score": 0.7275,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_030",
+    "child_name": "Earth-Bond Protector",
+    "resolved_parent_id": "ARCH_GUARDIAN_02",
+    "resolved_parent_name": "Parental Protector",
+    "confidence_score": 0.6101,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_MYTH_031",
+    "child_name": "Law-Spear Constable",
+    "resolved_parent_id": "ARCH_GUARDIAN_03",
+    "resolved_parent_name": "Lawful Constable",
+    "confidence_score": 0.659,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_032",
+    "child_name": "Territory Rock Sentinel",
+    "resolved_parent_id": "ARCH_GUARDIAN_04",
+    "resolved_parent_name": "Territorial Sentinel",
+    "confidence_score": 0.6876,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_033",
+    "child_name": "Sacrifice-Path Guardian",
+    "resolved_parent_id": "ARCH_GUARDIAN_05",
+    "resolved_parent_name": "Martyr Guardian",
+    "confidence_score": 0.7853,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_034",
+    "child_name": "Stone-Gate Warden",
+    "resolved_parent_id": "ARCH_GUARDIAN_06",
+    "resolved_parent_name": "Guarded Gatekeeper",
+    "confidence_score": 0.6224,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_035",
+    "child_name": "Hollow-Tree Survivor",
+    "resolved_parent_id": "ARCH_SURVIVOR_01",
+    "resolved_parent_name": "Timid Survivor",
+    "confidence_score": 0.6684,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_036",
+    "child_name": "Bonepile Scavenger",
+    "resolved_parent_id": "ARCH_SURVIVOR_02",
+    "resolved_parent_name": "Hardened Scavenger",
+    "confidence_score": 0.6883,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_037",
+    "child_name": "Riverbank Farmer",
+    "resolved_parent_id": "ARCH_SURVIVOR_03",
+    "resolved_parent_name": "Stoic Farmer",
+    "confidence_score": 0.6824,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_038",
+    "child_name": "Storm-Fleeing Refugee",
+    "resolved_parent_id": "ARCH_SURVIVOR_04",
+    "resolved_parent_name": "Opportunistic Refugee",
+    "confidence_score": 0.6946,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_039",
+    "child_name": "Last Torchbearer",
+    "resolved_parent_id": "ARCH_SURVIVOR_05",
+    "resolved_parent_name": "Last Loyalist",
+    "confidence_score": 0.6409,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_040",
+    "child_name": "Glyph-Seeking Researcher",
+    "resolved_parent_id": "ARCH_SCHOLAR_01",
+    "resolved_parent_name": "Curious Researcher",
+    "confidence_score": 0.5152,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_MYTH_041",
+    "child_name": "Bone-Shaper Experimenter",
+    "resolved_parent_id": "ARCH_SCHOLAR_02",
+    "resolved_parent_name": "Amoral Experimenter",
+    "confidence_score": 0.6214,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_042",
+    "child_name": "Tablet Vault Archivist",
+    "resolved_parent_id": "ARCH_SCHOLAR_03",
+    "resolved_parent_name": "Archivist Bureaucrat",
+    "confidence_score": 0.5815,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_MYTH_043",
+    "child_name": "Campfire Taleweaver",
+    "resolved_parent_id": "ARCH_SCHOLAR_04",
+    "resolved_parent_name": "Itinerant Storyteller",
+    "confidence_score": 0.617,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_MYTH_044",
+    "child_name": "Omen-Worrier Theorist",
+    "resolved_parent_id": "ARCH_SCHOLAR_05",
+    "resolved_parent_name": "Anxious Theorist",
+    "confidence_score": 0.6036,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_MYTH_045",
+    "child_name": "Ember-Trickster",
+    "resolved_parent_id": "ARCH_TRICKSTER_01",
+    "resolved_parent_name": "Playful Prankster",
+    "confidence_score": 0.5503,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_MYTH_046",
+    "child_name": "Beast-Bandit Opportunist",
+    "resolved_parent_id": "ARCH_TRICKSTER_02",
+    "resolved_parent_name": "Rogue Opportunist",
+    "confidence_score": 0.5375,
+    "review_needed": true
+  },
+  {
+    "child_id": "TR_MYTH_047",
+    "child_name": "Mask-of-the-Spirits Spy",
+    "resolved_parent_id": "ARCH_TRICKSTER_03",
+    "resolved_parent_name": "Mask-Wearing Spy",
+    "confidence_score": 0.7971,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_048",
+    "child_name": "Cave-Mirth Jester",
+    "resolved_parent_id": "ARCH_TRICKSTER_04",
+    "resolved_parent_name": "Cynical Jester",
+    "confidence_score": 0.6368,
+    "review_needed": false
+  },
+  {
+    "child_id": "TR_MYTH_049",
+    "child_name": "Totem Satirist",
+    "resolved_parent_id": "ARCH_TRICKSTER_06",
+    "resolved_parent_name": "Subversive Satirist",
+    "confidence_score": 0.5067,
+    "review_needed": true
+  }
+]
